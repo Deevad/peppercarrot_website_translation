@@ -28,7 +28,7 @@ To translate the website pages, just duplicate the en.php file and rename it to 
 
 2. The first part ``` 'FOLLOW' ```  is the unique ID , do not translate it. 
 
-3. The arrow ``` => ``` links the previous field with the next one ( note, you can add any amount of <spacebar> between the fields.
+3. The arrow ``` => ``` links the previous field with the next one ( note, you can add any amount of spacebar characters between the fields ( eg. if you want to align all ``` => ``` in your file ).
 
 4. Last field is ```'Follow Pepper&amp;Carrot on :'``` use HTML encapsuled inside ```'``` symbols. It's the content to translate. If you need a special character like the one ```&```, use the charset ```&amp;``` , and if you need to use ```'``` , you'll need to escape it with a backslash ```\'``` . Exept that, the website is encoded in UTF8 , so pretty tolerant to all euro-latino-accents, and other unicode compatible langage.
 
