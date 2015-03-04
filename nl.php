@@ -88,7 +88,8 @@ $LANG = array(
     <h2>Open-bron en vrij beschikbaar</h2>
     
     <p>Ik wil mensen het recht geven om mijn werk te delen en gebruiken, en zelfs om er geld aan te verdienen.<br/>
-    Alle pagina\'s, tekeningen en andere inhoud zijn gemaakt met vrije open-bron-software op GNU/Linux, en alle bronbestanden staan op deze website (het &#39;Bronnen&#39;-menu).<br/>
+    Alle pagina\'s, tekeningen en andere inhoud zijn gemaakt met vrije open-bron-software op GNU/Linux,<br/>
+    en alle bronbestanden staan op deze website (het &#39;Bronnen&#39;-menu).<br/>
     Ik moedig commercieel gebruik, vertalingen, fanart, prints, films, videospellen, delen en reposts aan.<br/>
     Je hoeft alleen maar mij - David Revoy - als auteur te vermelden.</p>
     
@@ -111,15 +112,18 @@ $LANG = array(
     <h2>Laten we de stripboeken-industrie veranderen!</h2>
     
     <p>Met minder tussenstappen tussen het publiek en de tekenaar betaal jij minder en verdien ik meer. Je ondersteunt me direct.<br/>
-    Geen enkele uitgever/distributeur/marketingafdeling/trend kan me dwingen om Pepper&amp;Carrot aan te passen om te passen bij hun visie op wat &#39;de markt&#39; wil.<br/>
+    Geen enkele uitgever/distributeur/marketingafdeling/trend kan me dwingen om Pepper&amp;Carrot<br/>
+    aan te passen om te passen bij hun visie op wat &#39;de markt&#39; wil.<br/>
     Een enkel succes kan als een &#39;sneeuwbal&#39; de hele industrie veranderen. Laten we het proberen!</p>
     
         <img alt="afbeelding: de stripboeken-industrie versus ondersteuning door patrons" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
 
     <h2>Waarom heeft Pepper&amp;Carrot geld nodig?</h2>
     
-    <p>Om Pepper&amp;Carrot fulltime te tekenen, en een dak boven mijn hoofd te hebben, heb ik $900,- per aflevering nodig, uitgaande van twee afleveringen per maand.<br/>
-    Die $900,- is geen magisch getal: ik heb dat berekend op basis van het Franse minimumloon, rekening houdend met de belasting die een onafhankelijke artiest moet betalen.<br/>
+    <p>Om Pepper&amp;Carrot fulltime te tekenen, en een dak boven mijn hoofd te hebben, heb ik $900,- <br/>
+     per aflevering nodig, uitgaande van twee afleveringen per maand.<br/>
+    Die $900,- is geen magisch getal: ik heb dat berekend op basis van het Franse minimumloon,<br/>
+   rekening houdend met de belasting die een onafhankelijke artiest moet betalen.<br/>
     Met minder dan $900,- moet ik freelance-werk blijven doen (trage Pepper&amp;Carrot-productie, minder dan één aflevering per maand).<br/>
     Met meer dan $900,- kan ik Pepper&amp;Carrot fulltime gaan tekenen (snelle Pepper&amp;Carrot-productie, twee afleveringen per maand).</p>
     
