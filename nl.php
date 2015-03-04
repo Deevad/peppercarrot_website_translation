@@ -197,7 +197,7 @@ $LANG = array(
 ',
 'SOURCES_BOTTOM'	    => '
     <p>Door deze bestanden te downloaden en ermee te werken, ga je ermee akkoord de termen van de<br/>
-    <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Naamsvermelding license</a> te respecteren.
+    <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Naamsvermelding-licentie</a> te respecteren.
     Bekijk de README-bestanden in ieder project voor meer informatie.</p>
   
     <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Code-repository\'s voor vertalingen, scripts, de website, tekeningen, enzovoorts:</b><br/></p>
