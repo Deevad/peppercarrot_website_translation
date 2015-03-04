@@ -48,7 +48,7 @@ $LANG = array(
 'WEBCOMIC_EPISODE'		    =>  'Webcomic-afleveringen',
 'WEBCOMIC_MAKINGOF'		    =>  'Achter de schermen',
 'WEBCOMIC_MAKINGOF_DESCRIPTION' =>  '
-    <p>De achter-de-schermen-pagina\'s en de <a href="http://www.davidrevoy.com/static4/tutorials">teken-tutorials</a> zijn een speciale bonus, gesponsord door mijn <a href="https://www.patreon.com/davidrevoy">Patreons &#39;helden&#39;</a></p>
+    <p>De achter-de-schermen-pagina\'s en de <a href="http://www.davidrevoy.com/static4/tutorials">teken-tutorials</a> zijn een speciale bonus, gesponsord door mijn <a href="https://www.patreon.com/davidrevoy">Patreon-&#39;helden&#39;</a></p>
 ',
 'WEBCOMIC_ARTWORK'		    =>  'Galerij',
 'WEBCOMIC_SKETCHES'		    =>  'Schetsen',
@@ -57,7 +57,7 @@ $LANG = array(
 # Page : Blog
 # when content are not English ( no need to warn user the content is english only here ) :
 #'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Content available in english only ',
-'LIMITATIONS' 		=> '<i class="fa fa-info-circle"></i> Pagina alleen beschikbaar in het Engels',
+'LIMITATIONS' 		=> '<i class="fa fa-info-circle"></i> Dit is alleen beschikbaar in het Engels',
 
 ################################################################################
 # Page : Philosophy
@@ -105,7 +105,7 @@ $LANG = array(
     
     <p>Pepper&amp;Carrot is een comedy/humor-webcomic voor iedereen, van iedere leeftijd.<br/>
     Geen inhoud voor volwassenen, geen geweld. Pepper&amp;Carrot is, als vrij beschikbare strip, een trots voorbeeld van hoe mooi vrije cultuur kan zijn.<br/>
-    Ik focus op kwaliteit, want vrij en open-bron betekent niet dat iets slecht of amateuristisch is. Andersom, juist.</p>
+    Ik focus op kwaliteit, want vrij en open-bron betekent niet dat iets slecht of amateuristisch is. Integendeel!</p>
 
         <img alt="" src="data/images/static/2015-02-09_philosophy_05-everyone.jpg">
 
@@ -113,17 +113,17 @@ $LANG = array(
     
     <p>Met minder tussenstappen tussen het publiek en de tekenaar betaal jij minder en verdien ik meer. Je ondersteunt me direct.<br/>
     Geen enkele uitgever/distributeur/marketingafdeling/trend kan me dwingen om Pepper&amp;Carrot<br/>
-    aan te passen om te passen bij hun visie op wat &#39;de markt&#39; wil.<br/>
+    aan te passen om aan te sluiten bij hun visie op wat &#39;de markt&#39; wil.<br/>
     Een enkel succes kan als een &#39;sneeuwbal&#39; de hele industrie veranderen. Laten we het proberen!</p>
     
         <img alt="afbeelding: de stripboeken-industrie versus ondersteuning door patrons" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
 
     <h2>Waarom heeft Pepper&amp;Carrot geld nodig?</h2>
     
-    <p>Om Pepper&amp;Carrot fulltime te tekenen, en een dak boven mijn hoofd te hebben, heb ik $900,- <br/>
-     per aflevering nodig, uitgaande van twee afleveringen per maand.<br/>
-    Die $900,- is geen magisch getal: ik heb dat berekend op basis van het Franse minimumloon,<br/>
-   rekening houdend met de belasting die een onafhankelijke artiest moet betalen.<br/>
+    <p>Om Pepper&amp;Carrot fulltime te tekenen, en een dak boven mijn hoofd te hebben, heb ik $900,-<br/>
+    per aflevering nodig, uitgaande van twee afleveringen per maand.<br/>
+    Die $900,- is geen magisch getal: ik heb het berekend op basis van het Franse minimumloon,<br/>
+    rekening houdend met de belasting die een onafhankelijke artiest moet betalen.<br/>
     Met minder dan $900,- moet ik freelance-werk blijven doen (trage Pepper&amp;Carrot-productie, minder dan één aflevering per maand).<br/>
     Met meer dan $900,- kan ik Pepper&amp;Carrot fulltime gaan tekenen (snelle Pepper&amp;Carrot-productie, twee afleveringen per maand).</p>
     
@@ -135,7 +135,7 @@ $LANG = array(
         
     <img alt="" src="data/images/static/2015-02-09_philosophy_02-money-meter.jpg"> 
     
-    <p>Bedankt voor het lezen! <br/>
+    <p>Bedankt voor het lezen!<br/>
     -David Revoy</p>
  
  ',
@@ -197,7 +197,7 @@ $LANG = array(
 ',
 'SOURCES_BOTTOM'	    => '
     <p>Door deze bestanden te downloaden en ermee te werken, ga je ermee akkoord de termen van de<br/>
-    <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution license</a> te respecteren.
+    <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Naamsvermelding license</a> te respecteren.
     Bekijk de README-bestanden in ieder project voor meer informatie.</p>
   
     <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Code-repository\'s voor vertalingen, scripts, de website, tekeningen, enzovoorts:</b><br/></p>
@@ -213,7 +213,7 @@ $LANG = array(
 # Page : Author
 'AUTHOR_TITLE'		=> 'Over David Revoy',
 'AUTHOR_BIO'	    => '
-    <p>Hoi, mijn naam is David Revoy en ik ben een Franse kunstenaar geboren in 1981. Ik heb mezelf tekenen geleerd en ik heb een passie voor tekenen, schilderen, katten, computers, de GNU/Linux-open-bron-cultuur, het internet, ouderwetse RPG-spelletjes, oude manga en anime, traditionele kunst, Japanse cultuur, fantasy...<br />
+    <p>Hoi, mijn naam is David Revoy en ik ben een Franse kunstenaar geboren in 1981. Ik heb mezelf leren tekenen, en ik heb een passie voor schilderen, tekenen, katten, computers, de GNU/Linux-open-bron-cultuur, het internet, ouderwetse RPG-spelletjes, oude manga en anime, traditionele kunst, Japanse cultuur, fantasy...<br />
     <br />
     Na meer dan 10 jaar freelancen in digitaal tekenen, onderwijzen, concept-art, illustratie en regie, heb ik besloten mijn eigen project te beginen. Ik heb eindelijk een manier gevonden om mijn passies met elkaar te combineren; het resultaat is Pepper&amp;Carrot.</p>
     
@@ -225,12 +225,12 @@ $LANG = array(
     <p>
     ☐ Een praatje geven op een Japanse stripconferentie over Pepper&amp;Carrot<br/>
     ☐ Een Pepper&amp;Carrot videospel spelen met een gamepad<br/>
-    ☐ Een galerij van honderd fanarts bereiken<br/>
+    ☐ Een galerij met honderd fanarts bereiken<br/>
     ☐ Een Wikipedia-pagina krijgen<br/>
-    ☐ Een foto ontvangen van een cosplay van Pepper<br/>
-    ☐ Een foto ontvangen van een rode kat met de naam Carrot<br/>
+    ☐ Een foto toegestuurd krijgen van een cosplay van Pepper<br/>
+    ☐ Een foto toegestuurd krijgen van een rode kat met de naam Carrot<br/>
     ☐ Ondersteund worden door 500 patreons<br/>
-    ☐ Honderd afleveringen bereiken<br/>
+    ☐ De honderdste aflevering bereiken<br/>
     </p>
 ',
 
