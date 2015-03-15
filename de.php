@@ -3,14 +3,14 @@
 $LANG = array(
 
 # Global
-'TRANSLATED_BY' 		    => 'translation credit : <a href="https://www.davidrevoy.com">David Revoy</a>',
+'TRANSLATED_BY' 		    => 'Übersetzung : <a href="https://github.com/torpak">Torpak</a>',
 'LANGUAGE_NAME' 			=> 'Deutsch',
 'LANGUAGE_ISO_CODE_2_LETTER'=> 'de',
 # http://www.w3schools.com/tags/ref_language_codes.asp --> full list
 
 ################################################################################
 # Header HTML infos for search engine and title in tab:
-'PEPPERCARROT_VEGETABLE'    =>  '', // litteral translation of spices + vegetable
+'PEPPERCARROT_VEGETABLE'    =>  'Paprika und Möhre', // litteral translation of spices + vegetable
 'Website_DESCRIPTION'        =>  'Offizielle homepage of Pepper&amp;Carrot, einem free/libre und open-source Webcomic &uuml;ber Pepper, eine junge Hexe und ihre Katze, Carrot. Sie leben in einem Fantasieuniversum voller Tr&auml;nke, Magie und Kreaturen.',
 'SUBTITLE'                  =>  'Das freie Webcomic von David Revoy',
 
@@ -57,7 +57,7 @@ $LANG = array(
 # Page : Blog
 # when content are not English ( no need to warn user the content is english only here ) :
 #'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Content available in english only ',
-'LIMITATIONS' 		=> '',
+'LIMITATIONS' 		=> '<i class="fa fa-info-circle"></i> Inhalt nur in Englisch verfügbar',
 
 ################################################################################
 # Page : Philosophy
@@ -88,8 +88,8 @@ $LANG = array(
     <h2>Open-source und permissiv</h2>
     
     <p>Ich m&ouml;chte den Leuten das recht geben, das was ich produziert habe zu verwenden, zu erweitern und sogar Geld damit zu verdienen.<br/>    
-    Alle Seiten, Kunstwerke und Inhalte wurden mit Freier/Libre- Open-Source Software unter GNU/Linux erstellt und alle Quellen sind auf dieser Webseite, &#39;Quellen&#39;
-    Men&uuml;.<br/>
+    Alle Seiten, Kunstwerke und Inhalte wurden mit Freier/Libre- Open-Source Software unter GNU/Linux <br/>
+    erstellt und alle Quellen sind auf dieser Webseite, &#39;Quellen&#39; Men&uuml;.<br/>
     Komerzielle Verwendung, &Uuml;bersetzungen, Fan-Art, Drucke, Filme, Videospiele, Verteilen und Verbreiten sind erw&uuml;nscht.<br/>
     Ihr m&uuml;sst nur meinen Namen - David Revoy - als Author kenntlich machen.</p>
     
@@ -120,8 +120,10 @@ $LANG = array(
 
     <h2>Warum braucht Pepper&amp;Carrot Geld ?</h2>
     
-    <p>Um Vollzeit Pepper&amp;Carrot zeichnen zu k&ouml;nnen und dabei Essen und ein Dach &uuml;ber dem Kopf zu behalten, brauche ich 900$ pro Episode und zwei Episoden pro Monat.<br/>
-    Diese 900$ Zahl habe ich nicht aus dem Hut gezogen: Ich habe sie berechnet, indem ich mit Franz&ouml;sischen Mindestlohn anfing und die Abgaben hinzuf&uuml;gte, die ich als freier K&uuml;nstler bezahlen muss.<br/>
+    <p>Um Vollzeit Pepper&amp;Carrot zeichnen zu k&ouml;nnen und dabei Essen und ein Dach &uuml;ber dem Kopf zu behalten,<br/>
+	 brauche ich 900$ pro Episode und zwei Episoden pro Monat.<br/>
+    Diese 900$ Zahl habe ich nicht aus dem Hut gezogen: Ich habe sie berechnet,<br/>
+	 indem ich mit Franz&ouml;sischen Mindestlohn anfing und die Abgaben hinzuf&uuml;gte, die ich als freier K&uuml;nstler bezahlen muss.<br/>
     Unter 900$ muss ich weiterhin Auftragsarbeiten annehmen ( langsame Pepper&amp;Carrot Produktion, weniger als eine Episode pro Monat ).<br/>
     &Uuml;ber 900$ kann ich Vollzeit Pepper&amp;Carrot zeichnen ( schnelle Pepper&amp;Carrot Produktion, 2 Episoden pro Monat ).</p>
     
