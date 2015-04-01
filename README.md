@@ -16,6 +16,8 @@ License
 
 * English    : David Revoy
 
+* Português  : Frederico Batista
+
 
 How-to :
 ========
