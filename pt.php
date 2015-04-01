@@ -3,6 +3,7 @@
 $LANG = array(
 
 # Global
+'TRANSLATED_BY' 		    => 'translation credit : <a href="https://github.com/fredfb">Fredfb</a>',
 'LANGUAGE_NAME' 			=> 'Português',
 'LANGUAGE_ISO_CODE_2_LETTER'=> 'pt',
 # http://www.w3schools.com/tags/ref_language_codes.asp --> full list
@@ -11,6 +12,7 @@ $LANG = array(
 # Header HTML infos for search engine and title in tab:
 'PEPPERCARROT_VEGETABLE'    =>  '', // litteral translation of spices + vegetable
 'Website_DESCRIPTION'        =>  'Página oficial de Pepper&amp;Carrot, um HQ grátis/livre e open-source sobre Pepper, uma jovem bruxa e seu gato, Carrot. Eles vivem em um universo fantástico com poções, magia e criaturas mágicas.',
+'SUBTITLE'                  =>  'the Open Webcomic by David Revoy',
 
 ################################################################################
 # Top menu website:
@@ -54,8 +56,7 @@ $LANG = array(
 ################################################################################
 # Page : Blog
 # when content are not English ( no need to warn user the content is english only here ) :
-#'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Content available in english only ',
-'LIMITATIONS' 		=> '',
+'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Content available in english only ',
 
 ################################################################################
 # Page : Philosophy
