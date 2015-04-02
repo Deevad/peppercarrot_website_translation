@@ -117,8 +117,7 @@ $LANG = array(
 
     <h2>Porque Pepper&amp;Carrot precisa de dinheiro?</h2>
     
-    <p>Para desenhar Pepper&amp;Carrot em tempo integral and me manter alimentado e com um teto na minha cabeça, eu preciso de $900 dólares por episódio e dois episódios por mês.<br/>
-    Essa não é uma quantia aleatória: Eu fiz as contas começando com o salário mínimo francês, e acrescentei os impostos que pago por ser um artista independente.<br/>
+    <p>Para desenhar Pepper&amp;Carrot em tempo integral and me manter alimentado e com um teto na minha cabeça, eu preciso de $900 dólares por episódio e dois episódios por mês. Essa não é uma quantia aleatória: Eu fiz as contas começando com o salário mínimo francês, e acrescentei os impostos que pago por ser um artista independente.<br/>
     Menos que $900, eu preciso continuar fazendo serviços freelance (produção mais lenta de Pepper&amp;Carrot, menos de 1 episódio por mês).<br/>
     Mais que $900, eu posso desenhar Pepper&amp;Carrot em tempo integral (produção rápida de Pepper&amp;Carrot, 2 episódios por mês).</p>
     
