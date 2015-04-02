@@ -12,7 +12,7 @@ $LANG = array(
 # Header HTML infos for search engine and title in tab:
 'PEPPERCARROT_VEGETABLE'    =>  '', // litteral translation of spices + vegetable
 'Website_DESCRIPTION'        =>  'Página oficial de Pepper&amp;Carrot, um HQ grátis/livre e open-source sobre Pepper, uma jovem bruxa e seu gato, Carrot. Eles vivem em um universo fantástico com poções, magia e criaturas mágicas.',
-
+'SUBTITLE'                  =>  'A HQ livre por David Revoy',
 ################################################################################
 # Top menu website:
 'HOMEPAGE'      =>  'Início',
@@ -26,8 +26,8 @@ $LANG = array(
 
 ################################################################################
 # Top and bottom translation panel
-'ADD_TRANSLATION'       => 'acrescente uma tradução',
-'CORRECTIONS' 			=> 'proponha uma correção',
+'ADD_TRANSLATION'       => 'Acrescente uma tradução',
+'CORRECTIONS' 			=> 'Proponha uma correção',
 
 ################################################################################
 # Page : Homepage
@@ -68,8 +68,8 @@ $LANG = array(
     Graças a esse sistema, Pepper&amp;Carrot pode ser independentes e nunca usar propagandas ou poluição de marketing.</p>
     
     <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Com apenas $1 USD a cada novo episódio, seja um patrono de Pepper&amp;Carrot">
-            Com apenas $1 USD a cada novo episódio, seja um patrono no Patreon hoje mesmo
+        <a href="https://www.patreon.com/davidrevoy" title="Seja um patrono de Pepper&amp;Carrot contribuindo a partir de $1 USD a cada novo episódio">
+            Com apenas $1 USD a cada novo episódio, você pode ser um patrono no Patreon hoje mesmo
         </a>
     </div>
     
@@ -123,7 +123,7 @@ $LANG = array(
     Mais que $900, eu posso desenhar Pepper&amp;Carrot em tempo integral (produção rápida de Pepper&amp;Carrot, 2 episódios por mês).</p>
     
     <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Com apenas $1 USD a cada novo episódio, seja um patrono de Pepper&amp;Carrot">
+        <a href="https://www.patreon.com/davidrevoy" title="Seja um patrono de Pepper&amp;Carrot contribuindo a partir de $1 USD a cada novo episódio">
             Me ajude a aumentar a produção de Pepper&amp;Carrot hoje mesmo
         </a> 
     </div>
