@@ -56,7 +56,7 @@ $LANG = array(
 ################################################################################
 # Page : Blog
 # when content are not English ( no need to warn user the content is english only here ) :
-'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Content available in english only ',
+'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Este conteudo está disponível apenas em inglês',
 
 ################################################################################
 # Page : Philosophy
@@ -68,8 +68,8 @@ $LANG = array(
     Graças a esse sistema, Pepper&amp;Carrot pode ser independentes e nunca usar propagandas ou poluição de marketing.</p>
     
     <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Por apenas 1$ USD por cada novo episódio, se torne um patrono de Pepper&amp;Carrot">
-            Por apenas 1$ USD por cada novo episódio, se torne um patrono no Patreon hoje mesmo
+        <a href="https://www.patreon.com/davidrevoy" title="Com apenas $1 USD a cada novo episódio, seja um patrono de Pepper&amp;Carrot">
+            Com apenas $1 USD a cada novo episódio, seja um patrono no Patreon hoje mesmo
         </a>
     </div>
     
