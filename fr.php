@@ -55,7 +55,7 @@ $LANG = array(
 
 ################################################################################
 # Page : Blog
-# An empty one in English ( no need to warn user the content is english only here ) :
+# An empty one in English (no need to warn user the content is english only here) :
 'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Contenu disponible en anglais uniquement',
 
 ################################################################################
@@ -87,7 +87,7 @@ $LANG = array(
     <h2>Open-source et très permissif</h2>
     
     <p>Je veux donner aux autres le droit, celui d\'utiliser, de changer et même de commercialiser leurs projets utilisant Pepper&amp;Carrot.<br/>
-    Toutes pages, dessins et autres contenus ont été fabriqués avec des logiciels libres (Gnu/Linux), et toutes les sources sont sur ce site ( menu  \'Sources\' ).<br/>
+    Toutes pages, dessins et autres contenus ont été fabriqués avec des logiciels libres (Gnu/Linux), et toutes les sources sont sur ce site (menu  \'Sources\').<br/>
     L\'utilisation commerciale, les traductions, les fan-arts, l\'impression, les films, les jeux-vidéos et le re-partage sur le net sont encouragés.<br/>
     Je vous demande seulement de me citer en retour comme étant l\'auteur original.</p>
     
@@ -101,7 +101,7 @@ $LANG = array(
 
     <h2>Un divertissement de qualité, partout et pour tous</h2>
     
-    <p>Pepper&amp;Carrot est un webcomic ( une BD sur Internet ) humoristique convenant pour tous les ages.<br/>
+    <p>Pepper&amp;Carrot est un webcomic (une BD sur Internet) humoristique convenant pour tous les ages.<br/>
     Aucune scène de violence, ni de sexualité ne sera publiée ici. Gratuit et open-source, Pepper&amp;Carrot se veux être un exemple responsable de médias libres.<br/>
     L\' accent est mis sur la qualité, l\'éthique et le professionalisme, parce que "libre et open-source" ne signifie pas "au rabais ou à l\'arrache". Au contraire.</p>
 
@@ -111,7 +111,7 @@ $LANG = array(
     
     <p>Avec moins d\'intermédiaires entre lecteurs et auteurs, tout le monde y gagne; vous me financez directement.<br/>
     Aucun éditeur, distributeur ou commercial ne peut exercer des changements sur Pepper&amp;Carrot afin de le faire rentrer dans une case du \'marché\'.<br/>
-    ... Et pourquoi Pepper&amp;Carrot ne pourrait t\'il pas amorcer un changement et ainsi inspirer une industrie en crise? Essayons!</p>
+    ... Et pourquoi Pepper&amp;Carrot ne pourrait t\'il pas amorcer un changement et ainsi inspirer une industrie en crise ? Essayons !</p>
     
         <img alt="illustration: l\'industrie de la BD VS financement par mécénat" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
 
@@ -119,8 +119,8 @@ $LANG = array(
     
     <p>Pour dessiner Pepper&amp;Carrot à plein temps (tout en gardant un toit et de quoi manger), j\'ai besoin de 900$ (780€) par episode et de deux épisodes par mois.<br/>
     900$ n\'est pas un chiffre magique: j\'ai fais les maths en partant du SMIC, en ajoutant les taxes que je paie pour éxercer en indépendant en France.<br/>
-    Au dessous de 900$: je garde mes commandes freelance ( production lente de Pepper&amp;Carrot, moins d\'un episode par mois ).<br/>
-    Au dessus de 900$: je peux faire du Pepper&amp;Carrot à plein temps ( production \'rapide\' de Pepper&amp;Carrot, deux épisodes par mois maximum ).</p>
+    Au dessous de 900$: je garde mes commandes freelance (production lente de Pepper&amp;Carrot, moins d\'un episode par mois).<br/>
+    Au dessus de 900$: je peux faire du Pepper&amp;Carrot à plein temps (production \'rapide\' de Pepper&amp;Carrot, deux épisodes par mois maximum).</p>
     
     <div class="philobutton">
         <a href="https://www.patreon.com/davidrevoy" title="Pour seulement 1$ par nouvel épisode, devenez mécéne aujourdh\'ui sur Patreon">
@@ -147,17 +147,17 @@ $LANG = array(
     <p>Vous trouverez tous les informations sur le financement de Pepper&amp;Carrot dans la page 
     <a href="?static2/philosophy" title="Philosophie">Philosophie</a>.<br/>
     Même avec une connaissance basique de l\'anglais, il est possible <a href="https://www.patreon.com/davidrevoy">d\'ouvrir un compte sur Patreon</a> et mécéner Pepper&amp;Carrot.<br/>
-    Patreon accèpte les Cartes Bleus, Visa et Paypal, etc...<br/><br/>
+    Patreon accèpte les Cartes Bleus, Visa et Paypal, etc.<br/><br/>
     J\'accèpte également les donations directes via PayPal ou Flattr :</p>
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Fan-art:</h2>
     <p> Pepper&amp;Carrot est ouvert aux fan-arts: dessins, scénarios, sculptures, 3D, fan-fictions... et vous pouvez me les envoyer car j\'adore ça :
-    <br/> ( <a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a> , ou notifiez-en moi sur un reseau social )</p>
+    <br/> (<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a> , ou notifiez-en moi sur un reseau social)</p>
 ',
 'CONTRIBUTE_DERIVATIONS' => '
     <h2> Adaptations:</h2>
-    <p>Pepper&amp;Carrot peut-être décliné en beaucoups de produits ou de projets ( même commerciaux ) , et pourquoi pas le votre ?<br/>
+    <p>Pepper&amp;Carrot peut-être décliné en beaucoups de produits ou de projets (même commerciaux) , et pourquoi pas le votre ?<br/>
     Voici une gallerie de projets existants autour de l\'univers de la série.
     </p>
 ',
@@ -165,7 +165,7 @@ $LANG = array(
 'CONTRIBUTE_BOTTOM'	    => '
     <h2>Traductions et corrections:</h2>
     
-    <p> Le site internet de Pepper&amp;Carrot est conçu pour accepter toutes les langues ( même fictives et éteintes ). Les sources de cette page sont à votre disposition pour la correction et la traduction. Visitez le <a href="index.php?fr/article267/translation-tutorial">tutoriel</a> pour plus d\'informations sur l\'ajout d\'une nouvelle traduction ou la proposition d\'une amélioration.</p>
+    <p> Le site internet de Pepper&amp;Carrot est conçu pour accepter toutes les langues (même fictives et éteintes). Les sources de cette page sont à votre disposition pour la correction et la traduction. Visitez le <a href="index.php?fr/article267/translation-tutorial">tutoriel</a> pour plus d\'informations sur l\'ajout d\'une nouvelle traduction ou la proposition d\'une amélioration.</p>
             
     <h2>Reseaux sociaux et presse:</h2> 
     
@@ -177,13 +177,13 @@ $LANG = array(
         <b>Programmateurs :</b>  Créations d\'applications utilisant les graphisme de Pepper&amp;Carrot.<br />
         <b>Musiciens :</b>  Créations de thèmes musicaux pour la série Pepper&amp;Carrot.<br />
         <b>Ecrivains : </b>  Propositions de roman, ou nouveau scénario pour Pepper&amp;Carrot.<br />
-        <b>Journalistes: </b> Informations à propos du projet Pepper&amp;Carrot dans les médias traditionnels ( presse écrite, télévision, etc... )<br />
+        <b>Journalistes: </b> Informations à propos du projet Pepper&amp;Carrot dans les médias traditionnels (presse écrite, télévision, etc.)<br />
         <b>Imprimeurs :</b> Impressions des posters ou des petits objets sur le thème de Pepper&amp;Carrot.<br />
     </p> 
             
     <h2> Canal de discussion:</h2>
     
-    <p> Un canal de discussion IRC (* Internet Chat Relay ) existe en anglais sur le serveur Freenode, nommé #pepper&carrot. Ce canal est à votre disposition pour discuter au sujet de Pepper&amp;Carrot. J\'y suis connecté fréquement (pseudo: deevad). Le lien ci-dessous fonctionnera dans votre navigateur internet sans besoin d\'installer quoi que ce soit.<br/> 
+    <p> Un canal de discussion IRC (* Internet Chat Relay) existe en anglais sur le serveur Freenode, nommé #pepper&carrot. Ce canal est à votre disposition pour discuter au sujet de Pepper&amp;Carrot. J\'y suis connecté fréquement (pseudo: deevad). Le lien ci-dessous fonctionnera dans votre navigateur internet sans besoin d\'installer quoi que ce soit.<br/> 
 ',
 
 ################################################################################
@@ -235,7 +235,7 @@ $LANG = array(
 ',
 
 'AUTHOR_CARREER_TITLE'				    => 'mon parcours en 7 bulles :',
-'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS'    => '<p>( Schéma en anglais, non traduit )</p>',
+'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS'    => '<p>(Schéma en anglais, non traduit)</p>',
 
 ################################################################################
 # Website General : Footer
