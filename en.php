@@ -3,7 +3,7 @@
 $LANG = array(
 
 # Global
-'TRANSLATED_BY' 		    => 'translation credit : <a href="https://www.davidrevoy.com">David Revoy</a>',
+'TRANSLATED_BY' 		    => 'translation credit: <a href="https://www.davidrevoy.com">David Revoy</a>',
 'LANGUAGE_NAME' 			=> 'English',
 'LANGUAGE_ISO_CODE_2_LETTER'=> 'en',
 # http://www.w3schools.com/tags/ref_language_codes.asp --> full list
@@ -23,7 +23,7 @@ $LANG = array(
 'CONTRIBUTE'    =>  'Contribute',
 'SOURCES'       =>  'Sources',
 'AUTHOR'        =>  'Author',
-'FOLLOW'        =>  'Follow Pepper&amp;Carrot on :',
+'FOLLOW'        =>  'Follow Pepper&amp;Carrot on:',
 
 ################################################################################
 # Top and bottom translation panel
@@ -31,11 +31,11 @@ $LANG = array(
 'CORRECTIONS' 			=> 'propose a correction',
 
 ################################################################################
-# Page : Homepage
+# Page: Homepage
 'HOMEPAGE_BIG_TEXT'		    =>  '
     a free, libre and open-source webcomic<br/>
     supported directly by its patrons<br/>
-    to change the comic book industry !<br/>
+    to change the comic book industry!<br/>
 ',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'More information',
 'HOMEPAGE_LAST_EPISODE'     =>  'Latest episode:',
@@ -44,7 +44,7 @@ $LANG = array(
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'More posts',
 
 ################################################################################
-# Page : Webcomics
+# Page: Webcomics
 'WEBCOMIC_EPISODE'		    =>  'Webcomic episodes',
 'WEBCOMIC_MAKINGOF'		    =>  'Making-of',
 'WEBCOMIC_MAKINGOF_DESCRIPTION' =>  '
@@ -54,13 +54,13 @@ $LANG = array(
 'WEBCOMIC_SKETCHES'		    =>  'Sketches',
 
 ################################################################################
-# Page : Blog
-# when content are not English ( no need to warn user the content is english only here ) :
+# Page: Blog
+# when content are not English (no need to warn user the content is english only here):
 #'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Content available in english only ',
 'LIMITATIONS' 		=> '',
 
 ################################################################################
-# Page : Philosophy
+# Page: Philosophy
 'PHILOSOPHY_CONTENT'    =>  '
  <h2>Supported by patrons</h2>
     
@@ -80,7 +80,7 @@ $LANG = array(
     <h2>100% free, forever, no paywall</h2>
     
     <p>Every contents I produce about Pepper&amp;Carrot are on this website, free and available for everyone.<br/>
-    I respect all of you equally : with or without money. All special bonus I do for my patrons are also posted here.<br/>
+    I respect all of you equally: with or without money. All special bonus I do for my patrons are also posted here.<br/>
     Pepper&amp;Carrot will never ask you to pay something or get a subscription to get access to a new content.</p>
     
         <img alt="illustration representing paywall" src="data/images/static/2015-02-09_philosophy_03-paywall.jpg">
@@ -94,7 +94,7 @@ $LANG = array(
     
     <div class="philobutton">
         <a href="https://creativecommons.org/licenses/by/3.0/" title="For more information, read the Creative Commons Attribution">
-            License : Creative Commons Attribution
+            License: Creative Commons Attribution
         </a>
     </div>
 
@@ -108,20 +108,20 @@ $LANG = array(
 
         <img alt="" src="data/images/static/2015-02-09_philosophy_05-everyone.jpg">
 
-    <h2>Let&#39;s change comic industry !</h2>
+    <h2>Let&#39;s change comic industry!</h2>
     
     <p>With less intermediary between audience and artist you pay less and I benefit more. You support me directly.<br/>
     No publisher/distributor/marketing/fashion can force me to change Pepper&amp;Carrot to fit their vision of &#39;the market&#39;.<br/>
-    ... Why not a single success couldn&#39;t &#39;snowball&#39; a whole industry in crisis ? Let&#39;s try it !</p>
+    &nbsp;.&nbsp;.&nbsp;.&nbsp;Why not a single success couldn&#39;t &#39;snowball&#39; a whole industry in crisis? Let&#39;s try it!</p>
     
         <img alt="illustration: comic book industry VS patreon support" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
 
-    <h2>Why Pepper&amp;Carrot needs money ?</h2>
+    <h2>Why Pepper&amp;Carrot needs money?</h2>
     
     <p>To draw Pepper&amp;Carrot fulltime and keep food and roof, I need 900$ per episode and two episodes per month.<br/>
-    This 900$ number is not a magic number : I made the math starting with the minimal french salary, and added the tax I pay to be an independent artist.<br/>
-    Under 900$, I must keep doing freelance works ( slow Pepper&amp;Carrot production, less than 1 episode per month ).<br/>
-    Over 900$, I can draw fulltime Pepper&amp;Carrot ( fast Pepper&amp;Carrot production, 2 episodes per month ).</p>
+    This 900$ number is not a magic number: I made the math starting with the minimal french salary, and added the tax I pay to be an independent artist.<br/>
+    Under 900$, I must keep doing freelance works (slow Pepper&amp;Carrot production, less than 1 episode per month).<br/>
+    Over 900$, I can draw fulltime Pepper&amp;Carrot (fast Pepper&amp;Carrot production, 2 episodes per month).</p>
     
     <div class="philobutton">
         <a href="https://www.patreon.com/davidrevoy" title="For only 1$ per new episode, become a patreon of Pepper&amp;Carrot">
@@ -131,72 +131,72 @@ $LANG = array(
         
     <img alt="" src="data/images/static/2015-02-09_philosophy_02-money-meter.jpg"> 
     
-    <p>Thank you for reading ! <br/>
+    <p>Thank you for reading! <br/>
     -David Revoy</p>
  
  ',
  
 ################################################################################
-# Page : Contribute 
+# Page: Contribute 
 'CONTRIBUTE_TITLE'		=> 'Contribute',
 'CONTRIBUTE_TOP'		=> '
     <p>Thanks to the <a href="?static6/sources" title="Sources page">open sources</a> and the <a href="http://creativecommons.org/licenses/by/3.0/">
-    creative commons license</a> you can contribute to Pepper&amp;Carrot in many ways :</p>
+    creative commons license</a> you can contribute to Pepper&amp;Carrot in many ways:</p>
             
     <h2>Patronage, donations</h2> 
     
     <p>I detail in the <a href="?static2/philosophy" title="open the Sources page">Philosophy page</a> almost everything concerning funding.<br/>
     It&#39;s easy to become the patron of Pepper&amp;Carrot for only 1$ per new episode <a href="https://www.patreon.com/davidrevoy">on Patreon</a>.<br/>
     Patreon accept credit cards from all around the world, and you can even pay with a Paypal account on Patreon.<br/>
-            I also accept direct donation via PayPal or Flattr :</p>
+            I also accept direct donation via PayPal or Flattr:</p>
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Fan-art</h2>
-    <p> Pepper&amp;Carrot is open to fan-arts: Drawing, scenarios, scupltures, 3D models, fan-fiction. Send them to me ( <a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a> , or poke me on social networks ) to appear on the fan-art gallery:</p>
+    <p> Pepper&amp;Carrot is open to fan-arts: Drawing, scenarios, scupltures, 3D models, fan-fiction. Send them to me (<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a> , or poke me on social networks) to appear on the fan-art gallery:</p>
 ',
 'CONTRIBUTE_DERIVATIONS' => '
-    <h2> Derivations :</h2>
-    <p>Pepper&amp;Carrot can be adapted to many project or products, why not do your own or join an existing one ?</p>
+    <h2> Derivations:</h2>
+    <p>Pepper&amp;Carrot can be adapted to many project or products, why not do your own or join an existing one?</p>
 ',
 
 'CONTRIBUTE_BOTTOM'	    => '
     <h2>Translations and corrections:</h2>
     
-    <p> Pepper&amp;Carrot website is designed to be multilingual and accept any language ( including extinct ones, or fictive ones). The sources of this page are at your disposal to translate them. Check the <a href="index.php?fr/article267/translation-tutorial">reference tutorial</a> for more informations on how to add your translation.</p>
+    <p> Pepper&amp;Carrot website is designed to be multilingual and accept any language (including extinct ones, or fictive ones). The sources of this page are at your disposal to translate them. Check the <a href="index.php?fr/article267/translation-tutorial">reference tutorial</a> for more informations on how to add your translation.</p>
             
     <h2>Press, Social networks</h2> 
     
-    <p>Be the publisher of Pepper&amp;Carrot ! Write articles, create post on website, share and build a community on your favorite social networks. You can download the <a href="?static6/sources" title="Sources page">press kit</a> on the "source" page.</p>  
+    <p>Be the publisher of Pepper&amp;Carrot! Write articles, create post on website, share and build a community on your favorite social networks. You can download the <a href="?static6/sources" title="Sources page">press kit</a> on the "source" page.</p>  
     
-    <h2> Other contributions ideas ...</h2>
+    <h2> Other contributions ideas&nbsp;.&nbsp;.&nbsp;.&nbsp;</h2>
     
-    <p> Everyone can contribute in different ways : <br/>
-        <b>Developers :</b>  Creation of an application to read Pepper&amp;Carrot on mobile device.<br />
-        <b>Musician :</b>  create music themes for Pepper&amp;Carrot.<br />
-        <b>Writer : </b>  propose new Pepper&amp;Carrot scenario.<br />
-        <b>Journalist: </b> Inform about Pepper&amp;Carrot in traditionnal media ( printed press, tv, etc... )<br />
+    <p> Everyone can contribute in different ways: <br/>
+        <b>Developers:</b>  Creation of an application to read Pepper&amp;Carrot on mobile device.<br />
+        <b>Musician:</b>  create music themes for Pepper&amp;Carrot.<br />
+        <b>Writer: </b>  propose new Pepper&amp;Carrot scenario.<br />
+        <b>Journalist: </b> Inform about Pepper&amp;Carrot in traditionnal media (printed press, tv, etc.)<br />
         <b>Printer:</b> Print posters or goodies with Pepper&amp;Carrot on it.<br />
     </p> 
             
     <h2> IRC channel:</h2>
     
-    <p> Chat and discuss about Pepper&amp;Carrot. I&#39;ll be around at european day time ( nickname:deevad ) <br/> 
+    <p> Chat and discuss about Pepper&amp;Carrot. I&#39;ll be around at european day time (nickname:deevad) <br/> 
 ',
 
 ################################################################################
-# Page : Sources
+# Page: Sources
 'SOURCES_TITLE'		    => 'Sources',
 'SOURCES_TOP'	        => '
-    <p><b>Welcome to the sources download center !</b><br/>
+    <p><b>Welcome to the sources download center!</b><br/>
     You&#39;ll find here the sources files of Pepper&amp;Carrot and more.<br/>
     All digital-painting files here are compatible with the latest version of <a href="https://krita.org/">Krita</a>.</p>
 ',
 'SOURCES_BOTTOM'	    => '
     <p>By downloading and working with those files you agree to respect the terms of the <br/>
     <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution license</a>.
-    Check the README files in each project for more infos .</p>
+    Check the README files in each project for more infos.</p>
   
-    <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Code repositories for translations, script, website, graphism...etc... :</b><br/></p>
+    <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Code repositories for translations, script, website, graphism,etc.:</b><br/></p>
 ',
 'SOURCE_COVER'   =>  'Covers images',
 'SOURCE_KRITA'   =>  'Krita sources files',
@@ -206,17 +206,17 @@ $LANG = array(
 'SOURCE_MONTAGE'   =>  'Montage <span class="sourceinfos"> All panels in a single page </span>',
 
 ################################################################################
-# Page : Author
+# Page: Author
 'AUTHOR_TITLE'		=> 'About David Revoy',
 'AUTHOR_BIO'	    => '
-    <p>Hi, my name is David Revoy and I&#39;m a french artist born in 1981. I&#39;m self-taught and passionate about drawing, painting, cats, computers, Gnu/Linux open-source culture, Internet, old school RPG video-games, old mangas and anime, traditionnal art, japanese culture, fantasy...<br />
+    <p>Hi, my name is David Revoy and I&#39;m a french artist born in 1981. I&#39;m self-taught and passionate about drawing, painting, cats, computers, Gnu/Linux open-source culture, Internet, old school RPG video-games, old mangas and anime, traditionnal art, japanese culture, fantasy&nbsp;.&nbsp;.&nbsp;.&nbsp;<br />
     <br />
-    After more than 10 years of Freelance in digital-painting, teaching, concept-art, illustration, art-direction, I decided to start my own project. I finally found a way to mix all my passions together ; and the result is Pepper&amp;Carrot.</p>
+    After more than 10 years of Freelance in digital-painting, teaching, concept-art, illustration, art-direction, I decided to start my own project. I finally found a way to mix all my passions together; and the result is Pepper&amp;Carrot.</p>
     
-    <p>my portfolio :</p>
+    <p>my portfolio:</p>
 ',
 'AUTHOR_TODO_DREAM'	=> '
-    <h3>Dream TO-DO list :</h3>
+    <h3>Dream TO-DO list:</h3>
 
     <p>
     ☐ Give a talk in a Japanese comic convention about Pepper&amp;Carrot<br/>
@@ -230,20 +230,20 @@ $LANG = array(
     </p>
 ',
 
-'AUTHOR_CARREER_TITLE'				 => 'my carreer in 7 bubbles :',
+'AUTHOR_CARREER_TITLE'				 => 'my carreer in 7 bubbles:',
 'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS' => '<p></p>',
 
 ################################################################################
-# Website General : Footer
+# Website General: Footer
 'FOOTER_CONTENT'    => '
     <p>Webcomic, artworks and texts are licensed under a CC-By license, unless otherwise noted in the page.<br/>
-    Attribution to "David Revoy, www.davidrevoy.com". Contact me : info@davidrevoy.com for more informations.</p>
+    Attribution to "David Revoy, www.davidrevoy.com". Contact me: info@davidrevoy.com for more informations.</p>
     
     <p>Website powered by <a href="http://www.pluxml.org" title="PlXml">PluXml</a></p> 
 ',
 
 ################################################################################
-# various utils :
+# various utils:
 'UTIL_NEXT_EPISODE'      =>  'next episode',
 'UTIL_PREVIOUS_EPISODE'  =>  'prev episode',
 'UTIL_BACK_TO_GALLERY'      =>  'back to gallery',
