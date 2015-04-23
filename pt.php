@@ -12,7 +12,7 @@ $LANG = array(
 # Header HTML infos for search engine and title in tab:
 'PEPPERCARROT_VEGETABLE'    =>  '', // litteral translation of spices + vegetable
 'Website_DESCRIPTION'        =>  'Página oficial de Pepper&amp;Carrot, um HQ grátis/livre e open-source sobre Pepper, uma jovem bruxa e seu gato, Carrot. Eles vivem em um universo fantástico com poções, magia e criaturas mágicas.',
-'SUBTITLE'                  =>  'A HQ livre por David Revoy',
+'SUBTITLE'                  =>  'Uma HQ livre por David Revoy',
 ################################################################################
 # Top menu website:
 'HOMEPAGE'      =>  'Início',
@@ -123,7 +123,7 @@ $LANG = array(
     
     <div class="philobutton">
         <a href="https://www.patreon.com/davidrevoy" title="Seja um patrono de Pepper&amp;Carrot contribuindo a partir de $1 USD a cada novo episódio">
-            Me ajude a aumentar a produção de Pepper&amp;Carrot hoje mesmo
+            Ajude-me a aumentar a produção de Pepper&amp;Carrot hoje mesmo
         </a> 
     </div>
         
@@ -233,10 +233,10 @@ $LANG = array(
 ################################################################################
 # Website General : Footer
 'FOOTER_CONTENT'    => '
-    <p>HQs, arte e textos são licenciados sob uma licença CC-By a não ser que outra licença seja expecificada na página.<br/>
+    <p>HQs, arte e textos estão sob uma licença CC-By a não ser que outra licença seja expecificada na página.<br/>
     Atribuição a "David Revoy, www.davidrevoy.com". Para mais informações: info@davidrevoy.com.</p>
     
-    <p>Site usa<a href="http://www.pluxml.org" title="PlXml">PluXml</a></p> 
+    <p>Esse site usa <a href="http://www.pluxml.org" title="PlXml">PluXml</a></p> 
 ',
 
 ################################################################################
