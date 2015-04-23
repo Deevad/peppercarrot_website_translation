@@ -185,7 +185,7 @@ $LANG = array(
 
 ################################################################################
 # Page: Sources
-'SOURCES_TITLE'		    => 'Fuetnes',
+'SOURCES_TITLE'		    => 'Fuentes',
 'SOURCES_TOP'	        => '
     <p><b>¡Bienvenido al centro de descarga de fuentes!</b><br/>
     Aquí encontrarás los archivos fuente de Pepper&amp;Carrot y más.<br/>
