@@ -125,7 +125,7 @@ $LANG = array(
     
     <div class="philobutton">
         <a href="https://www.patreon.com/davidrevoy" title="For only 1$ per new episode, become a patreon of Pepper&amp;Carrot">
-            ayúdame a impulsar Pepper&amp;Carrot hoy
+            Ayúdame a impulsar Pepper&amp;Carrot hoy
         </a> 
     </div>
         
@@ -168,7 +168,7 @@ $LANG = array(
     
     <p>¡Sé el editor de Pepper&amp;Carrot! escribe artículos, crea mensajes en el sitio web, comparte y construye una comunidad en tus redes sociales favoritas. Puedes descargar el <a href="?static6/sources" title="Sources page">kit de prensa</a> en la pagina "Fuentes".</p>  
     
-    <h2> Otras contribuciones de ideas.&nbsp;.&nbsp;.&nbsp;.&nbsp;</h2>
+    <h2> Otras ideas de contribución.&nbsp;.&nbsp;.&nbsp;.&nbsp;</h2>
     
     <p> Todo el mundo puede contribuir de diferentes maneras: <br/>
         <b>Desarrolladores:</b>  Creación de una aplicación para leer Pepper&amp;Carrot en dispositivos móviles.<br />
