@@ -88,7 +88,7 @@ $LANG = array(
     <h2>De código abierto y permisivo</h2>
     
     <p>Quiero darle a la gente el derecho a compartir, utilizar, desarrollar e incluso ganar dinero con el trabajo que he creado.<br/>
-    Todas las páginas, ilustraciones y contenido se hicieron con Software Gratuito/Libre de código abierto en GNU/Linux, y todas las fuentes están en este sitio web, el menú &#39;Fuente&#39;.<br/>
+    Todas las páginas, ilustraciones y contenido se hicieron con Software Gratuito/Libre de código abierto en GNU/Linux, y todas las fuentes están en este sitio web, en el menú &#39;Fuentes&#39;.<br/>
     Se anima el uso comercial, traducciones, fan-arts, impresiones, películas, videojuegos, distribuciones y re-publicaciones.<br/>
     Sólo tienes que dar crédito a mi nombre - David Revoy - como el autor.</p>
     
