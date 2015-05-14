@@ -40,7 +40,7 @@ $LANG = array(
 'HOMEPAGE_MOREINFO_BUTTON'  =>  '詳しく',
 'HOMEPAGE_LAST_EPISODE'     =>  '最新エピソード:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'ニュースと更新情報:',
-'HOMEPAGE_PATREON_BUTTON'   =>  'ペッパー&amp;キャロットの<br/>パトロンになりませんか？',
+'HOMEPAGE_PATREON_BUTTON'   =>  'ペッパー&amp;キャロットのパトロンになりませんか？',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'もっと見る',
 
 ################################################################################

@@ -34,7 +34,7 @@ $LANG = array(
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Maggiori informazioni',
 'HOMEPAGE_LAST_EPISODE'     =>  'Ultimo episodio:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'News ed aggiornamenti:',
-'HOMEPAGE_PATREON_BUTTON'   =>  'Diventa un lettore di <br/>Pepper&amp;Carrot su',
+'HOMEPAGE_PATREON_BUTTON'   =>  'Diventa un lettore di Pepper&amp;Carrot su',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Altri posts',
 ################################################################################
 # Page: Webcomics

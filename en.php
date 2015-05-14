@@ -40,7 +40,7 @@ $LANG = array(
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'More information',
 'HOMEPAGE_LAST_EPISODE'     =>  'Latest episode:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'News and Update:',
-'HOMEPAGE_PATREON_BUTTON'   =>  'become a patron of<br/>Pepper&amp;Carrot on',
+'HOMEPAGE_PATREON_BUTTON'   =>  'become a patron of Pepper&amp;Carrot on',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'More posts',
 
 ################################################################################

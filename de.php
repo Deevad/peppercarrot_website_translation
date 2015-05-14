@@ -40,7 +40,7 @@ $LANG = array(
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Weitere Informationen',
 'HOMEPAGE_LAST_EPISODE'     =>  'Neueste Episode:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Neuigkeiten und Updates:',
-'HOMEPAGE_PATREON_BUTTON'   =>  'Unterst&uumltzer von <br/>Pepper&amp;Carrot werden auf',
+'HOMEPAGE_PATREON_BUTTON'   =>  'Unterst&uumltzer von Pepper&amp;Carrot werden auf',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Mehr Nachrichten',
 
 ################################################################################
