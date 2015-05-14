@@ -20,7 +20,7 @@ $LANG = array(
 'BLOG'          =>  'Blog',
 'PHILOSOPHY'    =>  'Princípios',
 'CONTRIBUTE'    =>  'Contribua',
-'SOURCES'       =>  'Sources / Desenhos originais',
+'SOURCES'       =>  'Sources',
 'AUTHOR'        =>  'Autor',
 'FOLLOW'        =>  'Siga Pepper&amp;Carrot no:',
 
