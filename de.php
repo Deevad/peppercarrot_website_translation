@@ -39,6 +39,7 @@ $LANG = array(
 ',
 'HOMEPAGE_PATREON_INFO'     =>  'Werde heute noch F&ouml;rderer auf Patreon<br/> f&uuml;r nur 1€ pro neuer Episode',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Weitere Informationen',
+'HOMEPAGE_PATREON_BUTTON'   =>  'Unterst&uumltzer von Pepper&amp;Carrot werden auf Patreon',
 'HOMEPAGE_LAST_EPISODE'     =>  'Neueste Episode:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Neuigkeiten und Updates:',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Mehr Nachrichten',
