@@ -40,7 +40,10 @@ $LANG = array(
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Meer informatie',
 'HOMEPAGE_LAST_EPISODE'     =>  'Nieuwste aflevering:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Nieuws en updates:',
-'HOMEPAGE_PATREON_BUTTON'   =>  'word een patron van Pepper&amp;Carrot op',
+'HOMEPAGE_PATREON_BUTTON'   =>  '
+<a href="https://www.patreon.com/davidrevoy" title="Voor slechts $1,- per aflevering kun je patron van Pepper&amp;Carrot worden">
+   Voor slechts $1,- per aflevering kun je patron worden op Patreon
+</a>',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Meer berichten',
 
 ################################################################################

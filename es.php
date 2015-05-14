@@ -40,7 +40,10 @@ $LANG = array(
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Más información',
 'HOMEPAGE_LAST_EPISODE'     =>  'Último episodio:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Noticias y Actualizaciónes:',
-'HOMEPAGE_PATREON_BUTTON'   =>  'Conviértete en un patrocinador de Pepper&amp;Carrot en',
+'HOMEPAGE_PATREON_BUTTON'   =>  '
+<a href="https://www.patreon.com/davidrevoy" title="Por sólo 1$ por cada nuevo episodio, conviértete en patrocinador">
+    Por sólo 1$ por cada nuevo episodio, conviértete hoy en un patrocinador en Patreon
+</a>',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Más mensajes',
 
 ################################################################################

@@ -10,7 +10,7 @@ $LANG = array(
 
 ################################################################################
 # Header HTML infos for search engine and title in tab:
-'PEPPERCARROT_VEGETABLE'    =>  '', // litteral translation of spices + vegetable
+'PEPPERCARROT_VEGETABLE'    =>  'Pepper and Carrot', // litteral translation of spices + vegetable
 'Website_DESCRIPTION'        =>  'Official homepage of Pepper&amp;Carrot, a free/libre and open-source webcomic about Pepper, a young witch and her cat, Carrot. They live in a fantasy universe of potions, magics, and creatures.',
 'SUBTITLE'                  =>  'the Open Webcomic by David Revoy',
 
@@ -40,7 +40,11 @@ $LANG = array(
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'More information',
 'HOMEPAGE_LAST_EPISODE'     =>  'Latest episode:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'News and Update:',
-'HOMEPAGE_PATREON_BUTTON'   =>  'become a patron of Pepper&amp;Carrot on',
+'HOMEPAGE_PATREON_BUTTON'   =>  '
+<a href="https://www.patreon.com/davidrevoy" title="For only 1$ per new episode, become a patreon of Pepper&amp;Carrot">
+    For only 1$ per new episode, become a patron today on Patreon
+</a>
+',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'More posts',
 
 ################################################################################

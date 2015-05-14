@@ -40,7 +40,11 @@ $LANG = array(
 'HOMEPAGE_MOREINFO_BUTTON'  =>  '詳しく',
 'HOMEPAGE_LAST_EPISODE'     =>  '最新エピソード:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'ニュースと更新情報:',
-'HOMEPAGE_PATREON_BUTTON'   =>  'ペッパー&amp;キャロットのパトロンになりませんか？',
+'HOMEPAGE_PATREON_BUTTON'   =>  '        
+<a href="https://www.patreon.com/davidrevoy" title="1エピソードたった1ドルで、ペッパー&amp;キャロットのパトロンになりませんか？">
+    1エピソードたった1ドルで、あなたもPatreonでペッパー&amp;キャロットのパトロンになりませんか？
+</a>
+',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'もっと見る',
 
 ################################################################################
