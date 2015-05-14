@@ -41,8 +41,8 @@ $LANG = array(
 'HOMEPAGE_LAST_EPISODE'     =>  'Neueste Episode:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Neuigkeiten und Updates:',
 'HOMEPAGE_PATREON_BUTTON'   =>  '
-<a href="https://www.patreon.com/davidrevoy" title="Werde F&ouml;rderer von Pepper&amp;Carrot f&uuml;r 1$ pro neuer Episode">
-    Werde heute noch F&ouml;rderer auf Patreon f&uuml;r nur 1$ pro neuer Episode
+<a href="https://www.patreon.com/davidrevoy" title="Werde F&ouml;rderer von Pepper&amp;Carrot f&uuml;r 1€ pro neuer Episode">
+    Werde heute noch F&ouml;rderer auf Patreon f&uuml;r nur 1€ pro neuer Episode
 </a>',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Mehr Nachrichten',
 
@@ -72,8 +72,8 @@ $LANG = array(
     Durch dieses System kann Pepper&amp;Carrot unabh&auml;ngig bleiben und ohne Werbung oder Verschmutzung durch Marketing auskommen.</p> 
     
     <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Werde F&ouml;rderer von Pepper&amp;Carrot f&uuml;r 1$ pro neuer Episode">
-            Werde heute noch F&ouml;rderer auf Patreon f&uuml;r nur 1$ pro neuer Episode
+        <a href="https://www.patreon.com/davidrevoy" title="Werde F&ouml;rderer von Pepper&amp;Carrot f&uuml;r 1€ pro neuer Episode">
+            Werde heute noch F&ouml;rderer auf Patreon f&uuml;r nur 1€ pro neuer Episode
         </a>
     </div>
     
@@ -131,7 +131,7 @@ $LANG = array(
     &Uuml;ber 900$ kann ich Vollzeit Pepper&amp;Carrot zeichnen ( schnelle Pepper&amp;Carrot Produktion, Höchstens 2 Episoden pro Monat ).</p>
     
     <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Werde ein Patreon von Pepper&amp;Carrot f&uuml;r nur 1$ pro Episode.">
+        <a href="https://www.patreon.com/davidrevoy" title="Werde ein Patreon von Pepper&amp;Carrot f&uuml;r nur 1€ pro Episode.">
             Hilf mir heute, die Produktion von Pepper&amp;Carrot zu beschleunigen
         </a> 
     </div>
@@ -153,7 +153,7 @@ $LANG = array(
     <h2>F&ouml;rdern, Spenden</h2> 
     
     <p>Auf der <a href="?static2/philosophy" title="open the Sources page">Philosophie Seite</a> habe ich fast alles zum Thema Finanzierung ausgebreitet.<br/>
-    Es ist einfach, f&uuml;r nur 1$ pro Episode Pepper&amp;Carrot F&ouml;rderer <a href="https://www.patreon.com/davidrevoy">auf Patreon</a> zu werden.<br/>
+    Es ist einfach, f&uuml;r nur 1€ pro Episode Pepper&amp;Carrot F&ouml;rderer <a href="https://www.patreon.com/davidrevoy">auf Patreon</a> zu werden.<br/>
     Patreon akzeptiert Kreditkarten aus aller Welt und ihr k&ouml;nnt sogar mit PayPal auf Patreon bezahlen.<br/>
             Ich nehme au&szlig;erdem direkte spenden &uuml;ber PayPal oder Flattr an:</p>
 ',

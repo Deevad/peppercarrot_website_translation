@@ -72,7 +72,7 @@ $LANG = array(
     Grâce à ce système, Pepper&amp;Carrot reste indépendant et protégé du monde éditorial, de la pub et du marketing agressif.</p>
     
     <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Pour seulement 1$ par nouvel épisode, devenez mécéne aujourdh\'ui sur Patreon">
+        <a href="https://www.patreon.com/davidrevoy" title="Pour seulement 1€ par nouvel épisode, devenez mécéne aujourdh\'ui sur Patreon">
             Pour moins d\'1€ par nouvel épisode,<br/> devenez mécéne de Pepper&amp;Carrot sur Patreon.
         </a>
     </div>

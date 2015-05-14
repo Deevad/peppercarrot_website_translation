@@ -35,8 +35,8 @@ $LANG = array(
 'HOMEPAGE_LAST_EPISODE'     =>  'Ultimo episodio:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'News ed aggiornamenti:',
 'HOMEPAGE_PATREON_BUTTON'   =>  '
-<a href="https://www.patreon.com/davidrevoy" title="Diventa lettore di Pepper&amp;Carrot con appena 1$ per nuovo episodio">
-    Diventate oggi un lettore con Patreon con appena 1$ per nuovo episodio, 
+<a href="https://www.patreon.com/davidrevoy" title="Diventa lettore di Pepper&amp;Carrot con appena 1€ per nuovo episodio">
+    Diventate oggi un lettore con Patreon con appena 1€ per nuovo episodio, 
 </a>
 ',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Altri posts',
@@ -64,8 +64,8 @@ $LANG = array(
     Grazie a questo sistema, Pepper&amp;Carrot pu&#242; essere indipendente e mai sar&#224; infarcito da annunci pubbicitari oppure da qualsiasi altra trovata commerciale.</p>
     
     <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Diventa lettore di Pepper&amp;Carrot con appena 1$ per nuovo episodio">
-            Diventate oggi un lettore con Patreon con appena 1$ per nuovo episodio, 
+        <a href="https://www.patreon.com/davidrevoy" title="Diventa lettore di Pepper&amp;Carrot con appena 1€ per nuovo episodio">
+            Diventate oggi un lettore con Patreon con appena 1€ per nuovo episodio, 
         </a>
     </div>
     
@@ -111,7 +111,7 @@ $LANG = array(
     Sopra questa soglia, potr&#242; disegnare Pepper&amp;Carrot a tempo pieno (accelerando la produzione di Pepper&amp;Carrot, 2 episodi al mese).</p>
     
     <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Diventa un lettore di Pepper&amp;Carrot per solo 1$ per ogni nuovo episodio">
+        <a href="https://www.patreon.com/davidrevoy" title="Diventa un lettore di Pepper&amp;Carrot per solo 1€ per ogni nuovo episodio">
             Aiutatemi ad aumentare da oggi la produzione di Pepper&amp;Carrot.
         </a> 
     </div>
@@ -132,7 +132,7 @@ $LANG = array(
     <h2>Patrocinio e donazioni</h2> 
     
     <p>Troverete tutte le informazioni in merito al finanziamento nella pagina <a href="?static2/philosophy" title="apri la pagina dei sorgenti">Filosofia</a>.<br/>
-    &#200; cos&#236; semplice divenire lettori di Pepper&amp;Carrot con solo 1$ per nuovo episodio con <a href="https://www.patreon.com/davidrevoy">Patreon</a>.<br/>
+    &#200; cos&#236; semplice divenire lettori di Pepper&amp;Carrot con solo 1€ per nuovo episodio con <a href="https://www.patreon.com/davidrevoy">Patreon</a>.<br/>
     Patreon accetta le carte di credito da tutto il mondo; inoltre potrete pagare anche con il vostro account Paypal.<br/>
             Accetto anche donazioni dirette tramite PayPal oppure Flattr:</p>
 ',

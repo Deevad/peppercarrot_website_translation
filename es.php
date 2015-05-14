@@ -41,8 +41,8 @@ $LANG = array(
 'HOMEPAGE_LAST_EPISODE'     =>  'Último episodio:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Noticias y Actualizaciónes:',
 'HOMEPAGE_PATREON_BUTTON'   =>  '
-<a href="https://www.patreon.com/davidrevoy" title="Por sólo 1$ por cada nuevo episodio, conviértete en patrocinador">
-    Por sólo 1$ por cada nuevo episodio, conviértete hoy en un patrocinador en Patreon
+<a href="https://www.patreon.com/davidrevoy" title="Por sólo 1€ por cada nuevo episodio, conviértete en patrocinador">
+    Por sólo 1€ por cada nuevo episodio, conviértete hoy en un patrocinador en Patreon
 </a>',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Más mensajes',
 
@@ -72,8 +72,8 @@ $LANG = array(
     Gracias a este Sistema, Pepper&amp;Carrot puede ser independiente y nunca usar publicidad o cualquier contaminación de marketing.</p>
     
     <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Por sólo 1$ por cada nuevo episodio, conviértete en patrocinador">
-            Por sólo 1$ por cada nuevo episodio, conviértete hoy en un patrocinador en Patreon
+        <a href="https://www.patreon.com/davidrevoy" title="Por sólo 1€ por cada nuevo episodio, conviértete en patrocinador">
+            Por sólo 1€ por cada nuevo episodio, conviértete hoy en un patrocinador en Patreon
         </a>
     </div>
     
@@ -127,7 +127,7 @@ $LANG = array(
     Sobre los 900$, podre dibujar a tiempo complete Pepper&amp;Carrot (Pepper&amp;Carrot saldrá más rápido, 2 episodios al mes)</p>
     
     <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="For only 1$ per new episode, become a patreon of Pepper&amp;Carrot">
+        <a href="https://www.patreon.com/davidrevoy" title="For only 1€ per new episode, become a patreon of Pepper&amp;Carrot">
             Ayúdame a impulsar Pepper&amp;Carrot hoy
         </a> 
     </div>
@@ -149,7 +149,7 @@ $LANG = array(
     <h2>Patrocinio, donaciones</h2> 
     
     <p>En detalle de la <a href="?static2/philosophy" title="open the Sources page">página de Filosofía</a> esta casi todo lo relativo a la financiación.<br/>
-    Es fácil llegar a ser patrocinador de Pepper&amp;Carrot por sólo 1$ por nuevo episodio <a href="https://www.patreon.com/davidrevoy">en Patreon</a>.<br/>
+    Es fácil llegar a ser patrocinador de Pepper&amp;Carrot por sólo 1€ por nuevo episodio <a href="https://www.patreon.com/davidrevoy">en Patreon</a>.<br/>
     Patreon acepta tarjetas de crédito de todo el mundo, e incluso se puede pagar con una cuenta de Paypal en Patreon.<br/>
             También acepto donación directa a través de PayPal o Flattr:</p>
 ',

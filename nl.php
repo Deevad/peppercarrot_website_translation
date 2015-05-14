@@ -41,8 +41,8 @@ $LANG = array(
 'HOMEPAGE_LAST_EPISODE'     =>  'Nieuwste aflevering:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Nieuws en updates:',
 'HOMEPAGE_PATREON_BUTTON'   =>  '
-<a href="https://www.patreon.com/davidrevoy" title="Voor slechts $1,- per aflevering kun je patron van Pepper&amp;Carrot worden">
-   Voor slechts $1,- per aflevering kun je patron worden op Patreon
+<a href="https://www.patreon.com/davidrevoy" title="Voor slechts 1€,- per aflevering kun je patron van Pepper&amp;Carrot worden">
+   Voor slechts 1€,- per aflevering kun je patron worden op Patreon
 </a>',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Meer berichten',
 
@@ -72,8 +72,8 @@ $LANG = array(
     Door dit systeem kan Pepper&amp;Carrot onafhankelijk zijn en nooit advertenties of andere marketing-vervuiling gebruiken.</p>
     
     <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Voor slechts $1,- per aflevering kun je patron van Pepper&amp;Carrot worden">
-            Voor slechts $1,- per aflevering kun je patron worden op Patreon
+        <a href="https://www.patreon.com/davidrevoy" title="Voor slechts 1€,- per aflevering kun je patron van Pepper&amp;Carrot worden">
+            Voor slechts 1€,- per aflevering kun je patron worden op Patreon
         </a>
     </div>
     
@@ -131,7 +131,7 @@ $LANG = array(
     Met meer dan $900,- kan ik Pepper&amp;Carrot fulltime gaan tekenen (snelle Pepper&amp;Carrot-productie, twee afleveringen per maand).</p>
     
     <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Voor maar $1,- per aflevering kun je patron van Pepper&amp;Carrot worden">
+        <a href="https://www.patreon.com/davidrevoy" title="Voor maar 1€,- per aflevering kun je patron van Pepper&amp;Carrot worden">
             help me om de productie van Pepper&amp;Carrot sneller te maken
         </a> 
     </div>
@@ -153,7 +153,7 @@ $LANG = array(
     <h2>Als patron, donaties</h2>
     
     <p>Op de pagina <a href="?static2/philosophy" title="open de Filosofie-pagina">Filosofie</a> leg ik alles uit over donaties.<br/>
-    Het is makkelijk om patron van Pepper&amp;Carrot te worden voor slechts $1,- per nieuwe aflevering <a href="https://www.patreon.com/davidrevoy">op Patreon</a>.<br/>
+    Het is makkelijk om patron van Pepper&amp;Carrot te worden voor slechts 1€,- per nieuwe aflevering <a href="https://www.patreon.com/davidrevoy">op Patreon</a>.<br/>
     Patreon accepteert creditcards uit de hele wereld, en je kunt betalen met een PayPal-account op Patreon.<br/>
             </p>
 ',
