@@ -37,14 +37,10 @@ $LANG = array(
     フリーでオープンソースなウェブコミックで<br/>
     コミック業界の常識を変える!<br/>
 ',
+'HOMEPAGE_PATREON_INFO'     =>  '1エピソードたった1ドルで、あなたもPatreon<br/>でペッパー&amp;キャロットのパトロンになりませんか？',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  '詳しく',
 'HOMEPAGE_LAST_EPISODE'     =>  '最新エピソード:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'ニュースと更新情報:',
-'HOMEPAGE_PATREON_BUTTON'   =>  '        
-<a href="https://www.patreon.com/davidrevoy" title="1エピソードたった1ドルで、ペッパー&amp;キャロットのパトロンになりませんか？">
-    1エピソードたった1ドルで、あなたもPatreonでペッパー&amp;キャロットのパトロンになりませんか？
-</a>
-',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'もっと見る',
 
 ################################################################################

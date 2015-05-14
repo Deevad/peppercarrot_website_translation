@@ -37,14 +37,10 @@ $LANG = array(
     supported directly by its patrons<br/>
     to change the comic book industry!<br/>
 ',
+'HOMEPAGE_PATREON_INFO'     =>  'For only 1$ per new episode,<br/> become a patron today on Patreon',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'More information',
 'HOMEPAGE_LAST_EPISODE'     =>  'Latest episode:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'News and Update:',
-'HOMEPAGE_PATREON_BUTTON'   =>  '
-<a href="https://www.patreon.com/davidrevoy" title="For only 1$ per new episode, become a patreon of Pepper&amp;Carrot">
-    For only 1$ per new episode, become a patron today on Patreon
-</a>
-',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'More posts',
 
 ################################################################################

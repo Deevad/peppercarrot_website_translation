@@ -37,14 +37,10 @@ $LANG = array(
     financé directement par ses lecteurs<br/>
     pour changer l\'industrie de la BD !<br/>
 ',
+'HOMEPAGE_PATREON_INFO'     =>  'Pour moins d\' 1€ par nouvel épisode,<br/> devenez mécéne de Pepper&amp;Carrot sur Patreon.',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'plus d\'informations',
 'HOMEPAGE_LAST_EPISODE'     =>  'Dernier épisode:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Nouvelles et mise-à-jour:',
-'HOMEPAGE_PATREON_BUTTON'   =>  '
-<a href="https://www.patreon.com/davidrevoy" title="Pour seulement 1$ par nouvel épisode, devenez mécéne aujourdh\'ui sur Patreon">
-    Pour moins d\' 1€ par nouvel épisode, devenez mécéne de Pepper&amp;Carrot sur Patreon.
-</a>
-',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Voir tout',
 
 ################################################################################

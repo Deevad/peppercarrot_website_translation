@@ -31,14 +31,10 @@ $LANG = array(
     direttamente supportato dai suoi lettori<br/>
     per spingere l&#8217;industria dei fumetti al cambiamento!<br/>
 ',
+'HOMEPAGE_PATREON_INFO'     =>  'Diventate oggi un lettore con Patreon<br/> con appena 1€ per nuovo episodio',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Maggiori informazioni',
 'HOMEPAGE_LAST_EPISODE'     =>  'Ultimo episodio:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'News ed aggiornamenti:',
-'HOMEPAGE_PATREON_BUTTON'   =>  '
-<a href="https://www.patreon.com/davidrevoy" title="Diventa lettore di Pepper&amp;Carrot con appena 1€ per nuovo episodio">
-    Diventate oggi un lettore con Patreon con appena 1€ per nuovo episodio, 
-</a>
-',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Altri posts',
 ################################################################################
 # Page: Webcomics

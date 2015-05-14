@@ -37,13 +37,10 @@ $LANG = array(
     apoyado directamente por sus patrocinadores<br/>
     ¡para cambiar la industria del cómic!<br/>
 ',
+'HOMEPAGE_PATREON_INFO'     =>  'Por sólo 1€ por cada nuevo episodio,<br/> conviértete hoy en un patrocinador en Patreon',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Más información',
 'HOMEPAGE_LAST_EPISODE'     =>  'Último episodio:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Noticias y Actualizaciónes:',
-'HOMEPAGE_PATREON_BUTTON'   =>  '
-<a href="https://www.patreon.com/davidrevoy" title="Por sólo 1€ por cada nuevo episodio, conviértete en patrocinador">
-    Por sólo 1€ por cada nuevo episodio, conviértete hoy en un patrocinador en Patreon
-</a>',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Más mensajes',
 
 ################################################################################

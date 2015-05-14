@@ -36,14 +36,10 @@ $LANG = array(
     com apoio direto de seus patronos<br/>
     para mudar a indústria dos quadrinhos!<br/>
 ',
+'HOMEPAGE_PATREON_INFOS'    =>  'Com apenas 1€ a cada novo episódio,<br/> você pode ser um patrono no Patreon hoje mesmo',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Mais informações',
 'HOMEPAGE_LAST_EPISODE'     =>  'Último episódio:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Notícias e Atualizações:',
-'HOMEPAGE_PATREON_BUTTON'   =>  '
-<a href="https://www.patreon.com/davidrevoy" title="Seja um patrono de Pepper&amp;Carrot contribuindo a partir de 1€ a cada novo episódio">
-    Com apenas 1€ a cada novo episódio, você pode ser um patrono no Patreon hoje mesmo
-</a>
-',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Outras postagens',
 
 ################################################################################
