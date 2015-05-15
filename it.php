@@ -27,7 +27,7 @@ $LANG = array(
 ################################################################################
 # Page: Homepage
 'HOMEPAGE_BIG_TEXT'		    =>  '
-    un webcomic libero e open-source<br/>
+    Un webcomic libero e open-source<br/>
     direttamente supportato dai suoi lettori<br/>
     per spingere l&#8217;industria dei fumetti al cambiamento!<br/>
 ',

@@ -32,7 +32,7 @@ $LANG = array(
 ################################################################################
 # Page : Homepage
 'HOMEPAGE_BIG_TEXT'		    =>  '
-    uma HQ grátis, livre e open-source<br/>
+    Uma HQ grátis, livre e open-source<br/>
     com apoio direto de seus patronos<br/>
     para mudar a indústria dos quadrinhos!<br/>
 ',

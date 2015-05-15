@@ -33,7 +33,7 @@ $LANG = array(
 ################################################################################
 # Page: Homepage
 'HOMEPAGE_BIG_TEXT'		    =>  '
-    a free, libre and open-source webcomic<br/>
+    A free, libre and open-source webcomic<br/>
     supported directly by its patrons<br/>
     to change the comic book industry!<br/>
 ',
