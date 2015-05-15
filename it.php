@@ -125,7 +125,8 @@ $LANG = array(
 'CONTRIBUTE_TOP'		=> '
     <p>Potrete contribuire in molti modi a Pepper&amp;Carrot grazie all&#39;<a href="?static6/sources" title="pagina dei sorgenti">open source</a> e alla licenza<a href="http://creativecommons.org/licenses/by/3.0/">
     creative commons</a>:</p>
-            
+',
+'CONTRIBUTE_DONATION'		=> '            
     <h2>Patrocinio e donazioni</h2> 
     
     <p>Troverete tutte le informazioni in merito al finanziamento nella pagina <a href="?static2/philosophy" title="apri la pagina dei sorgenti">Filosofia</a>.<br/>

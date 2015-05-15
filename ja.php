@@ -143,7 +143,8 @@ $LANG = array(
 'CONTRIBUTE_TOP'		=> '
     <p><a href="?static6/sources" title="Sources page">オープンソース</a>であることと、<a href="http://creativecommons.org/licenses/by/3.0/">
     クリエイティブコモンズライセンス</a>のおかげで、読者のあなたもいろいろな方法でペッパー&amp;キャロットに協力、参加ができます:</p>
-            
+',
+'CONTRIBUTE_DONATION'		=> '
     <h2>パトロン、寄付</h2> 
     
     <p><a href="?static2/philosophy" title="open the Sources page">理念のページ</a>に資金援助に関する内容のほぼすべてがあります。<br/>
