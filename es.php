@@ -58,7 +58,7 @@ $LANG = array(
 # Page: Blog
 # when content are not English (no need to warn user the content is english only here):
 #'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Content available in english only ',
-'LIMITATIONS' 		=> 'El contenido únicamente está disponible en ingles',
+'LIMITATIONS' 		=> '<i class="fa fa-info-circle"></i> El contenido únicamente está disponible en ingles',
 
 ################################################################################
 # Page: Philosophy
