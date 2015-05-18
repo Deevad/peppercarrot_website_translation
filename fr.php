@@ -43,6 +43,7 @@ $LANG = array(
 'HOMEPAGE_LAST_EPISODE'     =>  'Dernier épisode:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Nouvelles et mise-à-jour:',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Voir tout',
+'HOMEPAGE_MAINSERVICE_LINK' =>  'https://www.tipeee.com/pepper-carrot',
 
 ################################################################################
 # Page : Webcomics

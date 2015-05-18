@@ -43,6 +43,7 @@ $LANG = array(
 'HOMEPAGE_LAST_EPISODE'     =>  'Neueste Episode:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Neuigkeiten und Updates:',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Mehr Nachrichten',
+'HOMEPAGE_MAINSERVICE_LINK' =>  'https://www.patreon.com/davidrevoy',
 
 ################################################################################
 # Page : Webcomics
