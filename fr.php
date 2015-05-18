@@ -215,7 +215,7 @@ $LANG = array(
 # Page : Author
 'AUTHOR_TITLE'		    => 'A propos de David Revoy',
 'AUTHOR_BIO'	        => '
-    <p>Bonjour, je m\'appelle David Revoy et je suis un artiste français né à Reims en 1981 habitant à Montauban. Je suis autodidacte et passioné sur beaucoup de sujets : le dessin, la peinture, les chats, l\'informatique, l\'open-source, Gnu/Linux, Internet, les vieux jeux-vidéos , les vieux mangas,  l\'art, la culture japonaise et la fantasy...<br />
+    <p>Bonjour, je m\'appelle David Revoy et je suis un artiste français né à Reims en 1981 et habitant à Montauban. Je suis autodidacte et passionné sur beaucoup de sujets : le dessin, la peinture, les chats, l\'informatique, l\'open-source, Gnu/Linux, Internet, les vieux jeux-vidéos , les vieux mangas,  l\'art, la culture japonaise et la fantasy...<br />
     <br />
     Après plus de 10 ans de travail en indépendant à faire de commandes pour l\'édition, l\'enseignement, les studios de jeux-vidéos ou les films d\'animation, j\'ai trouvé ma voie dans un projet personnel qui mixe toutes mes passions ; et ce projet c\'est Pepper&amp;Carrot.</p>
     
