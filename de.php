@@ -253,6 +253,7 @@ $LANG = array(
 # various utils :
 'UTIL_NEXT_EPISODE'      =>  'n&auml;chste Episode',
 'UTIL_PREVIOUS_EPISODE'  =>  'vorherige Episode',
+'UTIL_EPISODE'   =>  'Episode',
 'UTIL_BACK_TO_GALLERY'      =>  'zur&uuml;ck zur Gallerie',
 'UTIL_MORE'      =>  'mehr',
 'UTIL_PAGE'      =>  'Seite',
