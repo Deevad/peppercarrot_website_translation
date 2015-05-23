@@ -37,7 +37,7 @@ $LANG = array(
     direct ondersteund door zijn patrons<br/>
     om de stripboek-industrie te veranderen!<br/>
 ',
-'HOMEPAGE_PATREON_INFO'     =>  'Voor slechts 1€ per aflevering<br/> kun je patron worden op Patreon',
+'HOMEPAGE_PATREON_INFO'     =>  'Voor slechts 1€ per aflevering kun je patron worden op Patreon',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Meer informatie',
 'HOMEPAGE_PATREON_BUTTON'   =>  'word een patron van Pepper&amp;Carrot op Patreon',
 'HOMEPAGE_LAST_EPISODE'     =>  'Nieuwste aflevering:',

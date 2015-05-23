@@ -31,7 +31,7 @@ $LANG = array(
     direttamente supportato dai suoi lettori<br/>
     per spingere l&#8217;industria dei fumetti al cambiamento!<br/>
 ',
-'HOMEPAGE_PATREON_INFO'     =>  'Diventate oggi un lettore con Patreon<br/> con appena 1€ per nuovo episodio',
+'HOMEPAGE_PATREON_INFO'     =>  'Diventate oggi un lettore con Patreon con appena 1€ per nuovo episodio',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Maggiori informazioni',
 'HOMEPAGE_PATREON_BUTTON'   =>  'Diventa un lettore di Pepper&amp;Carrot on Patreon',
 'HOMEPAGE_LAST_EPISODE'     =>  'Ultimo episodio:',

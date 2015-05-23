@@ -37,7 +37,7 @@ $LANG = array(
     フリーでオープンソースなウェブコミックで<br/>
     コミック業界の常識を変える!<br/>
 ',
-'HOMEPAGE_PATREON_INFO'     =>  '1エピソードたった1ドルで、あなたもPatreon<br/>でペッパー&amp;キャロットのパトロンになりませんか？',
+'HOMEPAGE_PATREON_INFO'     =>  '1エピソードたった1ドルで、あなたもPatreonでペッパー&amp;キャロットのパトロンになりませんか？',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  '詳しく',
 'HOMEPAGE_PATREON_BUTTON'   =>  'ペッパー&amp;キャロットのパトロンになりませんか？',
 'HOMEPAGE_LAST_EPISODE'     =>  '最新エピソード:',

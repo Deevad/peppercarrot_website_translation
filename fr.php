@@ -37,7 +37,7 @@ $LANG = array(
     financé directement par ses lecteurs<br/>
     pour changer l\'industrie de la BD !<br/>
 ',
-'HOMEPAGE_PATREON_INFO'     =>  'Pour moins d\' 1€ par nouvel épisode,<br/> devenez mécène de Pepper&amp;Carrot sur Tipeee.', # Tipeee is special service for french, similar to Patreon
+'HOMEPAGE_PATREON_INFO'     =>  'Pour moins d\' 1€ par nouvel épisode, devenez mécène de Pepper&amp;Carrot sur Tipeee.', # Tipeee is special service for french, similar to Patreon
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'plus d\'informations',
 'HOMEPAGE_PATREON_BUTTON'   =>  'Devenez mécène de Pepper&amp;Carrot sur Tipeee',  # Tipeee is special service for french, similar to Patreon
 'HOMEPAGE_LAST_EPISODE'     =>  'Dernier épisode:',

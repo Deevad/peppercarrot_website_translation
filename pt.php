@@ -36,7 +36,7 @@ $LANG = array(
     com apoio direto de seus patronos<br/>
     para mudar a indústria dos quadrinhos!<br/>
 ',
-'HOMEPAGE_PATREON_INFO'     =>  'Com apenas 1€ a cada novo episódio,<br/> você pode ser um patrono no Patreon hoje mesmo',
+'HOMEPAGE_PATREON_INFO'     =>  'Com apenas 1€ a cada novo episódio, você pode ser um patrono no Patreon hoje mesmo',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Mais informações',
 'HOMEPAGE_PATREON_BUTTON'   =>  'Seja um patrono de Pepper&amp;Carrot no Patreon',
 'HOMEPAGE_LAST_EPISODE'     =>  'Último episódio:',

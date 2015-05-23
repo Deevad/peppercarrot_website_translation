@@ -37,7 +37,7 @@ $LANG = array(
     direkt durch seine F&ouml;rderer unterst&uuml;tzt<br/>
     um die Comic-Industrie zu ver&auml;ndern !<br/>
 ',
-'HOMEPAGE_PATREON_INFO'     =>  'Werde heute noch F&ouml;rderer auf Patreon<br/> f&uuml;r nur 1€ pro neuer Episode',
+'HOMEPAGE_PATREON_INFO'     =>  'Werde heute noch F&ouml;rderer auf Patreon f&uuml;r nur 1€ pro neuer Episode',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Weitere Informationen',
 'HOMEPAGE_PATREON_BUTTON'   =>  'Unterst&uumltzer von Pepper&amp;Carrot werden auf Patreon',
 'HOMEPAGE_LAST_EPISODE'     =>  'Neueste Episode:',
