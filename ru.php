@@ -33,7 +33,7 @@ $LANG = array(
 ################################################################################
 # Page: Homepage
 'HOMEPAGE_BIG_TEXT'		    =>  '
-    Бесплатный, свободный и открытый вебкомикс,<br/>
+    Бесплатный, свободный<br/>и открытый вебкомикс,<br/>
     напрямую поддерживаемый<br/> исключительно добровольцами:<br/>
     изменим индустрию комиксов!<br/>
 ',
@@ -59,7 +59,7 @@ $LANG = array(
 # Page: Blog
 # when content are not English (no need to warn user the content is english only here):
 #'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Content available in english only ',
-'LIMITATIONS' 		=> '',
+'LIMITATIONS' 		=> '<i class="fa fa-info-circle"></i>  Содержимое доступно только на английском языке',
 
 ################################################################################
 # Page: Philosophy
