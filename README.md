@@ -18,6 +18,8 @@ License
 
 * Português  : Frederico Batista
 
+* Русский    : Denis "uncle Night" Prisukhin
+
 
 How-to :
 ========

@@ -6,6 +6,7 @@
     '<b>English:</b>    David Revoy.',
     '<b>Nederlands:</b>    <a href="http://wimiso.nl">Willem Sonke</a>.',
     '<b>Português:</b>    Frederico Batista.'
+    '<b>Русский:<b>	Denis "uncle Night" Prisukhin'
     );
     
     sort($translators);
