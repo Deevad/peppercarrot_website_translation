@@ -75,9 +75,9 @@ $LANG = array(
             Voor slechts 1€,- per aflevering kun je patron worden op Patreon
         </a>
     </div>
-    
-        <img alt="afbeelding die patrons voorstelt" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-
+        <a href="https://www.patreon.com/davidrevoy" title="Voor slechts 1€,- per aflevering kun je patron van Pepper&amp;Carrot worden">
+            <img alt="afbeelding die patrons voorstelt" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
+        </a>
 
     <h2>100% gratis, altijd, zonder paywall</h2>
     
@@ -119,24 +119,13 @@ $LANG = array(
     Een enkel succes kan als een &#39;sneeuwbal&#39; de hele industrie veranderen. Laten we het proberen!</p>
     
         <img alt="afbeelding: de stripboeken-industrie versus ondersteuning door patrons" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
-
-    <h2>Waarom heeft Pepper&amp;Carrot geld nodig?</h2>
-    
-    <p>Om Pepper&amp;Carrot fulltime te tekenen, en een dak boven mijn hoofd te hebben, heb ik $900,-<br/>
-    per aflevering nodig, uitgaande van twee afleveringen per maand.<br/>
-    Die $900,- is geen magisch getal: ik heb het berekend op basis van het Franse minimumloon,<br/>
-    rekening houdend met de belasting die een onafhankelijke artiest moet betalen.<br/>
-    Met minder dan $900,- moet ik freelance-werk blijven doen (trage Pepper&amp;Carrot-productie, minder dan één aflevering per maand).<br/>
-    Met meer dan $900,- kan ik Pepper&amp;Carrot fulltime gaan tekenen (snelle Pepper&amp;Carrot-productie, twee afleveringen per maand).</p>
     
     <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Voor maar 1€,- per aflevering kun je patron van Pepper&amp;Carrot worden">
+        <a class="h4" href="https://www.patreon.com/davidrevoy" title="Voor maar 1€,- per aflevering kun je patron van Pepper&amp;Carrot worden">
             help me om de productie van Pepper&amp;Carrot sneller te maken
         </a> 
     </div>
-        
-    <img alt="" src="data/images/static/2015-02-09_philosophy_02-money-meter.jpg"> 
-    
+            
     <p>Bedankt voor het lezen!<br/>
     -David Revoy</p>
  

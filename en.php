@@ -76,8 +76,9 @@ $LANG = array(
         </a>
     </div>
     
-        <img alt="illustration representing patronage" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-
+        <a href="https://www.patreon.com/davidrevoy" title="For only 1$ per new episode, become a patreon of Pepper&amp;Carrot">
+            <img alt="illustration representing patronage" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
+        </a>
 
     <h2>100% free, forever, no paywall</h2>
     
@@ -117,22 +118,13 @@ $LANG = array(
     &nbsp;.&nbsp;.&nbsp;.&nbsp;Why not a single success couldn&#39;t &#39;snowball&#39; a whole industry in crisis? Let&#39;s try it!</p>
     
         <img alt="illustration: comic book industry VS patreon support" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
-
-    <h2>Why Pepper&amp;Carrot needs money?</h2>
-    
-    <p>To draw Pepper&amp;Carrot fulltime and keep food and roof, I need 900$ per episode and two episodes per month.<br/>
-    This 900$ number is not a magic number: I made the math starting with the minimal french salary, and added the tax I pay to be an independent artist.<br/>
-    Under 900$, I must keep doing freelance works (slow Pepper&amp;Carrot production, less than 1 episode per month).<br/>
-    Over 900$, I can draw fulltime Pepper&amp;Carrot (fast Pepper&amp;Carrot production, 2 episodes per month).</p>
     
     <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="For only 1$ per new episode, become a patreon of Pepper&amp;Carrot">
+        <a class="h4" href="https://www.patreon.com/davidrevoy" title="For only 1$ per new episode, become a patreon of Pepper&amp;Carrot">
             help me to boost Pepper&amp;Carrot production today
         </a> 
     </div>
-        
-    <img alt="" src="data/images/static/2015-02-09_philosophy_02-money-meter.jpg"> 
-    
+            
     <p>Thank you for reading! <br/>
     -David Revoy</p>
  

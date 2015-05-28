@@ -75,9 +75,10 @@ $LANG = array(
             Werde heute noch F&ouml;rderer auf Patreon f&uuml;r nur 1€ pro neuer Episode
         </a>
     </div>
-    
-        <img alt="illustration, die die F&ouml;rderung beschreibt" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-
+        
+        <a href="https://www.patreon.com/davidrevoy" title="Werde F&ouml;rderer von Pepper&amp;Carrot f&uuml;r 1€ pro neuer Episode">
+            <img alt="illustration, die die F&ouml;rderung beschreibt" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
+        </a>
 
     <h2>100% frei, f&uuml;r immer, keine Paywall</h2>
     
@@ -119,23 +120,12 @@ $LANG = array(
     ... Warum sollte nicht ein einzelner Erfolg eine Lawine ausl&ouml;sen, die eine ganze Industrie in die Knie zwingt? Lasst es uns versuchen !</p>
     
         <img alt="Illustration: Comic-Industrie VS Patreon-Unterst&uuml;tzung" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
-
-    <h2>Warum braucht Pepper&amp;Carrot Geld ?</h2>
-    
-    <p>Um Vollzeit Pepper&amp;Carrot zeichnen zu k&ouml;nnen und dabei Essen und ein Dach &uuml;ber dem Kopf zu behalten,<br/>
-	 brauche ich 900$ ( 780€ ) pro Episode und zwei Episoden pro Monat.<br/>
-    Diese 900$ habe ich nicht aus dem Hut gezogen: Ich habe sie berechnet,<br/>
-	 indem ich mit Franz&ouml;sischen Mindestlohn anfing und die Abgaben hinzuf&uuml;gte, die ich als freier K&uuml;nstler bezahlen muss.<br/>
-    Unter 900$ muss ich weiterhin Auftragsarbeiten annehmen ( langsame Pepper&amp;Carrot Produktion, weniger als eine Episode pro Monat ).<br/>
-    &Uuml;ber 900$ kann ich Vollzeit Pepper&amp;Carrot zeichnen ( schnelle Pepper&amp;Carrot Produktion, Höchstens 2 Episoden pro Monat ).</p>
-    
+  
     <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Werde ein Patreon von Pepper&amp;Carrot f&uuml;r nur 1€ pro Episode.">
+        <a class="h4" href="https://www.patreon.com/davidrevoy" title="Werde ein Patreon von Pepper&amp;Carrot f&uuml;r nur 1€ pro Episode.">
             Hilf mir heute, die Produktion von Pepper&amp;Carrot zu beschleunigen
         </a> 
     </div>
-        
-    <img alt="" src="data/images/static/2015-02-09_philosophy_02-money-meter.jpg"> 
     
     <p>Danke f&uuml;r&#39; die Aufmerksamkeit ! <br/>
     -David Revoy</p>

@@ -75,9 +75,9 @@ $LANG = array(
             Por sólo 1€ por cada nuevo episodio, conviértete hoy en un patrocinador en Patreon
         </a>
     </div>
-    
-        <img alt="ilustración representando el patrocinio" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-
+        <a href="https://www.patreon.com/davidrevoy" title="Por sólo 1€ por cada nuevo episodio, conviértete en patrocinador">
+            <img alt="ilustración representando el patrocinio" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
+        </a>
 
     <h2>100% gratis, por siempre, sin Paywall</h2>
     
@@ -117,22 +117,13 @@ $LANG = array(
     &nbsp;.&nbsp;.&nbsp;.&nbsp;¿Por qué no un solo éxito no podría hacer de &#39;bola de nieve&#39; para toda una industria en crisis?¡Vamos a intentarlo!</p>
     
         <img alt="illustration: comic book industry VS patreon support" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
-
-    <h2>¿Por qué Pepper&amp;Carrot necesita dinero?</h2>
-    
-    <p>Para dibujar Pepper&amp;Carrot a tiempo completo y mantener la comida y el techo, necesito 900$ por episodio y dos episodios al mes.<br/>
-    Este número 900$ no es un número mágico: Hice las cuentas empezando por el salario mínimo francés, y agregué el impuesto que pago para ser un artista independiente.<br/>
-    Bajo los 900$, tengo que seguir haciendo obras independientes (Pepper&amp;Carrot saldrá lentamente a menos de 1 episodio al mes).<br/>
-    Sobre los 900$, podre dibujar a tiempo complete Pepper&amp;Carrot (Pepper&amp;Carrot saldrá más rápido, 2 episodios al mes)</p>
     
     <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="For only 1€ per new episode, become a patreon of Pepper&amp;Carrot">
+        <a class="h4" href="https://www.patreon.com/davidrevoy" title="For only 1€ per new episode, become a patreon of Pepper&amp;Carrot">
             Ayúdame a impulsar Pepper&amp;Carrot hoy
         </a> 
     </div>
-        
-    <img alt="" src="data/images/static/2015-02-09_philosophy_02-money-meter.jpg"> 
-    
+            
     <p>¡Gracias por leer! <br/>
     -David Revoy</p>
  

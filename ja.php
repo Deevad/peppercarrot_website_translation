@@ -75,9 +75,9 @@ $LANG = array(
             1エピソードたった1ドルで、あなたもPatreonでペッパー&amp;キャロットのパトロンになりませんか？
         </a>
     </div>
-    
-        <img alt="パトロンシステムの説明イラスト" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-
+        <a href="https://www.patreon.com/davidrevoy" title="1エピソードたった1ドルで、ペッパー&amp;キャロットのパトロンになりませんか？">
+            <img alt="パトロンシステムの説明イラスト" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
+        </a>
 
     <h2>ずっと100%無料、 課金の壁は無し</h2>
     
@@ -117,22 +117,13 @@ $LANG = array(
     …一つでもパトロンの支援による成功例があれば、それが雪崩のように広がることだって不可能ではないでしょう。業界が危機にあるとしたら？挑戦してみましょう！</p>
     
         <img alt="イラスト：コミック業界vsパトロンの支援" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
-
-    <h2>どうしてペッパー&amp;キャロットにお金が必要なの?</h2>
-    
-    <p>私がペッパー&amp;キャロットをフルタイムで製作しつつ、屋根の下で食事ができるようにするには、1エピソードにつき$900と、1か月に2エピソードの製作が必要です。<br/>
-    この$900というのは天から降ってきた数字ではありません。フランスでの最低賃金と、独立したアーティストであるために必要な経費支払から計算した額になります。<br/>
-    $900以下だと、私はフリーランスの仕事を続ける必要があります。(ペッパー&amp;キャロットの製作ペースは遅くなり、1か月に1エピソード以下になります)<br/>
-    $900を越えれば、フルタイムでペッパー&amp;キャロットを製作できます。(ペッパー&amp;キャロットの製作ペースが速くなり、1か月に2エピソードになります) </p>
-    
+  
     <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="1エピソードたった1ドルで、ペッパー&amp;キャロットのパトロンになりませんか？">
+        <a class="h4" href="https://www.patreon.com/davidrevoy" title="1エピソードたった1ドルで、ペッパー&amp;キャロットのパトロンになりませんか？">
             ペッパー&amp;キャロットの製作を加速する手助けをしてください！
         </a> 
     </div>
-        
-    <img alt="" src="data/images/static/2015-02-09_philosophy_02-money-meter.jpg"> 
-    
+            
     <p>ここまで読んでいただき、ありがとうございました! <br/>
     -David Revoy</p>
  

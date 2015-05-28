@@ -71,11 +71,12 @@ $LANG = array(
     
     <div class="philobutton">
         Pour seulement 1€ par nouvel épisode,<br/> devenez dès aujourd\'hui mécéne de Pepper&amp;Carrot<br/>
-        sur <a href="https://www.tipeee.com/pepper-carrot" title="Pour seulement 1€ par nouvel épisode, devenez mécéne aujourdh\'ui sur Tipeee">Tipeee</a> ( site en Français )<br/> ... ou sur <a href="https://www.patreon.com/davidrevoy" title="Pour seulement 1$ par nouvel épisode, devenez mécéne aujourdh\'ui sur Patreon">Patreon</a> (International)
+        sur <a href="https://www.tipeee.com/pepper-carrot" title="Pour seulement 1€ par nouvel épisode, devenez mécéne aujourdh\'ui sur Tipeee">Tipeee</a> ( site en Français, Euros ) ou sur <a href="https://www.patreon.com/davidrevoy" title="Pour seulement 1$ par nouvel épisode, devenez mécéne aujourdh\'ui sur Patreon">Patreon</a> (International, Dollar US. )
     </div>
     
-        <img alt="illustration representant le mécénat moderne" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-
+        <a href="https://www.tipeee.com/pepper-carrot" title="Pour seulement 1€ par nouvel épisode, devenez mécéne aujourdh\'ui sur Tipeee">
+            <img alt="illustration representant le mécénat moderne" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
+        </a>
 
     <h2>100% gratuit, pour toujours</h2>
     
@@ -115,21 +116,12 @@ $LANG = array(
     ... Et pourquoi Pepper&amp;Carrot ne pourrait t\'il pas amorcer un changement et ainsi inspirer une industrie en crise ? Essayons !</p>
     
         <img alt="illustration: l\'industrie de la BD VS financement par mécénat" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
-
-    <h2>Pourquoi le projet Pepper&amp;Carrot nécéssite-t\'il de l\'argent ?</h2>
-    
-    <p>Pour dessiner Pepper&amp;Carrot à plein temps (tout en gardant un toit et de quoi manger), j\'ai besoin de 900$ (780€) par episode et de deux épisodes par mois.<br/>
-    900$ n\'est pas un chiffre magique: j\'ai fais les maths en partant du SMIC, en ajoutant les taxes que je paie pour éxercer en indépendant en France.<br/>
-    Au dessous de 900$: je garde mes commandes freelance (production lente de Pepper&amp;Carrot, moins d\'un episode par mois).<br/>
-    Au dessus de 900$: je peux faire du Pepper&amp;Carrot à plein temps (production \'rapide\' de Pepper&amp;Carrot, deux épisodes par mois maximum).</p>
     
     <div class="philobutton">
-        Pour seulement 1€ par nouvel épisode,<br/> devenez dès aujourd\'hui mécéne de Pepper&amp;Carrot<br/>
-        sur <a href="https://www.tipeee.com/pepper-carrot" title="Pour seulement 1€ par nouvel épisode, devenez mécéne aujourdh\'ui sur Tipeee">Tipeee</a> ( site en Français )<br/> ... ou sur <a href="https://www.patreon.com/davidrevoy" title="Pour seulement 1$ par nouvel épisode, devenez mécéne aujourdh\'ui sur Patreon">Patreon</a> (International)
+        Devenez dès aujourd\'hui mécéne de Pepper&amp;Carrot<br/>
+        sur <a href="https://www.tipeee.com/pepper-carrot" title="Pour seulement 1€ par nouvel épisode, devenez mécéne aujourdh\'ui sur Tipeee">Tipeee</a> ( site en Français, Euros ) ou sur <a href="https://www.patreon.com/davidrevoy" title="Pour seulement 1$ par nouvel épisode, devenez mécéne aujourdh\'ui sur Patreon">Patreon</a> (International, Dollar US. )
     </div>
-        
-    <img alt="" src="data/images/static/2015-02-09_philosophy_02-money-meter.jpg"> 
-    
+            
     <p>Merci pour votre attention,  <br/>
     David Revoy</p>
  

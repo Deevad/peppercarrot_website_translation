@@ -75,9 +75,9 @@ $LANG = array(
             Всего за 1$ за новый выпуск, стань спонсором уже сегодня на Patreon
         </a>
     </div>
-    
-        <img alt="illustration representing patronage" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-
+        <a href="https://www.patreon.com/davidrevoy" title="Стань спонсором Pepper&amp;Carrot - всего 1$ за новый выпуск">
+            <img alt="illustration representing patronage" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
+        </a>
 
     <h2>100% бесплатный, навсегда, никакого платного доступа</h2>
     
@@ -117,21 +117,12 @@ $LANG = array(
     &nbsp;.&nbsp;.&nbsp;.&nbsp;Неужели одиночный успех не может снежным комом загнать в кризис всю индустрию? Давайте попробуем!</p>
     
         <img alt="иллюстрация: комикс-индустрия и поддержка добровольцами" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
-
-    <h2>Почему Pepper&amp;Carrot нужны деньги?</h2>
-    
-    <p>Чтобы рисовать Pepper&amp;Carrot полный рабочий день, при этом имея крышу над головой и еду, мне нужно получать 900$ за выпуск, выпуская по два эпизода в месяц.<br/>
-    Число 900$ взялось не по волшебству: я сделал подсчеты исходя из минимальной зарплаты во Франции, добавив налоги, которые приходится платить, чтобы оставаться независимым художником.<br/>
-    Менее 900$ - и мне придется продолжать заниматься фрилансом, (реже выход Pepper&amp;Carrot, меньше одного эпизода в месяц).<br/>
-    Больше 900$ - и я могу отдавать Pepper&amp;Carrot все мое рабочее время (Pepper&amp;Carrot выходит чаще, 2 эпизода в месяц).</p>
     
     <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Стань спонсором Pepper&amp;Carrot - всего 1$ за новый выпуск">
+        <a class="h4" href="https://www.patreon.com/davidrevoy" title="Стань спонсором Pepper&amp;Carrot - всего 1$ за новый выпуск">
             помогите мне участить выпуск Pepper&amp;Carrot уже сегодня
         </a> 
     </div>
-        
-    <img alt="" src="data/images/static/2015-02-09_philosophy_02-money-meter.jpg"> 
     
     <p>Спасибо за прочтение! <br/>
     -David Revoy</p>

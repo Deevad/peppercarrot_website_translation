@@ -67,10 +67,12 @@ $LANG = array(
             Diventate oggi un lettore con Patreon con appena 1€ per nuovo episodio, 
         </a>
     </div>
-    
-        <img alt="illustration representing patronage" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
+        <a href="https://www.patreon.com/davidrevoy" title="Diventa lettore di Pepper&amp;Carrot con appena 1€ per nuovo episodio">
+            <img alt="illustration representing patronage" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
+        </a>
+        
     <h2>100% gratuito, per sempre</h2>
-    
+
     <p>Ogni contenuto prodotto su Pepper&amp;Carrot &#232; disponibile in questo sito web, gratuito e fruibile da chiunque.<br/>
     Rispetto tutti alla stessa maniera: con o senza denaro. Anche tutti i regali speciali che faccio per i miei lettori sono inseriti qui.<br/>
     Pepper&amp;Carrot non vi chieder&#224; mai di pagare oppure di sottoscrivere un abbonamento per accedere a nuovi contenuti.</p>
@@ -102,21 +104,13 @@ $LANG = array(
     &nbsp;.&nbsp;.&nbsp;.&nbsp;e perch&#233; un singolo successo non potrebbe causare un cambiamento e ispirare un settore in crisi? Proviamoci!</p>
     
         <img alt="illustration: comic book industry VS patreon support" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
-    <h2>Perch&#233; il progetto Pepper&amp;Carrot ha bisogno di denaro?</h2>
-    
-    <p>Per disegnare a tempo pieno Pepper&amp;Carrot e permettermi di mangiare ed un tetto in cui dormire, ho bisogno di 900$ per episodio e produrre due episodi al mese.<br/>
-    Questa cifra (900$) non rappresenta nulla di magico: l&#39;ho ottenuta partendo dal salario minimo pagato in Francia ed aggiunto le tasse che pago per esercitare come artista autonomo.<br/>
-    Sotto questa soglia, dovrei accettare lavori come libero professionista (rallentando cos&#236; la produzione di Pepper&amp;Carrot, meno di un episodio al mese).<br/>
-    Sopra questa soglia, potr&#242; disegnare Pepper&amp;Carrot a tempo pieno (accelerando la produzione di Pepper&amp;Carrot, 2 episodi al mese).</p>
     
     <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Diventa un lettore di Pepper&amp;Carrot per solo 1€ per ogni nuovo episodio">
+        <a class="h4" href="https://www.patreon.com/davidrevoy" title="Diventa un lettore di Pepper&amp;Carrot per solo 1€ per ogni nuovo episodio">
             Aiutatemi ad aumentare da oggi la produzione di Pepper&amp;Carrot.
         </a> 
     </div>
-        
-    <img alt="" src="data/images/static/2015-02-09_philosophy_02-money-meter.jpg"> 
-    
+            
     <p>Grazie per l&#39;attenzione! <br/>
     David Revoy</p>
  ',
