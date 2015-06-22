@@ -80,7 +80,7 @@ $LANG = array(
             <img alt="illustration representing patronage" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
         </a>
 
-    <h2>100% miễn phí, mãi mãi và yêu cầu trả tiền</h2>
+    <h2>100% miễn phí, mãi mãi và không yêu cầu trả tiền</h2>
     
     <p>Mỗi nội dung liên quan đến Hạt Tiêu&amp;Cà Rốt được đăng trên này, miên phí cho tất cả mọi người<br/>
     Tôi tôn trọng tất cả các bạn một cách công bằng: dù có tiêng hay không đi chăng nữa. Tất cả những bonus đặc biệt cho các nhà tài trợ sẽ được đăng ở đây.<br/>
@@ -93,7 +93,7 @@ $LANG = array(
     <p>Tôi muốn mọi người có quyền để chia sẻ, sử dụng, xây dựng and và kể cả kiếm lợi nhuận từ tắc phẩm Tôi đã làm ra.<br/>
     Tất cả các trang, bản vẽ và nội dung được làm vơi các công cụ miễn phí và mã nguồn mở, Software trên Gnu/Linux, và tất cả nguồn được viết trên trang web này, &#39;Source&#39; menu.<br/>
     Các sử dụng thương mại, bản dịch, fan-arts, in-ấn, phim, video-games, sharing, đăng lại luôn được khuyến khích.<br/>
-    You just need to credit my name - David Revoy - as the author.</p>
+    Bạn chỉ cần nêu tên tôi - David Revoy - là tác giả của truyện.</p>
     
     <div class="philobutton">
         <a href="https://creativecommons.org/licenses/by/3.0/" title="Thông tin chi tiết, đọc the Creative Commons Attribution">
@@ -115,7 +115,7 @@ $LANG = array(
     
     <p>Với khoảng cách trung gian ngắn hơn giữa người đọc và tác giả, các bạn phải trả ít hơn và tôi nhận được nhiều hơn. Các bạn giúp đỡ tôi một cách trực tiếp.<br/>
     Không một nhà xuất bản/ nhà phân phối/ marketing/ nhà thiết kế nào có thể bắt tôi thay đổi Hạt Tiêu&amp;Cà Rốt để phù hợp với &#39;thị trường&#39; trong mắt họ.<br/>
-    &nbsp;.&nbsp;.&nbsp;.&nbsp;Why not a single success couldn&#39;t &#39;snowball&#39; a whole industry in crisis? Let&#39;s try it!</p>
+    &nbsp;.&nbsp;.&nbsp;.&nbsp;Tại sao ta không tạo nên một thành công  và &#39;hiệu ứng tuyết lăn&#39; cho cả một nền công nghiệp? Hãy cùng cố gắng nào!</p>
     
         <img alt="illustration: comic book industry VS patreon support" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
     
@@ -147,7 +147,7 @@ $LANG = array(
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Fan-art</h2>
-    <p> Hạt Tiêu&amp;Cà Rốt đã mở cho fan-arts: Vẽ, viết kịch bản, làm tượng, các mẫu 3D, fan-fiction. Hãy gửi cho tôi qua (<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a> , hay liên lạc với tôi qua mạng xã hội) để có thể ở trong fan-art gallery:</p>
+    <p> Hạt Tiêu&amp;Cà Rốt đã mở cho fan-arts: Vẽ, viết kịch bản, làm tượng, các mẫu 3D, fan-fiction. Hãy gửi cho tôi qua (<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a>) , hay liên lạc với tôi qua mạng xã hội) để có thể ở trong fan-art gallery:</p>
 ',
 'CONTRIBUTE_DERIVATIONS' => '
     <h2> Các chỉnh sửa, sáng tạo:</h2>
@@ -202,7 +202,7 @@ $LANG = array(
 
 ################################################################################
 # Page: Author
-'AUTHOR_TITLE'		=> 'About David Revoy',
+'AUTHOR_TITLE'		=> 'Về David Revoy',
 'AUTHOR_BIO'	    => '
     <p>Xin chào, tôi là David Revoy và tôi là một nghẹ sĩ người Pháp sinh năm 1981. Tôi tự học và đam mê về hội họa, mèo, máy tính, Gnu/Linux văn hóa với mã nguồn mở, Internet, RPG video-games cũ, mangas và anime cũ, hội họa truyền thống, văn hóa Nhạt Bản, fantasy&nbsp;.&nbsp;.&nbsp;.&nbsp;<br />
     <br />
