@@ -50,7 +50,7 @@ $LANG = array(
 'WEBCOMIC_EPISODE'		    =>  'Ranno&ugrave; ar Webcomic',
 'WEBCOMIC_MAKINGOF'		    =>  'Making-of',
 'WEBCOMIC_MAKINGOF_DESCRIPTION' =>  '
-    <p> Ar making-of hag ar <a href="http://www.davidrevoy.com/static4/tutorials">tutorial&ugrave; arz</a> a zo trao&ugrave; ouzhpenn paeroniet gant va <a href="https://www.patreon.com/davidrevoy">&#39;harozed&#39; Patreon</a></p>
+    <p> Ar making-of hag ar <a href="http://www.davidrevoy.com/static4/tutorials">c\'helennskrido&ugrave; arz</a> a zo trao&ugrave; ouzhpenn paeroniet gant va <a href="https://www.patreon.com/davidrevoy">&#39;harozed&#39; Patreon</a></p>
 ',
 'WEBCOMIC_ARTWORK'		    =>  'Skeudennaoueg Labour arzel',
 'WEBCOMIC_SKETCHES'		    =>  'Brastreso&ugrave;',
@@ -156,7 +156,7 @@ $LANG = array(
 'CONTRIBUTE_BOTTOM'	    => '
     <h2>Troidigezhio&ugrave; ha reizhadenno&ugrave; :</h2>
 
-    <p> Savet eo lec\'hienn Pepper&amp;Carrot evit beza&ntilde; liesyezhek hag aotren forzh peseurt yezh (reo&ugrave; varv ha reo&ugrave; faltaziek en o zouez). Mammenno&ugrave; ar bajenn a zo roet deoc\'h evit ma c\'hallfec\'h trei&ntilde; anezhi. Lennit an <a href="index.php?fr/article267/translation-tutorial">tutorial dave</a> evit kaout muioc\'h a ditouro&ugrave; diwar-benn an doare da ouzhpenna&ntilde; ho troidigezh.</p>
+    <p> Savet eo lec\'hienn Pepper&amp;Carrot evit beza&ntilde; liesyezhek hag aotren forzh peseurt yezh (reo&ugrave; varv ha reo&ugrave; faltaziek en o zouez). Mammenno&ugrave; ar bajenn a zo roet deoc\'h evit ma c\'hallfec\'h trei&ntilde; anezhi. Lennit ar <a href="index.php?fr/article267/translation-tutorial">c\'helennskrid dave</a> evit kaout muioc\'h a ditouro&ugrave; diwar-benn an doare da ouzhpenna&ntilde; ho troidigezh.</p>
 
     <h2>Kazetenno&ugrave;, rouedado&ugrave; kevredadel</h2>
 
