@@ -33,7 +33,7 @@ $LANG = array(
 ################################################################################
 # Page: Homepage
 'HOMEPAGE_BIG_TEXT'		    =>  '
-    Ur webcomic digoust, frank ha memmenn digor<br/>
+    Ur webcomic digoust, frank ha mammenn digor<br/>
     harpet war-eeun gant e baeroned<br/>
     evit kemma&ntilde; greanterezh ar banno&ugrave;-treset !<br/>
 ',
