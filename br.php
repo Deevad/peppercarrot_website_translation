@@ -140,8 +140,8 @@ $LANG = array(
     <h2>Paeroniezh, roadurio&ugrave;</h2>
 
     <p>Displega&ntilde; a ran er <a href="?static2/philosophy" title="digor ar bajenn Preder">bajenn Preder</a> kazi pep tra a-zivout va arc\'hantaoui&ntilde;.<br/>
-    Aes eo dont da veza&ntilde; paeron Pepper&amp;Carrot evit 1$ dre rann nevez <a href="https://www.patreon.com/davidrevoy">war Patreon</a> pe 1€ <a href=https://www.tipeee.com/pepper-carrot">war Tipeee</a>.<br/>
-    Asantet e vez gant Patreon ha Tipeee ar c\'hartenno&ugrave; gred eus ar bed a-bezh, ha tu \'zo deoc\'h zoken paea&ntilde; gant ur gont Paypal.</br>
+    Aes eo dont da veza&ntilde; paeron Pepper&amp;Carrot evit 1€ dre rann nevez <a href="https://www.patreon.com/davidrevoy">war Patreon</a>.<br/>
+    Asantet e vez gant Patreon ar c\'hartenno&ugrave; gred eus ar bed a-bezh, ha tu \'zo deoc\'h zoken paea&ntilde; gant ur gont Paypal.</br>
             Asanti&ntilde; a ran ivez roadurio&ugrave; war-eeun gant Paypal pe Flattr;</p>
 ',
 'CONTRIBUTE_FANART'	    => '
