@@ -37,7 +37,7 @@ $LANG = array(
     harpet war-eeun gant e baeroned<br/>
     evit kemma&ntilde; greanterezh ar banno&ugrave;-treset !<br/>
 ',
-'HOMEPAGE_PATREON_INFO'     =>  'Evit 1$ dre rann, deuit da veza&ntilde; paeron war Patreon pe evit 1€ !',
+'HOMEPAGE_PATREON_INFO'     =>  'Evit 1€ dre rann, deuit da veza&ntilde; paeron war Patreon !',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Gouzout hiroc\'h',
 'HOMEPAGE_PATREON_BUTTON'   =>  'paeronia&ntilde; Pepper&amp;Carrot war Patreon',
 'HOMEPAGE_LAST_EPISODE'     =>  'Rann ziwezha&ntilde; :',
