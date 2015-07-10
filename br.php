@@ -37,13 +37,13 @@ $LANG = array(
     harpet war-eeun gant e baeroned<br/>
     evit kemma&ntilde; greanterezh ar banno&ugrave;-treset !<br/>
 ',
-'HOMEPAGE_PATREON_INFO'     =>  'Evit 1$ dre rann, deuit da veza&ntilde; paeron war Patreon pe evit 1&euro; war Tipee adalek brema&ntilde; !',
+'HOMEPAGE_PATREON_INFO'     =>  'Evit 1$ dre rann, deuit da veza&ntilde; paeron war Patreon pe evit 1€ !',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Gouzout hiroc\'h',
-'HOMEPAGE_PATREON_BUTTON'   =>  'paeronia&ntilde; Pepper&amp;Carrot war Patreon pe Tipee',
+'HOMEPAGE_PATREON_BUTTON'   =>  'paeronia&ntilde; Pepper&amp;Carrot war Patreon',
 'HOMEPAGE_LAST_EPISODE'     =>  'Rann ziwezha&ntilde; :',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Keleier ha nevesadurio&ugrave; :',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Muioc\'h a bennado&ugrave; :',
-'HOMEPAGE_MAINSERVICE_LINK' =>  'https://www.tipeee.com/pepper-carrot',
+'HOMEPAGE_MAINSERVICE_LINK' =>  'https://www.patreon.com/davidrevoy',
 
 ################################################################################
 # Page: Webcomics

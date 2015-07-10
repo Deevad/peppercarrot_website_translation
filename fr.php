@@ -37,13 +37,13 @@ $LANG = array(
     financé directement par ses lecteurs<br/>
     pour changer l\'industrie de la BD !<br/>
 ',
-'HOMEPAGE_PATREON_INFO'     =>  'Pour moins d\' 1€ par nouvel épisode, devenez mécène de Pepper&amp;Carrot sur Tipeee.', # Tipeee is special service for french, similar to Patreon
+'HOMEPAGE_PATREON_INFO'     =>  'Pour moins d\' 1€ par nouvel épisode, devenez mécène de Pepper&amp;Carrot sur Patreon.',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'plus d\'informations',
-'HOMEPAGE_PATREON_BUTTON'   =>  'Devenez mécène de Pepper&amp;Carrot sur Tipeee',  # Tipeee is special service for french, similar to Patreon
+'HOMEPAGE_PATREON_BUTTON'   =>  'Devenez mécène de Pepper&amp;Carrot sur Patreon',
 'HOMEPAGE_LAST_EPISODE'     =>  'Dernier épisode:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Nouvelles et mise-à-jour:',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Voir tout',
-'HOMEPAGE_MAINSERVICE_LINK' =>  'https://www.tipeee.com/pepper-carrot',
+'HOMEPAGE_MAINSERVICE_LINK' =>  'https://www.patreon.com/davidrevoy',
 
 ################################################################################
 # Page : Webcomics
@@ -70,8 +70,7 @@ $LANG = array(
     Grâce à ce système, Pepper&amp;Carrot reste indépendant et protégé du monde éditorial, de la pub et du marketing agressif.</p>
     
     <div class="philobutton">
-        Pour seulement 1€ par nouvel épisode,<br/> devenez dès aujourd\'hui mécéne de Pepper&amp;Carrot<br/>
-        sur <a href="https://www.tipeee.com/pepper-carrot" title="Pour seulement 1€ par nouvel épisode, devenez mécéne aujourdh\'ui sur Tipeee">Tipeee</a> ( site en Français, Euros ) ou sur <a href="https://www.patreon.com/davidrevoy" title="Pour seulement 1$ par nouvel épisode, devenez mécéne aujourdh\'ui sur Patreon">Patreon</a> (International, Dollar US. )
+        Pour seulement 1€ par nouvel épisode,<br/> devenez dès aujourd\'hui mécéne de Pepper&amp;Carrot sur <a href="https://www.patreon.com/davidrevoy" title="Pour seulement 1€ par nouvel épisode, devenez mécéne dès aujourdh\'ui sur Patreon" title="Pour seulement 1€ par nouvel épisode, devenez mécéne dès aujourdh\'ui sur Patreon">Patreon</a>
     </div>
     
         <a href="https://www.tipeee.com/pepper-carrot" title="Pour seulement 1€ par nouvel épisode, devenez mécéne aujourdh\'ui sur Tipeee">
@@ -118,8 +117,7 @@ $LANG = array(
         <img alt="illustration: l\'industrie de la BD VS financement par mécénat" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
     
     <div class="philobutton">
-        Devenez dès aujourd\'hui mécéne de Pepper&amp;Carrot<br/>
-        sur <a href="https://www.tipeee.com/pepper-carrot" title="Pour seulement 1€ par nouvel épisode, devenez mécéne aujourdh\'ui sur Tipeee">Tipeee</a> ( site en Français, Euros ) ou sur <a href="https://www.patreon.com/davidrevoy" title="Pour seulement 1$ par nouvel épisode, devenez mécéne aujourdh\'ui sur Patreon">Patreon</a> (International, Dollar US. )
+        Pour seulement 1€ par nouvel épisode,<br/> devenez dès aujourd\'hui mécéne de Pepper&amp;Carrot sur <a href="https://www.patreon.com/davidrevoy" title="Pour seulement 1€ par nouvel épisode, devenez mécéne dès aujourdh\'ui sur Patreon" title="Pour seulement 1€ par nouvel épisode, devenez mécéne dès aujourdh\'ui sur Patreon">Patreon</a>
     </div>
             
     <p>Merci pour votre attention,  <br/>
