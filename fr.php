@@ -93,8 +93,8 @@ $LANG = array(
     Je vous demande seulement de me citer en retour comme étant l\'auteur original.</p>
     
     <div class="philobutton">
-        <a href="https://creativecommons.org/licenses/by/4.0/deed.fr" title="Plus d\'information en français sur Creative Commons Attribution">
-            Licence : Creative Commons Attribution
+        <a href="https://creativecommons.org/licenses/by/4.0/deed.fr" title="Plus d\'information en français sur Creative Commons Attribution 4.0">
+            Licence : Creative Commons Attribution 4.0
         </a>
     </div>
 
@@ -129,7 +129,7 @@ $LANG = array(
 # Page : Contribute 
 'CONTRIBUTE_TITLE'		=> 'Contribuer',
 'CONTRIBUTE_TOP'		=> '
-    <p>Grâce au partage des <a href="?static6/sources" title="Sources page">sources</a> et à sa <a href="http://creativecommons.org/licenses/by/3.0/">
+    <p>Grâce au partage des <a href="?static6/sources" title="Sources page">sources</a> et à sa <a href="http://creativecommons.org/licenses/by/4.0/">
     licence Creative Commons Attribution</a>, vous pouvez contribuer à Pepper&amp;Carrot de multiples manières :</p>
 ',
 'CONTRIBUTE_DONATION'		=> '           
@@ -188,7 +188,7 @@ $LANG = array(
 ',
 'SOURCES_BOTTOM'	=> '
     <p>Par le téléchargement de ces fichiers vous certifiez être en accord avec les termes <br/>
-     de <a href="http://creativecommons.org/licenses/by/3.0/deed.fr">la licence Creative Commons Attribution</a>.
+     de <a href="http://creativecommons.org/licenses/by/4.0/deed.fr">la licence Creative Commons Attribution</a>.
     Consultez le fichier README<br/>
     de chaque projets pour plus d\'infos.</p>
   

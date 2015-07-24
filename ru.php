@@ -95,8 +95,8 @@ $LANG = array(
     Все, что от вас требуется - указать меня - David Revoy (Дэвид Ревуа) в качестве автора.</p>
     
     <div class="philobutton">
-        <a href="https://creativecommons.org/licenses/by/3.0/" title="Прочтите Creative Commons Attribution, чтобы узнать больше">
-            Лицензия: Creative Commons Attribution
+        <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" title="Прочтите Creative Commons Attribution 4.0, чтобы узнать больше">
+            Лицензия: Creative Commons Attribution 4.0
         </a>
     </div>
 
@@ -133,7 +133,7 @@ $LANG = array(
 # Page: Contribute 
 'CONTRIBUTE_TITLE'		=> 'Принять участие',
 'CONTRIBUTE_TOP'		=> '
-    <p>Благодаря <a href="?static6/sources" title="Страница исходников">открытым исходникам</a> и <a href="http://creativecommons.org/licenses/by/3.0/">
+    <p>Благодаря <a href="?static6/sources" title="Страница исходников">открытым исходникам</a> и <a href="http://creativecommons.org/licenses/by/4.0/">
     лицензии Creative Commons</a> Вы можете помочь Pepper&amp;Carrot многими способами:</p>
 ',
 'CONTRIBUTE_DONATION'		=> '
@@ -187,7 +187,7 @@ $LANG = array(
 ',
 'SOURCES_BOTTOM'	    => '
     <p>Загружая эти файлы и работая с ними, Вы соглашаетесь и подтверждаете условия <br/>
-    <a href="http://creativecommons.org/licenses/by/3.0/">лицензии Creative Commons Attribution</a>.
+    <a href="http://creativecommons.org/licenses/by/4.0/">лицензии Creative Commons Attribution</a>.
     Ознакомьтесь с файлами README каждого проекта для получения большей информации.</p>
   
     <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Репозиторий кода для переводов, текстов, сайта, графики и пр.:</b><br/></p>

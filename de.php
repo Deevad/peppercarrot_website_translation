@@ -97,8 +97,8 @@ $LANG = array(
     Ihr m&uuml;sst nur meinen Namen - David Revoy - als Autor kenntlich machen.</p>
     
     <div class="philobutton">
-        <a href="https://creativecommons.org/licenses/by/3.0/deed.de" title="F&uumlr weitere Informationen lies: Creative Commons Namensnennung 3.0 Unported">
-            Lizenz: Creative Commons Namensnennung 3.0 Unported
+        <a href="https://creativecommons.org/licenses/by/4.0/deed.de" title="F&uumlr weitere Informationen lies: Creative Commons Namensnennung 4.0 Unported">
+            Lizenz: Creative Commons Namensnennung 4.0 Unported
         </a>
     </div>
 
@@ -136,7 +136,7 @@ $LANG = array(
 # Page : Contribute 
 'CONTRIBUTE_TITLE'		=> 'Mithelfen',
 'CONTRIBUTE_TOP'		=> '
-    <p>Dank der <a href="?static6/sources" title="Quellen Seite">Offenen Quellen</a> und der <a href="http://creativecommons.org/licenses/by/3.0/">
+    <p>Dank der <a href="?static6/sources" title="Quellen Seite">Offenen Quellen</a> und der <a href="http://creativecommons.org/licenses/by/4.0/">
     Creative Commons Lizenz</a> k&ouml;nnt ihr auf vielf&auml;ltige Weise an Pepper&amp;Carrot mitwirken :</p>
 ',
 'CONTRIBUTE_DONATION'		=> '
@@ -190,7 +190,7 @@ $LANG = array(
 ',
 'SOURCES_BOTTOM'	    => '
     <p>Indem ihr diese Dateien runterladet, und verwendet, akzeptiert ihr die Bedingungen der<br/>
-    <a href="https://creativecommons.org/licenses/by/3.0/deed.de">Creative Commons Namensnennung 3.0 Unported ( CC BY 3.0 )</a>.
+    <a href="https://creativecommons.org/licenses/by/4.0/deed.de">Creative Commons Namensnennung 3.0 Unported ( CC BY 3.0 )</a>.
     Schaut euch die README in den Projekten an um mehr zu erfahren .</p>
   
     <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Code repositories f&uumlr &Uuml;bersetzungen, Scripte, Webseite, Grafik...etc... :</b><br/></p>

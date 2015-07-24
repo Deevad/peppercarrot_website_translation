@@ -95,8 +95,8 @@ $LANG = array(
     その場合に必要なのは、作者として私の名前- David Revoy -をクレジットすることだけです。</p>
     
     <div class="philobutton">
-        <a href="https://creativecommons.org/licenses/by/3.0/" title="詳しくはCreative Commons Attributionを参照してください">
-            ライセンス : Creative Commons Attribution
+        <a href="https://creativecommons.org/licenses/by/4.0/deed.ja" title="詳しくはCreative Commons Attribution 4.0を参照してください">
+            ライセンス : Creative Commons Attribution 4.0
         </a>
     </div>
 
@@ -133,7 +133,7 @@ $LANG = array(
 # Page : Contribute 
 'CONTRIBUTE_TITLE'		=> '協力参加',
 'CONTRIBUTE_TOP'		=> '
-    <p><a href="?static6/sources" title="Sources page">オープンソース</a>であることと、<a href="http://creativecommons.org/licenses/by/3.0/">
+    <p><a href="?static6/sources" title="Sources page">オープンソース</a>であることと、<a href="http://creativecommons.org/licenses/by/4.0/">
     クリエイティブコモンズライセンス</a>のおかげで、読者のあなたもいろいろな方法でペッパー&amp;キャロットに協力、参加ができます:</p>
 ',
 'CONTRIBUTE_DONATION'		=> '
@@ -187,7 +187,7 @@ $LANG = array(
 ',
 'SOURCES_BOTTOM'	    => '
     <p>これらのファイルをダウンロードすることで、以下のライセンスに合意したものとみなします。<br/>
-    <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution license</a>
+    <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution license</a>
     各プロジェクトの詳細は、READMEを参照してください。</p>
   
     <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> 翻訳、スクリプト、ウェブサイト、グラフィックなどのコードリポジトリ:</b><br/></p>

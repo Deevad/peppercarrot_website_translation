@@ -96,8 +96,8 @@ $LANG = array(
     Je hoeft alleen maar mij - David Revoy - als auteur te vermelden.</p>
     
     <div class="philobutton">
-        <a href="https://creativecommons.org/licenses/by/3.0/" title="Lees voor meer informatie de Creative Commons Naamsvermelding-licentie">
-            Licentie: Creative Commons Naamsvermelding
+        <a href="https://creativecommons.org/licenses/by/4.0/deed.nl" title="Lees voor meer informatie de Creative Commons Naamsvermelding-licentie 4.0">
+            Licentie: Creative Commons Naamsvermelding 4.0
         </a>
     </div>
 
@@ -135,7 +135,7 @@ $LANG = array(
 # Page : Contribute 
 'CONTRIBUTE_TITLE'		=> 'Bijdragen',
 'CONTRIBUTE_TOP'		=> '
-    <p>Dankzij de <a href="?static6/sources" title="Sources page">open bronbestanden</a> en de <a href="http://creativecommons.org/licenses/by/3.0/">
+    <p>Dankzij de <a href="?static6/sources" title="Sources page">open bronbestanden</a> en de <a href="http://creativecommons.org/licenses/by/4.0/">
     Creative Commons-licentie</a> kun je op vele manieren bijdragen aan Pepper&amp;Carrot:</p>
 ',
 'CONTRIBUTE_DONATION'		=> '
@@ -189,7 +189,7 @@ $LANG = array(
 ',
 'SOURCES_BOTTOM'	    => '
     <p>Door deze bestanden te downloaden en ermee te werken, ga je ermee akkoord de termen van de<br/>
-    <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Naamsvermelding-licentie</a> te respecteren.
+    <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Naamsvermelding-licentie</a> te respecteren.
     Bekijk de README-bestanden in ieder project voor meer informatie.</p>
   
     <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Code-repository\'s voor vertalingen, scripts, de website, tekeningen, enzovoorts:</b><br/></p>

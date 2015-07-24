@@ -96,8 +96,8 @@ $LANG = array(
     Només heu de fer constar el meu nom - David Revoy - com a autor.</p>
     
     <div class="philobutton">
-        <a href="https://creativecommons.org/licenses/by/3.0/" title="For more information, read the Creative Commons Attribution">
-            License: Creative Commons Attribution
+        <a href="https://creativecommons.org/licenses/by/4.0/deed.ca" title="For more information, read the Creative Commons Attribution 4.0">
+            License: Creative Commons Attribution 4.0
         </a>
     </div>
 
@@ -134,7 +134,7 @@ $LANG = array(
 # Page: Contribute 
 'CONTRIBUTE_TITLE'		=> 'Contribueix-hi',
 'CONTRIBUTE_TOP'		=> '
-    <p>Gràcies a <a href="?static6/sources" title="Sources page"> les open sources</a> i a la llicència <a href="http://creativecommons.org/licenses/by/3.0/">
+    <p>Gràcies a <a href="?static6/sources" title="Sources page"> les open sources</a> i a la llicència <a href="http://creativecommons.org/licenses/by/4.0/">
     creative commons </a> tu pots contribuir a Pepper&amp;Carrot de moltes maneres:</p>
 ',
 'CONTRIBUTE_DONATION'		=> '
@@ -188,7 +188,7 @@ $LANG = array(
 ',
 'SOURCES_BOTTOM'	    => '
     <p>Al descarregar i treballar amb aquests fitxers accedeixes a acceptar les condicions de<br/>
-    <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution license</a>.
+    <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution license</a>.
     Llegeix el fitxer README de cada arxiu per tal de tenir més informació.</p>
   
     <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Code repositories for translations, script, website, graphism,etc.:</b><br/></p>

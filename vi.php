@@ -96,8 +96,8 @@ $LANG = array(
     Bạn chỉ cần nêu tên tôi - David Revoy - là tác giả của truyện.</p>
     
     <div class="philobutton">
-        <a href="https://creativecommons.org/licenses/by/3.0/" title="Thông tin chi tiết, đọc the Creative Commons Attribution">
-            Giấy phép: Creative Commons Attribution
+        <a href="https://creativecommons.org/licenses/by/4.0/" title="Thông tin chi tiết, đọc the Creative Commons Attribution 4.0">
+            Giấy phép: Creative Commons Attribution 4.0
         </a>
     </div>
 
@@ -134,7 +134,7 @@ $LANG = array(
 # Page: Contribute 
 'CONTRIBUTE_TITLE'		=> 'Đóng góp',
 'CONTRIBUTE_TOP'		=> '
-    <p>Cảm ơn <a href="?static6/sources" title="Sources page">Mã nguồn mở</a> này và <a href="http://creativecommons.org/licenses/by/3.0/">
+    <p>Cảm ơn <a href="?static6/sources" title="Sources page">Mã nguồn mở</a> này và <a href="http://creativecommons.org/licenses/by/4.0/">
     creative commons license</a> mà các bạn có thể đóng góp cho Hạt Tiêu&amp;Cà Rốt bằng rất nhiều cách:</p>
 ',
 'CONTRIBUTE_DONATION'		=> '
@@ -188,7 +188,7 @@ $LANG = array(
 ',
 'SOURCES_BOTTOM'	    => '
     <p>Bằng cách tải về và làm việc với những file này bạn đồng ý với các điều khoản sau <br/>
-    <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution license</a>.
+    <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution license</a>.
     Kiểm tra README file trong mỗi dự án để biết thêm thông tin.</p>
   
     <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Mã kho cho bản dịch, kịch bản, trang web, hình ảnh, vv.:</b><br/></p>

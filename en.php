@@ -96,8 +96,8 @@ $LANG = array(
     You just need to credit my name - David Revoy - as the author.</p>
     
     <div class="philobutton">
-        <a href="https://creativecommons.org/licenses/by/3.0/" title="For more information, read the Creative Commons Attribution">
-            License: Creative Commons Attribution
+        <a href="https://creativecommons.org/licenses/by/4.0/" title="For more information, read the Creative Commons Attribution 4.0">
+            License: Creative Commons Attribution 4.0
         </a>
     </div>
 
@@ -134,7 +134,7 @@ $LANG = array(
 # Page: Contribute 
 'CONTRIBUTE_TITLE'		=> 'Contribute',
 'CONTRIBUTE_TOP'		=> '
-    <p>Thanks to the <a href="?static6/sources" title="Sources page">open sources</a> and the <a href="http://creativecommons.org/licenses/by/3.0/">
+    <p>Thanks to the <a href="?static6/sources" title="Sources page">open sources</a> and the <a href="http://creativecommons.org/licenses/by/4.0/">
     creative commons license</a> you can contribute to Pepper&amp;Carrot in many ways:</p>
 ',
 'CONTRIBUTE_DONATION'		=> '
@@ -188,7 +188,7 @@ $LANG = array(
 ',
 'SOURCES_BOTTOM'	    => '
     <p>By downloading and working with those files you agree to respect the terms of the <br/>
-    <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution license</a>.
+    <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution license</a>.
     Check the README files in each project for more infos.</p>
   
     <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Code repositories for translations, script, website, graphism,etc.:</b><br/></p>

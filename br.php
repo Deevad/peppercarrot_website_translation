@@ -95,8 +95,8 @@ $LANG = array(
     Gant ma vo meneget va anv – David Revoy - evel oberour e c\'hallit hardizh ober un implij kenwerzhel, trei&ntilde;, sevel fan-art, moulla&ntilde;, sevel filmo&ugrave;, c\'hoario&ugrave video ha ranna&ntilde; kement ha ma fell deoc\'h.</p>
 
     <div class="philobutton">
-        <a href="https://creativecommons.org/licenses/by/3.0/" title="Evit muioc\'h a ditouro&ugrave;, lennit ar Creative Commons Attribution">
-            La&ntilde;vaz : Creative Commons Attribution
+        <a href="https://creativecommons.org/licenses/by/4.0/" title="Evit muioc\'h a ditouro&ugrave;, lennit ar Creative Commons Attribution 4.0">
+            La&ntilde;vaz : Creative Commons Attribution 4.0
         </a>
     </div>
 
@@ -133,8 +133,8 @@ $LANG = array(
 # Page: Contribute
 'CONTRIBUTE_TITLE'		=> 'Kemer perzh',
 'CONTRIBUTE_TOP'		=> '
-    <p>A-drugarez d\'ar <a href="?static6/sources" title="Pajenn mammenn&ugrave;">mammenno&ugrave; digor</a> ha d\'al <a href="http://creativecommons.org/licenses/by/3.0/">
-    la&ntilde;vaz creative commons</a> e c\'hallit kemer perzh e Pepper&amp;Carrot e meur a zoare dishe&ntilde;vel :</p>
+    <p>A-drugarez d\'ar <a href="?static6/sources" title="Pajenn mammenn&ugrave;">mammenno&ugrave; digor</a> ha d\'al <a href="http://creativecommons.org/licenses/by/4.0/">
+    la&ntilde;vaz Creative Commons 4.0</a> e c\'hallit kemer perzh e Pepper&amp;Carrot e meur a zoare dishe&ntilde;vel :</p>
 ',
 'CONTRIBUTE_DONATION'		=> '
     <h2>Paeroniezh, roadurio&ugrave;</h2>
@@ -187,7 +187,7 @@ $LANG = array(
 ',
 'SOURCES_BOTTOM'	    => '
     <p>En ur bellgarga&ntilde; hag en ur labourat war ar restro&ugrave;-se ec\'h asantit douja&ntilde; da zivizo&ugrave; al<br/>
-    <a href="http://creativecommons.org/licenses/by/3.0/">la&ntilde;vaz Creative Commons Attribution</a>.
+    <a href="http://creativecommons.org/licenses/by/4.0/">la&ntilde;vaz Creative Commons Attribution</a>.
     Lennit ar restro&ugrave; README e pep raktres evit kaout muioc\'h a ditouro&ugrave;.</p>
 
     <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Mirlec\'h evit an troidigezhio&ugrave;, ar skript, al lec\'hienn, ar graferezh, hag all :</b><br/></p>

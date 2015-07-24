@@ -96,8 +96,8 @@ $LANG = array(
     Mindössze a nevemet, mint szerzőt kell megemlítened: David Revoy.</p>
     
     <div class="philobutton">
-        <a href="https://creativecommons.org/licenses/by/3.0/" title="További információért olvasd el a &quot;Creative Commons Nevezd meg!&quot;-et">
-            Licenc: Creative Commons Nevezd meg!
+        <a href="https://creativecommons.org/licenses/by/4.0/deed.hu" title="További információért olvasd el a &quot;Creative Commons Nevezd 4.0 meg!&quot;-et">
+            Licenc: Creative Commons Nevezd 4.0 meg!
         </a>
     </div>
 
@@ -134,7 +134,7 @@ $LANG = array(
 # Page: Contribute 
 'CONTRIBUTE_TITLE'		=> 'Közreműködés',
 'CONTRIBUTE_TOP'		=> '
-    <p>A <a href="?static6/sources" title="Forráskód oldal">nyílt forráskódnak</a> és a <a href="http://creativecommons.org/licenses/by/3.0/">
+    <p>A <a href="?static6/sources" title="Forráskód oldal">nyílt forráskódnak</a> és a <a href="http://creativecommons.org/licenses/by/4.0/">
     creative commons licencnek</a> köszönhetően Te is közreműködhetsz a Paprika&amp;Sárgarépában, számos módon:</p>
 ',
 'CONTRIBUTE_DONATION'		=> '
@@ -189,7 +189,7 @@ $LANG = array(
 'SOURCES_BOTTOM'	    => '
     <p>Azzal, hogy letöltöd és dolgozol az alábbi fájlokkal, elfogadod a
     
-    <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Nevezd meg! licencét</a>.
+    <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Nevezd meg! licencét</a>.
     További infóért nézd meg a README fájlt az egyes projektekben.</p>
   
     <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Forráskód repók a fordításhoz, scriptekhez, weboldalhoz, grafikákhoz stb.:</b><br/></p>

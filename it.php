@@ -86,8 +86,8 @@ $LANG = array(
     &#200; sufficiente che citate il mio nome - David Revoy - come l&#8217;autore.</p>
     
     <div class="philobutton">
-        <a href="https://creativecommons.org/licenses/by/3.0/" title="Leggete la Creative Commons Attribution per maggiori informazioni">
-            Licenza: Creative Commons Attribution
+        <a href="https://creativecommons.org/licenses/by/4.0/deed.it" title="Leggete la Creative Commons Attribution 4.0 per maggiori informazioni">
+            Licenza: Creative Commons Attribution 4.0
         </a>
     </div>
         <img alt="illustration representing open-source medias" src="data/images/static/2015-02-09_philosophy_04-open-source.jpg">
@@ -119,7 +119,7 @@ $LANG = array(
 # Page: Contribute 
 'CONTRIBUTE_TITLE'		=> 'Contribuire',
 'CONTRIBUTE_TOP'		=> '
-    <p>Potrete contribuire in molti modi a Pepper&amp;Carrot grazie all&#39;<a href="?static6/sources" title="pagina dei sorgenti">open source</a> e alla licenza<a href="http://creativecommons.org/licenses/by/3.0/">
+    <p>Potrete contribuire in molti modi a Pepper&amp;Carrot grazie all&#39;<a href="?static6/sources" title="pagina dei sorgenti">open source</a> e alla licenza<a href="http://creativecommons.org/licenses/by/4.0/">
     creative commons</a>:</p>
 ',
 'CONTRIBUTE_DONATION'		=> '            
@@ -171,7 +171,7 @@ $LANG = array(
 ',
 'SOURCES_BOTTOM'	    => '
     <p>Con lo scaricamento e la modifica di questi files si accetta il rispetto dei termini presenti nella <br/>
-    licenza <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a>.
+    licenza <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</a>.
     Per maggiori informazioni, leggete il file README presente in ogni progetto.</p>
   
     <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Code repositories per le traduzioni, gli script, il sito web, grafica,etc.:</b><br/></p>
