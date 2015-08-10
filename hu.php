@@ -3,7 +3,7 @@
 $LANG = array(
 
 # Global
-'TRANSLATED_BY' 		    => 'fordítás: <a href="https://level14.hu">Halász Gábor &quot;Hali&quot;</a>',
+'TRANSLATED_BY' 		    => 'Fordítás: <a href="https://level14.hu">Halász Gábor &quot;Hali&quot;</a>',
 'LANGUAGE_NAME' 			=> 'Magyar',
 'LANGUAGE_ISO_CODE_2_LETTER'=> 'hu',
 # http://www.w3schools.com/tags/ref_language_codes.asp --> full list
@@ -33,13 +33,13 @@ $LANG = array(
 ################################################################################
 # Page: Homepage
 'HOMEPAGE_BIG_TEXT'		    =>  '
-    Egy ingyenes, szabad és nyílt forráskódú képregény,<br/>
-    amelyet közvetlenül az olvasók támogatnak,<br/>
-    hogy megváltoztassák a képregényipart!<br/>
+    Ingyenes, szabad és nyílt forráskódú képregény.<br/>
+    Közvetlenül az olvasók támogatják, és a célunk,<br/>
+    hogy megváltoztassuk a képregényipart!<br/>
 ',
-'HOMEPAGE_PATREON_INFO'     =>  'Mindössze $1-ért epizódonként legyél Te is pártfogó a Patreon-on',
+'HOMEPAGE_PATREON_INFO'     =>  'Legyél Te is pártfogó a Patreon-on, mindössze $1-ért epizódonként',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'További információ',
-'HOMEPAGE_PATREON_BUTTON'   =>  'legyél a Paprika&amp;Sárgarépa pártfogója a Patreon-on',
+'HOMEPAGE_PATREON_BUTTON'   =>  'Legyél a Paprika&amp;Sárgarépa pártfogója a Patreon-on',
 'HOMEPAGE_LAST_EPISODE'     =>  'Legújabb rész:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Hírek és frissítések',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'További bejegyzések',
@@ -67,36 +67,36 @@ $LANG = array(
  <h2>Olvasók által támogatott</h2>
     
     <p>A Paprika&amp;Sárgarépa projektet kizárólag az olvasói támogatják, a világ minden részéről.<br/>
-    Minden pártfogó egy csekély összeggel támogat minden egyes részt, és ezért cserébe megemlítik őt a rész végén.<br/>
-    Ennek a rendszernek köszönhetően a képregény független maradhat és nem kell reklámokhoz, marketinges eszközökhöz fordulnia.</p>
+    Minden pártfogó egy csekély összeggel hozzájárul, amiért cserébe a rész végén megemlítésre kerül.<br/>
+    Ennek a rendszernek köszönhetően a képregény független maradhat és nem kell reklámokhoz, egyéb marketing-eszközhöz fordulnia.</p>
     
     <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Mindössze $1-ért epizódonként legyél Te is pártfogója a Paprika&amp;Sárgarépának">
-            Mindössze $1-ért epizódonként legyél Te is pártfogó a Patreon-on
+        <a href="https://www.patreon.com/davidrevoy" title="Legyél Te is a Paprika&amp;Sárgarépa pártfogója, mindössze $1-ért epizódonként">
+            Legyél Te is pártfogó a Patreon-on, mindössze $1-ért epizódonként
         </a>
     </div>
     
-        <a href="https://www.patreon.com/davidrevoy" title="Mindössze $1-ért epizódonként legyél Te is pártfogója a Paprika&amp;Sárgarépának">
+        <a href="https://www.patreon.com/davidrevoy" title="Legyél Te is a Paprika&amp;Sárgarépa pártfogója, mindössze $1-ért epizódonként">
             <img alt="pártfogást jelképező illusztráció" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
         </a>
 
     <h2>100% ingyen, örökké, nincs fizetőfal</h2>
 
-    <p>Minden tartalom, amit a Paprika&amp;Sárgarépával kapcsolatban készítek, ezen a weboldalon elérhető ingyen, mindenki számára.<br/>
-    Egyformán tisztelek mindenkit, akár van pénze, akár nincs. Minden különleges bónuszt, amit a pártfogóknak készítek, itt is közzéteszek.<br/>
-    A Paprika&amp;Sárgarépa sosem fog pénzt, előfizetési díjat kérni, hogy az új tartalomhoz bárki hozzáférjen.</p>
+    <p>Minden, amit a Paprika&amp;Sárgarépával kapcsolatban készítek, ezen a weboldalon elérhető ingyen, mindenki számára.<br/>
+    Egyformán tisztelek mindenkit, akár van pénze, akár nincs. Minden extrát, amit a pártfogóknak készítek, itt is közzéteszek.<br/>
+    A Paprika&amp;Sárgarépa sosem fog pénzt, előfizetési díjat kérni a hozzáférésért cserébe.</p>
     
         <img alt="fizetőfalat jelképező illusztráció" src="data/images/static/2015-02-09_philosophy_03-paywall.jpg">
 
     <h2>Nyílt forráskódú, megengedő</h2>
     
     <p>Szeretnék mindenkinek jogot adni, hogy megossza, felhasználja, ráépítsen, vagy akár pénzt is kereshessen a művekkel, amit készítettem.<br/>
-    Minden oldalt, illusztrációt és tartalmat szabad, nyílt forráskódú szoftverrel készítettem Gnu/Linux-on, és minden forrás elérhető a weboldalon, a &quot;Forráskód&quot; menüpont alatt.<br/>
-    Mindenkit buzdítok az üzleti felhasználásra, fordításra, rajongói alkotásra, nyomtatásra, filmek, videójátékok készítésére, megosztásra és posztolásra.<br/>
+    Minden oldalt, illusztrációt stb., nyílt forráskódú szoftverrel készítettem Gnu/Linux-on, és minden forrás elérhető a weboldalon, a &quot;Forráskód&quot; menüpont alatt.<br/>
+    Mindenkit buzdítok a fordításra, nyomtatásra, filmek, videójátékok, rajongói alkotások készítésére, megosztásra és posztolásra - akár üzleti céllal is.<br/>
     Mindössze a nevemet, mint szerzőt kell megemlítened: David Revoy.</p>
     
     <div class="philobutton">
-        <a href="https://creativecommons.org/licenses/by/4.0/deed.hu" title="További információért olvasd el a &quot;Creative Commons Nevezd 4.0 meg!&quot;-et">
+        <a href="https://creativecommons.org/licenses/by/4.0/deed.hu" title="További információért olvasd el a &quot;Creative Commons Nevezd meg! 4.0&quot;-t">
             Licenc: Creative Commons Nevezd 4.0 meg!
         </a>
     </div>
@@ -113,15 +113,15 @@ $LANG = array(
 
     <h2>Változtassuk meg a képregényipart!</h2>
     
-    <p>Ha kevesebb a közvetítő a közönség és a művész között, Te kevesebbet fizetsz és én is jobban járok. Közvetlenül támogatsz.<br/>
+    <p>Ha kevesebb a közvetítő a közönség és a művész között, Te is kevesebbet fizetsz és én is jobban járok. Közvetlenül támogatsz.<br/>
     Semmilyen kiadó/viszonteladó/marketing/divat nem tud meggyőzni, hogy a képregényt az piacról kialakított képükhöz igazítsam.<br/>
     ...Miért ne tudna egyetlen siker egy lavinát indítani, ami egy krízisben lévő iparágat akár meg is változtathat? Próbáljuk meg!</p>
     
         <img alt="illusztráció: képregényipar VS Patreon támogatás" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
     
     <div class="philobutton">
-        <a class="h4" href="https://www.patreon.com/davidrevoy" title="Mindössze $1-ért epizódonként legyél Te is pártfogója a Paprika&amp;Sárgarépának">
-            Segíts a Paprika&amp;Sárgarépa készítésében
+        <a class="h4" href="https://www.patreon.com/davidrevoy" title="Legyél Te is a Paprika&amp;Sárgarépa pártfogója, mindössze $1-ért epizódonként">
+            Segíts a Paprika&amp;Sárgarépa készítésében!
         </a> 
     </div>
             
@@ -134,7 +134,7 @@ $LANG = array(
 # Page: Contribute 
 'CONTRIBUTE_TITLE'		=> 'Közreműködés',
 'CONTRIBUTE_TOP'		=> '
-    <p>A <a href="?static6/sources" title="Forráskód oldal">nyílt forráskódnak</a> és a <a href="http://creativecommons.org/licenses/by/4.0/">
+    <p>A <a href="?static6/sources" title="Forráskód oldal">nyílt forráskódnak</a> és a <a href="https://creativecommons.org/licenses/by/4.0/deed.hu">
     creative commons licencnek</a> köszönhetően Te is közreműködhetsz a Paprika&amp;Sárgarépában, számos módon:</p>
 ',
 'CONTRIBUTE_DONATION'		=> '
@@ -150,14 +150,14 @@ $LANG = array(
     <p>A Paprika&amp;Sárgarépa nyitott a rajongói művekre: rajzokra, forgatókönyvekre, szobrokra, 3D modellekre, fanfiction-re. Küldd el nekem (<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a>, vagy írj facebook-on, twitteren stb.), hogy megjelenhessen a rajongói galériában:</p>
 ',
 'CONTRIBUTE_DERIVATIONS' => '
-    <h2>Származtatott művek:</h2>
+    <h2>Származtatott művek</h2>
     <p>A Paprika&amp;Sárgarépát számos projekthez és termékhez át lehet szabni. Készíts egyet, vagy csatlakozz egy meglévőhöz:</p>
 ',
 
 'CONTRIBUTE_BOTTOM'	    => '
-    <h2>Fordítások, javítások:</h2>
+    <h2>Fordítások, javítások</h2>
     
-    <p>A Paprika&amp;Sárgarépa weboldala kifejezetten lefordíthatóan készült, és bármely nyelvet elfogad (beleértve kihalt és kitalált nyelveket is). Az oldal forrása a rendelkezésedre áll, ha le szeretnéd fordítani. További információért nézd meg a <a href="index.php?fr/article267/translation-tutorial">fordítói tutorial-t</a>.</p>
+    <p>A Paprika&amp;Sárgarépa weboldala készítése közben figyeltem, hogy könnyű legyen lefordítani, és bármely nyelvet elfogad (beleértve kihalt és kitalált nyelveket is). Az oldal forrása a rendelkezésedre áll, az ezzel kapcsolatos információért nézd meg a <a href="index.php?fr/article267/translation-tutorial">fordítói tutorial-t</a>.</p>
     
     <h2>Sajtó, Közösségi oldalak</h2> 
     
@@ -166,16 +166,16 @@ $LANG = array(
     <h2>Egyéb közreműködési ötletek...</h2>
     
     <p>Bárki közreműködhet, a teljesség igénye nélkül:<br/>
-        <b>Fejlesztő:</b>  Készíts egy alkalmazást, hogy mobil eszközökön is olvashasd a képregényt.<br />
+        <b>Fejlesztő:</b>  Készíts egy alkalmazást, hogy mobil eszközökön is olvashassuk a képregényt.<br />
         <b>Zeneszerző:</b>  Készíts zenei témákat a Paprika&amp;Sárgarépához.<br />
         <b>Író: </b>  Javasolj forgatókönyvet.<br />
         <b>Újságíró: </b>  Írj a Paprika&amp;Sárgarépáról hagyományos médiában (nyomtatott sajtó, TV stb.)<br />
         <b>Nyomdász:</b>  Készíts posztereket, apróságokat Paprika&amp;Sárgarépával.<br />
     </p> 
             
-    <h2>IRC csatorna:</h2>
+    <h2>IRC csatorna</h2>
     
-    <p>Chatelj és beszélgess a Paprika&amp;Sárgarépáról. Európai idő szerinti napközben vagyok fenn (nick: deevad).<br/> 
+    <p>Chatelj és beszélgess a Paprika&amp;Sárgarépáról. Európai idő szerint napközben vagyok fenn (nick: deevad).<br/> 
 ',
 
 ################################################################################
@@ -189,7 +189,7 @@ $LANG = array(
 'SOURCES_BOTTOM'	    => '
     <p>Azzal, hogy letöltöd és dolgozol az alábbi fájlokkal, elfogadod a
     
-    <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Nevezd meg! licencét</a>.
+    <a href="https://creativecommons.org/licenses/by/4.0/deed.hu">Creative Commons Nevezd meg! licencét</a>.
     További infóért nézd meg a README fájlt az egyes projektekben.</p>
   
     <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Forráskód repók a fordításhoz, scriptekhez, weboldalhoz, grafikákhoz stb.:</b><br/></p>
@@ -212,7 +212,7 @@ $LANG = array(
     <p>A portfólióm:</p>
 ',
 'AUTHOR_TODO_DREAM'	=> '
-    <h3>Álom TO-DO lista:</h3>
+    <h3>Az álom-listám</h3>
 
     <p>
     ☐ Előadni egy Japán Comic Con-on a Paprika&amp;Sárgarépáról<br/>
@@ -226,7 +226,7 @@ $LANG = array(
     </p>
 ',
 
-'AUTHOR_CARREER_TITLE'				 => 'A karrierem 7 buborékban:',
+'AUTHOR_CARREER_TITLE'				 => 'A karrierem 7 buborékban',
 'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS' => '
     <p>
     Hosszútávú partnerség a Blender Foundation alapítvánnyal:<br/>
