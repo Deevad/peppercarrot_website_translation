@@ -11,7 +11,7 @@ $LANG = array(
 ################################################################################
 # Header HTML infos for search engine and title in tab:
 'PEPPERCARROT_VEGETABLE'    =>  'Paprika és Sárgarépa', // litteral translation of spices + vegetable
-'Website_DESCRIPTION'        =>  'A Paprika&amp;Sárgarépa hivatalos honlapja. Egy ingyenes, szabad, nyílt forráskódú képregény Paprikáról, egy fiatal boszorkányról, és a macskájáról, Sárgarépáról, akik egy bájitalokkal, varázslattal, mesebeli lényekkel teli fantasy világban élnek.',
+'Website_DESCRIPTION'        =>  'Képregény Paprikáról, egy fiatal boszorkányról, és a macskájáról, Sárgarépáról, akik egy bájitalokkal, varázslattal, mesebeli lényekkel teli fantasy világban élnek. Ingyenes, szabad, nyílt forráskódú.',
 'SUBTITLE'                  =>  'David Revoy Nyílt Képregénye',
 
 ################################################################################
