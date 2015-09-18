@@ -11,7 +11,7 @@ $LANG = array(
 ################################################################################
 # Header HTML infos for search engine and title in tab:
 'PEPPERCARROT_VEGETABLE'    =>  'Paprika und Möhre', // litteral translation of spices + vegetable
-'Website_DESCRIPTION'        =>  'Offizielle homepage of Pepper&amp;Carrot, einem free/libre und Open-Source Webcomic &uuml;ber Pepper, eine junge Hexe und ihre Katze, Carrot. Sie leben in einem Fantasieuniversum voller Tr&auml;nke, Magie und Kreaturen.',
+'Website_DESCRIPTION'        =>  'Offizielle homepage of Pepper&amp;Carrot, einem freien, quelloffenen Webcomic &uuml;ber Pepper, eine junge Hexe und ihre Katze, Carrot. Sie leben in einem Fantasieuniversum voller Tr&auml;nke, Magie und Kreaturen.',
 'SUBTITLE'                  =>  'Der freie Webcomic von David Revoy',
 
 ################################################################################
@@ -33,7 +33,7 @@ $LANG = array(
 ################################################################################
 # Page : Homepage
 'HOMEPAGE_BIG_TEXT'		    =>  '
-    Ein freier, libre und Open-Source Webcomic<br/>
+    Ein kostenloser, freier und quelloffener Webcomic<br/>
     direkt durch seine F&ouml;rderer unterst&uuml;tzt<br/>
     um die Comic-Industrie zu ver&auml;ndern !<br/>
 ',
@@ -80,9 +80,9 @@ $LANG = array(
             <img alt="illustration, die die F&ouml;rderung beschreibt" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
         </a>
 
-    <h2>100% frei, f&uuml;r immer, keine Paywall</h2>
+    <h2>100% dauerhaft kostenlos, keine Paywall</h2>
     
-    <p>Jeder Inhalt, den ich zu Pepper&amp;Carrot produziere, ist auf dieser Webseite, frei und verf&uuml;gbar f&uuml;r jeden.<br/> 
+    <p>Jeder Inhalt, den ich zu Pepper&amp;Carrot produziere, ist auf dieser Webseite, frei verf&uuml;gbar f&uuml;r jeden.<br/> 
     Ich respektiere euch alle gleicherma&szlig;en : mit oder ohne Geld. Alle speziellen Boni, die ich f&uuml;r meine F&ouml;rderer mache, werden auch hier geposted.<br/>
     Pepper&amp;Carrot wird dich nie dazu auffordern etwas zu bezahlen, oder ein Abbo abzuschlie&szlig;en um Zugriff auf neue Inhalte zu bekommen.
     
@@ -91,7 +91,7 @@ $LANG = array(
     <h2>Open-Source und permissiv</h2>
     
     <p>Ich m&ouml;chte den Leuten das Recht geben, das, was ich produziert habe, zu verwenden, zu erweitern und sogar Geld damit zu verdienen.<br/>    
-    Alle Seiten, Kunstwerke und Inhalte wurden mit Freier/Libre- Open-Source Software unter GNU/Linux <br/>
+    Alle Seiten, Kunstwerke und Inhalte wurden mit freier, quelloffener Software unter GNU/Linux <br/>
     erstellt und alle Quellen sind auf dieser Webseite, im &#39;Quellen&#39; Men&uuml;, zu finden.<br/>
     Komerzielle Verwendung, &Uuml;bersetzungen, Fan-Art, Drucke, Filme, Videospiele, Verteilen und Verbreiten sind erw&uuml;nscht.<br/>
     Ihr m&uuml;sst nur meinen Namen - David Revoy - als Autor kenntlich machen.</p>
