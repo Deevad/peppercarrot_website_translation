@@ -11,7 +11,7 @@ $LANG = array(
 ################################################################################
 # Header HTML infos for search engine and title in tab:
 'PEPPERCARROT_VEGETABLE'    =>  'Pieprz i Marchewka', // litteral translation of spices + vegetable
-'Website_DESCRIPTION'        =>  'Oficjalna strona Pepper&amp;Carrot, wolnego, otwartoźródłowego komiksu sieciowego o Pepper, młodej wiedźmie i Carrot, jej kocie. Żyją w fantastycznym uniwersum pełnym mikstur, magii i stworów.',
+'Website_DESCRIPTION'        =>  'Oficjalna strona Pepper&amp;Carrot, darmowego, otwartoźródłowego komiksu sieciowego o Pepper, młodej wiedźmie i Carrot, jej kocie. Żyją w fantastycznym uniwersum pełnym mikstur, magii i stworów.',
 'SUBTITLE'                  =>  'otwarty komiks internetowy stworzony przez Davida Revoya',
 
 ################################################################################
@@ -20,7 +20,7 @@ $LANG = array(
 'WEBCOMICS'     =>  'Komiks',
 'BLOG'          =>  'Blog',
 'PHILOSOPHY'    =>  'Filozofia',
-'CONTRIBUTE'    =>  'Wnieś coś',
+'CONTRIBUTE'    =>  'Wesprzyj nas',
 'SOURCES'       =>  'Źródła',
 'AUTHOR'        =>  'Autor',
 'FOLLOW'        =>  'Podążaj za Pepper&amp;Carrot na:',
@@ -33,9 +33,9 @@ $LANG = array(
 ################################################################################
 # Page: Homepage
 'HOMEPAGE_BIG_TEXT'		    =>  '
-    Wolny, otwarty komiks internetowy<br/>
+    Darmowy, otwarty komiks internetowy<br/>
     wspierany bezpośrednio przez czytelników,<br/>
-    by zmienić przemysł komiksów!<br/>
+    by zmienić branżę komiksów!<br/>
 ',
 'HOMEPAGE_PATREON_INFO'     =>  'Wystarczy 1$ na Patreonie, by zostać patronem nowego odcinka',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Więcej informacji',
