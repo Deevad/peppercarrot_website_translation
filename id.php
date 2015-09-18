@@ -3,7 +3,7 @@
 $LANG = array(
 
 # Global
-'TRANSLATED_BY' 		    => 'Diterjemahkan oleh: <a href="https://id.wikipedia.org/wiki/Pengguna:Bonaditya">Bonaventura Aditya Perdana</a>',
+'TRANSLATED_BY' 		    => 'Diterjemahkan oleh: <a href="http://facebook.com/bonaditya">Bonaventura Aditya Perdana</a>',
 'LANGUAGE_NAME' 			=> 'Bahasa Indonesia',
 'LANGUAGE_ISO_CODE_2_LETTER'=> 'id',
 # http://www.w3schools.com/tags/ref_language_codes.asp --> full list
@@ -37,9 +37,9 @@ $LANG = array(
     yang didukung secara langsung oleh sukarelawan.<br/>
     Komik ini juga hidup karena donasi dari Anda!<br/>
 ',
-'HOMEPAGE_PATREON_INFO'     =>  'Hanya 1$ untuk setiap episode baru, jadilah donator melalui Patreon',
+'HOMEPAGE_PATREON_INFO'     =>  'Hanya 1$ untuk setiap episode baru, jadilah donatur melalui Patreon',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Informasi selengkapnya',
-'HOMEPAGE_PATREON_BUTTON'   =>  'Jadilah donator dari Pepper&amp;Carrot di Patreon',
+'HOMEPAGE_PATREON_BUTTON'   =>  'Jadilah donatur dari Pepper&amp;Carrot di Patreon',
 'HOMEPAGE_LAST_EPISODE'     =>  'Episode terbaru:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Berita terbaru:',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Post lainnya',
@@ -50,7 +50,7 @@ $LANG = array(
 'WEBCOMIC_EPISODE'		    =>  'Serial komik',
 'WEBCOMIC_MAKINGOF'		    =>  'Cara membuat',
 'WEBCOMIC_MAKINGOF_DESCRIPTION' =>  '
-    <p> Bagaimana cara membuat dan <a href="http://www.davidrevoy.com/static4/tutorials">tutorial</a> merupakan bonus spesial untuk <a href="https://www.patreon.com/davidrevoy">donator di Patreon</a></p>
+    <p> Bagaimana cara membuat dan <a href="http://www.davidrevoy.com/static4/tutorials">tutorial</a> merupakan bonus spesial untuk <a href="https://www.patreon.com/davidrevoy">donatur di Patreon</a></p>
 ',
 'WEBCOMIC_ARTWORK'		    =>  'Galeri',
 'WEBCOMIC_SKETCHES'		    =>  'Sketsa',
@@ -71,8 +71,8 @@ $LANG = array(
     Pepper&amp;Carrot tidak menggunakan iklan maupun media yang serupa untuk tetap hidup.</p>
     
     <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Hanya 1$ untuk setiap episode baru, jadilah donator melalui Patreon">
-            Hanya 1$ untuk setiap episode baru, jadilah donator melalui Patreon
+        <a href="https://www.patreon.com/davidrevoy" title="Hanya 1$ untuk setiap episode baru, jadilah donatur melalui Patreon">
+            Hanya 1$ untuk setiap episode baru, jadilah donatur melalui Patreon
         </a>
     </div>
     
@@ -120,7 +120,7 @@ $LANG = array(
         <img alt="illustration: comic book industry VS patreon support" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
     
     <div class="philobutton">
-        <a class="h4" href="https://www.patreon.com/davidrevoy" title="Hanya 1$ untuk setiap episode baru, jadilah donator melalui Patreon">
+        <a class="h4" href="https://www.patreon.com/davidrevoy" title="Hanya 1$ untuk setiap episode baru, jadilah donatur melalui Patreon">
             Bantu saya untuk terus melanjutkan Pepper&amp;Carrot!
         </a> 
     </div>
@@ -141,7 +141,7 @@ $LANG = array(
     <h2>Donasi melalui Patron</h2> 
     
     <p>Saya menjelaskan secara detail di <a href="?static2/philosophy" title="buka halaman Perihal">halaman Perihal</a> mengenai segalanya tentang berdonasi.<br/>
-    Sangat mudah untuk menjadi donator Pepper&amp;Carrot, hanya 1$ untuk setiap episode baru <a href="https://www.patreon.com/davidrevoy">melalui Patreon</a>.<br/>
+    Sangat mudah untuk menjadi donatur Pepper&amp;Carrot, hanya 1$ untuk setiap episode baru <a href="https://www.patreon.com/davidrevoy">melalui Patreon</a>.<br/>
     Patreon menerima kartu kredit dari seluruh dunia, dan Anda juga dapat membayar dengan akun PayPal di Patreon.<br/>
             I juga menerima donasi secara langsung melalui PayPal atau Flattr:</p>
 ',
@@ -220,7 +220,7 @@ $LANG = array(
     ☐ Memiliki halaman Wikipedia<br/>
     ☐ Mendapatkan foto cosplay Pepper<br/>
     ☐ Mendapatkan foto kucing merah yang bernama Carrot<br/>
-    ☐ Didukung oleh 500 donator di Patreon<br/>
+    ☐ Didukung oleh 500 donatur di Patreon<br/>
     ☐ Mencapai episode 100<br/>
     </p>
 ',
