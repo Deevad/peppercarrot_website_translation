@@ -11,7 +11,7 @@ $LANG = array(
 ################################################################################
 # Header HTML infos for search engine and title in tab:
 'PEPPERCARROT_VEGETABLE'    =>  'Pieprz i Marchewka', // litteral translation of spices + vegetable
-'Website_DESCRIPTION'        =>  'Oficjalna strona Pepper&amp;Carrot, wolnego, otwartoźródłowego komiksu sieciowego o Pepper, młodej wiedźmie i jej kocie, Carrot. Żyją w fantastycznym uniwersum pełnym mikstur, magii i stworów.',
+'Website_DESCRIPTION'        =>  'Oficjalna strona Pepper&amp;Carrot, wolnego, otwartoźródłowego komiksu sieciowego o Pepper, młodej wiedźmie i Carrot, jej kocie. Żyją w fantastycznym uniwersum pełnym mikstur, magii i stworów.',
 'SUBTITLE'                  =>  'otwarty komiks internetowy stworzony przez Davida Revoya',
 
 ################################################################################
@@ -50,7 +50,7 @@ $LANG = array(
 'WEBCOMIC_EPISODE'		    =>  'Odcinki komiksu',
 'WEBCOMIC_MAKINGOF'		    =>  'Kulisy produkcji',
 'WEBCOMIC_MAKINGOF_DESCRIPTION' =>  '
-    <p> Kulisy produkcji i <a href="http://www.davidrevoy.com/static4/tutorials"> tutoriale</a> są specjalnym bonusem, który sponsorują moi <a href="https://www.patreon.com/davidrevoy">Patreonowi &#39;herosi&#39;</a></p>
+    <p> Kulisy produkcji i <a href="http://www.davidrevoy.com/static4/tutorials">tutoriale</a> są specjalnym bonusem, który sponsorują moi <a href="https://www.patreon.com/davidrevoy">Patreonowi &#39;herosi&#39;</a></p>
 ',
 'WEBCOMIC_ARTWORK'		    =>  'Galeria grafik',
 'WEBCOMIC_SKETCHES'		    =>  'Szkice',
@@ -59,7 +59,7 @@ $LANG = array(
 # Page: Blog
 # when content are not English (no need to warn user the content is english only here):
 #'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Content available in english only ',
-'LIMITATIONS' 		=> '<i class="fa fa-info-circle"></i> Zawartość dostępna wyłącznie w jęz. angielskim ',
+'LIMITATIONS' 		=> '<i class="fa fa-info-circle"></i> Zawartość dostępna wyłącznie w jęz. angielskim',
 
 ################################################################################
 # Page: Philosophy
@@ -82,7 +82,7 @@ $LANG = array(
 
     <h2>W 100% darmowy, bez ograniczenia dostępu</h2>
 
-    <p>Wszystko, co tworzę w związku z Pepper&amp;Carrot, jest dostępne na tej stronie za darmo i dla wszystkich.<br/>
+    <p>Wszystko, co tworzę o Pepper&amp;Carrot, jest dostępne na tej stronie za darmo i dla wszystkich.<br/>
     Szanuję Was wszystkich, niezależnie od kwoty w portfelu. Wszystkie bonusy dla patronów są również dostępne tutaj.<br/>
     Pepper&amp;Carrot nigdy nie zechce od Ciebie zapłaty za dodatkową zawartość.</p>
 
@@ -91,12 +91,12 @@ $LANG = array(
     <h2>Otwarty i liberalny</h2>
 
     <p>Pragnę dać ludziom prawo do podziału, użytku, budowania, a nawet zarobku na pracy, którą stworzyłem.<br/>
-    Wszystkie strony, grafiki i zawartość zostały stworzone w otwartym/liberalnym oprogramowaniu na GNU/Linuksie. Wszystkie źródła dostępne są tutaj, wystarczy wybrać &#39;Źródła&#39; z menu.<br/>
-    Zachęcam do użycie komercyjnego, przekładu, tworzenia fan-artów, druku, użycia w filmach, grach wideo i uploadu na inne strony.<br/>
+    Wszystkie strony, grafiki i zawartość zostały wykonane w otwartym/liberalnym oprogramowaniu na GNU/Linuksie. Źródła dostępne są tutaj, wystarczy wybrać &#39;Źródła&#39; z menu.<br/>
+    Zachęcam do użycia komercyjnego, przekładu, tworzenia fan-artów, druku, wykorzystania w filmach, grach wideo i uploadu na inne strony.<br/>
     Wystarczy, byś dodał moje nazwisko - David Revoy - jako autora.</p>
 
     <div class="philobutton">
-        <a href="https://creativecommons.org/licenses/by/4.0/" title="By dowiedzieć się więcej, przeczytaj Creative Commons Uznanie autorstwa 4.0">
+        <a href="https://creativecommons.org/licenses/by/4.0/" title="By dowiedzieć się więcej, przeczytaj treść Creative Commons Uznanie autorstwa 4.0">
             Licencja: Creative Commons Uznanie autorstwa 4.0
         </a>
     </div>
@@ -105,7 +105,7 @@ $LANG = array(
 
     <h2>Rozrywka wysokiej jakości dla wszystkich, wszędzie</h2>
 
-    <p>Pepper&amp;Carrot jest dowcipnym komiksem, dostosowanym do każdego wieku czytelnika.<br/>
+    <p>Pepper&amp;Carrot jest zabawnym komiksem, dostosowanym do każdego czytelnika.<br/>
     Nie ma w nim zawartości dla dorosłych ani przemocy. Będąc w pełni otwartym, Pepper&amp;Carrot jest dumnym przykładem, jak świetne mogą być darmowe rzeczy.<br/>
     Skupiam się na wysokiej jakości, ponieważ darmowe nie musi znaczyć złe lub amatorskie. Wręcz przeciwnie.</p>
 
@@ -140,18 +140,18 @@ $LANG = array(
 'CONTRIBUTE_DONATION'		=> '
     <h2>Patronat, darowizny</h2>
 
-    <p>Na stronie z <a href="?static2/philosophy" title="otwórz stronę źródeł">filozofią</a> wyjaśniłem praktycznie wszystko na temat finansowania.<br/>
+    <p>Na stronie z <a href="?static2/philosophy" title="otwórz stronę filozofii">filozofią</a> wyjaśniłem praktycznie wszystko na temat finansowania.<br/>
     Patronem Pepper&amp;Carrot można zostać za 1$ <a href="https://www.patreon.com/davidrevoy">na Patreonie</a>.<br/>
     Patreon akceptuje karty kredytowe z całego świata, a nawet płatności poprzez Paypal.<br/>
-            Możesz też wspomóc mnie bezpośrednio przez PayPala lub Flattr:</p>
+            Możesz też wspomóc mnie bezpośrednio przez Paypala lub Flattr:</p>
 ',
 'CONTRIBUTE_FANART'	    => '
-    <h2>Fan-art</h2>
+    <h2>Twórczość fanów:</h2>
     <p>Pepper&amp;Carrot jest otwarty na fanów: rysunki, scenariusze, rzeźby, modele 3D, fanfici. Prześlij mi je, (<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a>, lub zaczep mnie na portalu społecznościowym) by znalazły się w galerii fan-artów:</p>
 ',
 'CONTRIBUTE_DERIVATIONS' => '
     <h2>Adaptacje:</h2>
-    <p>Pepper&amp;Carrot umożliwia dowolne tworzenie adaptacji. Może stworzysz własną albo wesprzesz jakąś?</p>
+    <p>Pepper&amp;Carrot umożliwia dowolne tworzenie adaptacji. Może wykonasz własną albo wesprzesz czyjąś?</p>
 ',
 
 'CONTRIBUTE_BOTTOM'	    => '
@@ -165,10 +165,10 @@ $LANG = array(
 
     <h2>Inne pomysły na wkład&nbsp;.&nbsp;.&nbsp;.&nbsp;</h2>
 
-    <p>Każdy może dorzucić swoją cegiełkę inaczej:<br/>
-        <b>Deweloperzy:</b>  stworzenie czytnika Pepper&amp;Carrot na urządzenia mobilne.<br />
-        <b>Muzycy:</b>  kompozycja tematów muzycznych dla Pepper&amp;Carrot.<br />
-        <b>Pisarze:</b>  zaproponowanie nowych scenariuszy Pepper&amp;Carrot.<br />
+    <p>Każdy może dorzucić swoją cegiełkę:<br/>
+        <b>Deweloperzy:</b>  stworzenie czytnika na urządzenia mobilne.<br />
+        <b>Muzycy:</b>  kompozycja tematów muzycznych.<br />
+        <b>Pisarze:</b>  zaproponowanie nowych scenariuszy.<br />
         <b>Dziennikarze:</b> informowanie o Pepper&amp;Carrot w tradycyjnych mediach (gazety, telewizja itd.).<br />
         <b>Drukarze:</b> drukowanie plakatów i innych materiałów z Pepper&amp;Carrot.<br />
     </p>
@@ -184,7 +184,7 @@ $LANG = array(
 'SOURCES_TOP'	        => '
     <p><b>Witaj w centrum pobierania źródeł!</b><br/>
     Znajdziesz tu pliki źródłowe (i nie tylko) Pepper&amp;Carrot.<br/>
-    Wszystkie pliki obrazów są kompatybilne z najnowszą wersją <a href="https://krita.org/">Krity</a>.</p>
+    Wszystkie pliki graficzne są kompatybilne z najnowszą wersją <a href="https://krita.org/">Krity</a>.</p>
 ',
 'SOURCES_BOTTOM'	    => '
     <p>Pobierając i pracując na tych plikach, zgadzasz się przestrzegać zasad licencji<br/>
@@ -198,7 +198,7 @@ $LANG = array(
 'SOURCE_TRANSLATOR'=>  'Zestaw tłumacza',
 'SOURCE_WEB'      =>  '<span class="sourceinfos">Lekkie pliki JPG dla stron (90ppi)</span>',
 'SOURCE_PRINT'        =>  '<span class="sourceinfos">Bezstratne pliki do druku (300ppi)</span>',
-'SOURCE_MONTAGE'   =>  '<span class="sourceinfos">Zmontowane panele na jednej stronie</span>',
+'SOURCE_MONTAGE'   =>  '<span class="sourceinfos">Panele zmontowane na jednej stronie</span>',
 
 ################################################################################
 # Page: Author
@@ -216,7 +216,7 @@ $LANG = array(
     <p>
     ☐ Wygłosić mowę o Pepper&Carrot na japońskim konwencie komiksowym<br/>
     ☐ Zagrać na padzie w grę o Pepper&amp;Carrot<br/>
-    ☐ Get a gallery of 100 fan-arts<br/>
+    ☐ Posiadać galerię 100 fan-artów<br/>
     ☐ Posiadać stronę na Wikipedii<br/>
     ☐ Otrzymać fotografię cosplayu Pepper<br/>
     ☐ Otrzymać fotografię rudego kota o imieniu Carrot<br/>
