@@ -220,7 +220,7 @@ $LANG = array(
     ☐ Memiliki halaman Wikipedia<br/>
     ☐ Mendapatkan foto cosplay Pepper<br/>
     ☐ Mendapatkan foto kucing merah yang bernama Carrot<br/>
-    ☐ Didukung oleh 500 donatur di Patreon<br/>
+    ☑ Didukung oleh 500 donatur di Patreon<br/>
     ☐ Mencapai episode 100<br/>
     </p>
 ',

@@ -221,7 +221,7 @@ $LANG = array(
     ☐ Wikipédia-oldal<br/>
     ☐ Kapni egy képet Paprika cosplay-ről<br/>
     ☐ Kapni egy képet egy vörös macskáról, akit Sárgarépának hívnak<br/>
-    ☐ 500 pártfogóm legyen Patreon-on<br/>
+    ☑ 500 pártfogóm legyen Patreon-on<br/>
     ☐ Elérjem a 100. részt<br/>
     </p>
 ',

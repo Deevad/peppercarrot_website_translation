@@ -220,7 +220,7 @@ $LANG = array(
     ☐ Posiadać stronę na Wikipedii<br/>
     ☐ Otrzymać fotografię cosplayu Pepper<br/>
     ☐ Otrzymać fotografię rudego kota o imieniu Carrot<br/>
-    ☐ Zostać wspartym przez 500 patronów<br/>
+    ☑ Zostać wspartym przez 500 patronów<br/>
     ☐ Wydać 100 odcinków<br/>
     </p>
 ',

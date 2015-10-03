@@ -220,7 +220,7 @@ $LANG = array(
     ☐ Tenir una plana a Wikipedia<br/>
     ☐ Rebre una foto d\'algú disfressat de la Pepper<br/>
     ☐ Rebre una foto d\'un gat taronja al que hagin anomenat Carrot<br/>
-    ☐ Tenir 500 patreons<br/>
+    ☑ Tenir 500 patreons<br/>
     ☐ Arribar als 100 capítols<br/>
     </p>
 ',

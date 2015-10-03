@@ -201,7 +201,7 @@ $LANG = array(
     ☐ Avere una pagina su Wikipedia<br/>
     ☐ Ricevere una foto raffigurante un cosplay di Pepper<br/>
     ☐ Ricevere una foto di un gatto rosso chiamato Carrot<br/>
-    ☐ Essere supportato da 500 lettori<br/>
+    ☑ Essere supportato da 500 lettori<br/>
     ☐ Raggiungere il centesimo episodio<br/>
     </p>
 ',

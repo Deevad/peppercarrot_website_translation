@@ -221,7 +221,7 @@ $LANG = array(
     ☐ Avoir une page sur Wikipedia.<br/>
     ☐ Recevoir une photo d\'un cosplay de Pepper.<br/>
     ☐ Recevoir une photo d\'un chat roux nommé Carrot en hommage à Carrot.<br/>
-    ☐ Etre soutenu par 500 mécènes via Patreons.<br/>
+    ☑ Etre soutenu par 500 mécènes via Patreons.<br/>
     ☐ Atteindre l\'épisode 100 !<br/>
     </p>
 ',

@@ -220,7 +220,7 @@ $LANG = array(
     ☐ Get a Wikipedia page<br/>
     ☐ Receive a photo of a Pepper cosplay<br/>
     ☐ Receive a photo of a red cat named Carrot<br/>
-    ☐ be supported by 500 patreons<br/>
+    ☑ be supported by 500 patreons<br/>
     ☐ Reach episode 100<br/>
     </p>
 ',

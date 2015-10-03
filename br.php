@@ -219,7 +219,7 @@ $LANG = array(
     ☐ Kaout ur bajenn Wikipedia<br/>
     ☐ Resevout ur skeudenn eus ur c\'h/cosplay eus Pepper<br/>
     ☐ Resevout ur skeudenn eus ur c\'hazh rouz anvet Carrot<br/>
-    ☐ beza&ntilde; harpet gant 500 paeron<br/>
+    ☑ beza&ntilde; harpet gant 500 paeron<br/>
     ☐ Tizhout ar c\'hantvet rann<br/>
     </p>
 ',

@@ -221,7 +221,7 @@ $LANG = array(
     ☐ Een Wikipedia-pagina krijgen<br/>
     ☐ Een foto toegestuurd krijgen van een cosplay van Pepper<br/>
     ☐ Een foto toegestuurd krijgen van een rode kat met de naam Carrot<br/>
-    ☐ Ondersteund worden door 500 patreons<br/>
+    ☑ Ondersteund worden door 500 patreons<br/>
     ☐ De honderdste aflevering bereiken<br/>
     </p>
 ',

@@ -222,7 +222,7 @@ $LANG = array(
     ☐ Eine eigene Wikipediaseite<br/>
     ☐ Ein Foto von einem Pepper cosplay bekommen<br/>
     ☐ Ein Foto von einer roten Katze namens Carrot bekommen<br/>
-    ☐ Von 500 Patreons unterst&uuml;tzt werden<br/>
+    ☑ Von 500 Patreons unterst&uuml;tzt werden<br/>
     ☐ Episode 100 erreichen<br/>
     </p>
 ',

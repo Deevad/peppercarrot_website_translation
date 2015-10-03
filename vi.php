@@ -220,7 +220,7 @@ $LANG = array(
     ☐ Sở hữu một trang Wikipedia<br/>
     ☐ Nhận một bức ảnh về Pepper cosplay<br/>
     ☐ Nhận một bức ảnh về một chú mèo đỏ tên Carrot<br/>
-    ☐ Được ủng hộ bởi 500 nhà tài trợ<br/>
+    ☑ Được ủng hộ bởi 500 nhà tài trợ<br/>
     ☐ Đạt đến tập 100<br/>
     </p>
 ',

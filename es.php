@@ -219,7 +219,7 @@ $LANG = array(
     ☐ Obtener una página de Wikipedia<br/>
     ☐ Recibir una foto de un cosplay de Pepper<br/>
     ☐ Recibir una foto de un gato rojo llamado Carrot<br/>
-    ☐ ser apoyado por 500 patrocinadores<br/>
+    ☑ ser apoyado por 500 patrocinadores<br/>
     ☐ Alcanzar el episodio 100<br/>
     </p>
 ',
