@@ -229,6 +229,10 @@ $LANG = array(
 'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS' => '<p></p>',
 
 ################################################################################
+# Page: Wiki
+'WIKI'		=> 'Wiki',
+
+################################################################################
 # Website General: Footer
 'FOOTER_CONTENT'    => '
     <p>Serial komik, gambar dan teks dilisensi di bawah CC-BY, terkecuali ada informasi lainnya di halaman tersebut.<br/>

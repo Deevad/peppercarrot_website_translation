@@ -231,6 +231,10 @@ $LANG = array(
 'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS' => '<p></p>',
 
 ################################################################################
+# Page: Wiki
+'WIKI'		=> 'Wiki',
+
+################################################################################
 # Website General : Footer
 'FOOTER_CONTENT'    => '
     <p>Webcomics, Kunstwerke und Text sind lizensiert unter CC-By, wenn nicht anders auf der Seite beschrieben.<br/>

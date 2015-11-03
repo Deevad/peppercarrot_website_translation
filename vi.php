@@ -228,6 +228,11 @@ $LANG = array(
 'AUTHOR_CARREER_TITLE'				 => 'Sự nghiệp của tôi gói gọn trong 7 bước:',
 'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS' => '<p></p>',
 
+
+################################################################################
+# Page: Wiki
+'WIKI'		=> 'Wiki',
+
 ################################################################################
 # Website General: Footer
 'FOOTER_CONTENT'    => '

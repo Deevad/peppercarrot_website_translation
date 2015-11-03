@@ -249,6 +249,10 @@ $LANG = array(
 ',
 
 ################################################################################
+# Page: Wiki
+'WIKI'		=> 'Wiki',
+
+################################################################################
 # Website General: Footer
 'FOOTER_CONTENT'    => '
     <p>A képregény, illusztráció és szöveg a CC-BY licenc szerint használható fel, hacsak az adott oldalon más nem szerepel.<br/>

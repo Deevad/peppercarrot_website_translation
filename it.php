@@ -207,6 +207,11 @@ $LANG = array(
 ',
 'AUTHOR_CARREER_TITLE'				 => 'la mia carriera in 7 bolle:',
 'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS' => '<p></p>',
+
+################################################################################
+# Page: Wiki
+'WIKI'		=> 'Wiki',
+
 ################################################################################
 # Website General: Footer
 'FOOTER_CONTENT'    => '

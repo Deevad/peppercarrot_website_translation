@@ -228,6 +228,10 @@ $LANG = array(
 'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS' => '<p></p>',
 
 ################################################################################
+# Page: Wiki
+'WIKI'		=> 'Wiki',
+
+################################################################################
 # Website General: Footer
 'FOOTER_CONTENT'    => '
     <p>Webcomic, artworks ha testenno&ugrave; dindan la&ntilde;vaz CC-By, nemet e vefe skrivet un dra bennak all er bajenn.<br/>

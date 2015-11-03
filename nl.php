@@ -230,6 +230,10 @@ $LANG = array(
 'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS' => '<p></p>',
 
 ################################################################################
+# Page: Wiki
+'WIKI'		=> 'Wiki',
+
+################################################################################
 # Website General : Footer
 'FOOTER_CONTENT'    => '
     <p>De strip, tekeningen en teksten zijn vrijgegeven onder de CC-by-licentie, tenzij anders vermeld op de pagina.<br/>

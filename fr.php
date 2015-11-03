@@ -230,6 +230,10 @@ $LANG = array(
 'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS'    => '<p>(Schéma en anglais, non traduit)</p>',
 
 ################################################################################
+# Page: Wiki
+'WIKI'		=> 'Wiki',
+
+################################################################################
 # Website General : Footer
 'FOOTER_CONTENT'		=> '
     <p>Le Webcomic, les dessins et textes sont distribué sous licence CC-By, à moins qu\'autre chose ne soit mentionné dans la page.<br/>
