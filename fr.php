@@ -81,7 +81,7 @@ $LANG = array(
     
     <p>Tous les contenus que je crée autour et pour Pepper&amp;Carrot sont sur ce site, gratuits et disponibles pour tous.<br/>
     Je vous respecte tous au même niveau : avec ou sans argent. Tous les bonus que je fais pour mes mécènes sont ici également.<br/>
-    Pepper&amp;Carrot ne vous demandera jamais de payer quoi que ce soit ou de s\'inscrire quelquepart pour avoir accès au contenu.</p>
+    Pepper&amp;Carrot ne vous demandera jamais de payer quoi que ce soit ou de s\'inscrire quelque part pour avoir accès au contenu.</p>
     
         <img alt="illustration representant les péages du net" src="data/images/static/2015-02-09_philosophy_03-paywall.jpg">
 
@@ -103,6 +103,7 @@ $LANG = array(
     <h2>Un divertissement de qualité, partout et pour tous</h2>
     
     <p>Pepper&amp;Carrot est un webcomic (une BD sur Internet) humoristique convenant pour tous les ages.<br/>
+
     Aucune scène de violence, ni de sexualité ne sera publiée ici. Gratuit et open-source, Pepper&amp;Carrot se veut être un exemple responsable de médias libres.<br/>
     L\' accent est mis sur la qualité, l\'éthique et le professionalisme, parce que "libre et open-source" ne signifie pas "au rabais ou à l\'arrache". Au contraire.</p>
 
@@ -112,7 +113,7 @@ $LANG = array(
     
     <p>Avec moins d\'intermédiaires entre lecteurs et auteurs, tout le monde y gagne; vous me financez directement.<br/>
     Aucun éditeur, distributeur ou commercial ne peut exercer des changements sur Pepper&amp;Carrot afin de le faire rentrer dans une case du \'marché\'.<br/>
-    ... Et pourquoi Pepper&amp;Carrot ne pourrait t\'il pas amorcer un changement et ainsi inspirer une industrie en crise ? Essayons !</p>
+    ... Et pourquoi Pepper&amp;Carrot ne pourrait-il pas amorcer un changement et ainsi inspirer une industrie en crise ? Essayons !</p>
     
         <img alt="illustration: l\'industrie de la BD VS financement par mécénat" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
     
@@ -137,7 +138,7 @@ $LANG = array(
     
     <p>Vous trouverez tous les informations sur le financement de Pepper&amp;Carrot dans la page 
     <a href="?static2/philosophy" title="Philosophie">Philosophie</a>.<br/>
-    Pour plus de commodité et moins de frais banquaires pour l\'audience francophone en Europe, j\'ai mis en place <a href="https://www.tipeee.com/pepper-carrot" title="Pepper&amp;Carrot on tipeee">une page sur Tipeee</a>.<br/>
+    Pour plus de commodité et moins de frais bancaires pour l\'audience francophone en Europe, j\'ai mis en place <a href="https://www.tipeee.com/pepper-carrot" title="Pepper&amp;Carrot on tipeee">une page sur Tipeee</a>.<br/>
     Il est également possible <a href="https://www.patreon.com/davidrevoy">de souttenir le projet via Patreon</a> (international).
     Patreon et Tipeee accèptent les Cartes Bleus, Visa et Paypal, etc.<br/><br/>
     J\'accèpte également les donations directes via PayPal ou Flattr :</p>
