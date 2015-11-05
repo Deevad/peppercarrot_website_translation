@@ -70,10 +70,10 @@ $LANG = array(
     Grâce à ce système, Pepper&amp;Carrot reste indépendant et protégé du monde éditorial, de la pub et du marketing agressif.</p>
     
     <div class="philobutton">
-        Pour seulement 1€ par nouvel épisode,<br/> devenez dès aujourd\'hui mécéne de Pepper&amp;Carrot sur <a href="https://www.patreon.com/davidrevoy" title="Pour seulement 1€ par nouvel épisode, devenez mécéne dès aujourdh\'ui sur Patreon" title="Pour seulement 1€ par nouvel épisode, devenez mécéne dès aujourdh\'ui sur Patreon">Patreon</a>
+        Pour seulement 1€ par nouvel épisode,<br/> devenez dès aujourd\'hui mécène de Pepper&amp;Carrot sur <a href="https://www.patreon.com/davidrevoy" title="Pour seulement 1€ par nouvel épisode, devenez mécène dès aujourdh\'ui sur Patreon" title="Pour seulement 1€ par nouvel épisode, devenez mécène dès aujourdh\'ui sur Patreon">Patreon</a>
     </div>
     
-        <a href="https://www.tipeee.com/pepper-carrot" title="Pour seulement 1€ par nouvel épisode, devenez mécéne aujourdh\'ui sur Tipeee">
+        <a href="https://www.tipeee.com/pepper-carrot" title="Pour seulement 1€ par nouvel épisode, devenez mécène aujourdh\'ui sur Tipeee">
             <img alt="illustration representant le mécénat moderne" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
         </a>
 
@@ -117,7 +117,7 @@ $LANG = array(
         <img alt="illustration: l\'industrie de la BD VS financement par mécénat" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
     
     <div class="philobutton">
-        Pour seulement 1€ par nouvel épisode,<br/> devenez dès aujourd\'hui mécéne de Pepper&amp;Carrot sur <a href="https://www.patreon.com/davidrevoy" title="Pour seulement 1€ par nouvel épisode, devenez mécéne dès aujourdh\'ui sur Patreon" title="Pour seulement 1€ par nouvel épisode, devenez mécéne dès aujourdh\'ui sur Patreon">Patreon</a>
+        Pour seulement 1€ par nouvel épisode,<br/> devenez dès aujourd\'hui mécène de Pepper&amp;Carrot sur <a href="https://www.patreon.com/davidrevoy" title="Pour seulement 1€ par nouvel épisode, devenez mécène dès aujourdh\'ui sur Patreon" title="Pour seulement 1€ par nouvel épisode, devenez mécène dès aujourdh\'ui sur Patreon">Patreon</a>
     </div>
             
     <p>Merci pour votre attention,  <br/>
