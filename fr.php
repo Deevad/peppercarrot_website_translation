@@ -105,7 +105,7 @@ $LANG = array(
     <p>Pepper&amp;Carrot est un webcomic (une BD sur Internet) humoristique convenant pour tous les ages.<br/>
 
     Aucune scène de violence, ni de sexualité ne sera publiée ici. Gratuit et open-source, Pepper&amp;Carrot se veut être un exemple responsable de médias libres.<br/>
-    L\' accent est mis sur la qualité, l\'éthique et le professionalisme, parce que "libre et open-source" ne signifie pas "au rabais ou à l\'arrache". Au contraire.</p>
+    L\' accent est mis sur la qualité, l\'éthique et le professionnalisme, parce que "libre et open-source" ne signifie pas "au rabais ou à l\'arrache". Au contraire.</p>
 
         <img alt="illustration pour tous" src="data/images/static/2015-02-09_philosophy_05-everyone.jpg">
 
