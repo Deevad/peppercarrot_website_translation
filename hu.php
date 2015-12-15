@@ -220,8 +220,8 @@ $LANG = array(
     ☐ 100 kép a rajongói galériában<br/>
     ☐ Wikipédia-oldal<br/>
     ☐ Kapni egy képet Paprika cosplay-ről<br/>
-    ☐ Kapni egy képet egy vörös macskáról, akit Sárgarépának hívnak<br/>
-    ☑ 500 pártfogóm legyen Patreon-on<br/>
+    ☑ <a href="http://www.peppercarrot.com/article304/dream-to-do-list-a-cat-named-carrot">Kapni egy képet egy vörös macskáról, akit Sárgarépának hívnak</a><br/>
+    ☑ <a href="http://www.peppercarrot.com/article302/peppercarrot-has-over-500-supporters">500 pártfogóm legyen Patreon-on</a><br/>
     ☐ Elérjem a 100. részt<br/>
     </p>
 ',

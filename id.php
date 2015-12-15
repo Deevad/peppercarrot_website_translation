@@ -219,8 +219,8 @@ $LANG = array(
     ☐ Mendapatkan 100 gambar karya penggemar<br/>
     ☐ Memiliki halaman Wikipedia<br/>
     ☐ Mendapatkan foto cosplay Pepper<br/>
-    ☐ Mendapatkan foto kucing merah yang bernama Carrot<br/>
-    ☑ Didukung oleh 500 donatur di Patreon<br/>
+    ☑ <a href="http://www.peppercarrot.com/article304/dream-to-do-list-a-cat-named-carrot">Mendapatkan foto kucing merah yang bernama Carrot</a><br/>
+    ☑ <a href="http://www.peppercarrot.com/article302/peppercarrot-has-over-500-supporters">Didukung oleh 500 donatur di Patreon</a><br/>
     ☐ Mencapai episode 100<br/>
     </p>
 ',

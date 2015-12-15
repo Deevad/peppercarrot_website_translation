@@ -220,8 +220,8 @@ $LANG = array(
     ☐ Een galerij met honderd fanarts bereiken<br/>
     ☐ Een Wikipedia-pagina krijgen<br/>
     ☐ Een foto toegestuurd krijgen van een cosplay van Pepper<br/>
-    ☐ Een foto toegestuurd krijgen van een rode kat met de naam Carrot<br/>
-    ☑ Ondersteund worden door 500 patreons<br/>
+    ☑ <a href="http://www.peppercarrot.com/article304/dream-to-do-list-a-cat-named-carrot">Een foto toegestuurd krijgen van een rode kat met de naam Carrot</a><br/>
+    ☑ <a href="http://www.peppercarrot.com/article302/peppercarrot-has-over-500-supporters">Ondersteund worden door 500 patreons</a><br/>
     ☐ De honderdste aflevering bereiken<br/>
     </p>
 ',

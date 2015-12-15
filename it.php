@@ -200,8 +200,8 @@ $LANG = array(
     ☐ Avere una galleria con presenti 100 opere dei fan<br/>
     ☐ Avere una pagina su Wikipedia<br/>
     ☐ Ricevere una foto raffigurante un cosplay di Pepper<br/>
-    ☐ Ricevere una foto di un gatto rosso chiamato Carrot<br/>
-    ☑ Essere supportato da 500 lettori<br/>
+    ☑ <a href="http://www.peppercarrot.com/article304/dream-to-do-list-a-cat-named-carrot">Ricevere una foto di un gatto rosso chiamato Carrot</a><br/>
+    ☑ <a href="http://www.peppercarrot.com/article302/peppercarrot-has-over-500-supporters">Essere supportato da 500 lettori</a><br/>
     ☐ Raggiungere il centesimo episodio<br/>
     </p>
 ',

@@ -218,8 +218,8 @@ $LANG = array(
     ☐ Собрать галерею из 100 фан-артов<br/>
     ☐ Иметь свою страницу на Википедии<br/>
     ☐ Получить фото косплея Перчинки<br/>
-    ☐ Получить фото рыжего кота по имени Морквик<br/>
-    ☑ Получить поддержку 500 добровольцев с Patreon<br/>
+    ☑ <a href="http://www.peppercarrot.com/article304/dream-to-do-list-a-cat-named-carrot">Получить фото рыжего кота по имени Морквик</a><br/>
+    ☑ <a href="http://www.peppercarrot.com/article302/peppercarrot-has-over-500-supporters">Получить поддержку 500 добровольцев с Patreon</a><br/>
     ☐ Выпустить 100 эпизодов<br/>
     </p>
 ',

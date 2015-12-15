@@ -219,8 +219,8 @@ $LANG = array(
     ☐ Aconseguir tenir 100 fan-arts a la galeria<br/>
     ☐ Tenir una plana a Wikipedia<br/>
     ☐ Rebre una foto d\'algú disfressat de la Pepper<br/>
-    ☐ Rebre una foto d\'un gat taronja al que hagin anomenat Carrot<br/>
-    ☑ Tenir 500 patreons<br/>
+    ☑ <a href="http://www.peppercarrot.com/article304/dream-to-do-list-a-cat-named-carrot">Rebre una foto d\'un gat taronja al que hagin anomenat Carrot<br/>
+    ☑ <a href="http://www.peppercarrot.com/article302/peppercarrot-has-over-500-supporters">Tenir 500 patreons<br/>
     ☐ Arribar als 100 capítols<br/>
     </p>
 ',
@@ -235,8 +235,8 @@ $LANG = array(
 ################################################################################
 # Website General: Footer
 'FOOTER_CONTENT'    => '
-    <p>El webcòmic, artworks i textos tenen llicència a CC-By license, a no ser que la plana ho especifiqui d\'una altra manera.<br/>
-    Atribucions a "David Revoy, www.davidrevoy.com". Contacteu-me: info@davidrevoy.com si voleu més informació.</p>
+    <p>El webcòmic, artworks i textos tenen llicència a CC-By license, a no ser que la plana ho especifiqui d\'una altra manera.</a><br/>
+    Atribucions a "David Revoy, www.davidrevoy.com". Contacteu-me: info@davidrevoy.com si voleu més informació.</a></p>
     
     <p>Plana web funcionant amb <a href="http://www.pluxml.org" title="PlXml">PluXml</a></p> 
 ',
