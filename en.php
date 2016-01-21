@@ -93,7 +93,7 @@ $LANG = array(
     <p>I want to give people the right to share, use, build and even make money upon the work I&#39;ve created.<br/>
     All pages, artworks and content were made with Free/Libre Open-Sources Software on GNU/Linux, and all sources are on this website, &#39;Source&#39; menu.<br/>
     Commercial usage, translations, fan-arts, prints, movies, video-games, sharing, and reposts are encouraged.<br/>
-    You just need to credit my name - David Revoy - as the author.</p>
+    You just need to give appropriate credit to the authors (artists,correctors,translators involved in the artwork you want to use), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the authors endorses you or your use.</p>
 
     <div class="philobutton">
         <a href="https://creativecommons.org/licenses/by/4.0/" title="For more information, read the Creative Commons Attribution 4.0">
