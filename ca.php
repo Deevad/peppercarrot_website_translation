@@ -93,7 +93,7 @@ $LANG = array(
     <p>Vull donar a la gent el dret a compartir, fer servir, construir i fins i tot obtenir diners pel treball que he fet.<br/>
     Totes les pàgines, il·lustracions i continguts han estat fets utilitzant eines Free/Libre/lliure i Open-Sources en Gnu/Linux, i totes les fonts d\'aquesta plana web, &#39;Source&#39;.<br/>
     Us encoratjo a fer-ne us comercial, afegir traduccions, fer-ne fan-art, impressions, pel·lícules, videojocs, compartir, reproduir...<br/>
-    Només heu de fer constar el meu nom - David Revoy - com a autor.</p>
+    Només heu de donar el reconeixement pertinent als autors (artistes, correctors, traductors... dels quals la vostra nova obra n\'hagi utilitzat els recursos), proporcionar un enllaç a la llicència i indicar-hi els canvis efectuats si n\'hi ha hagut algun. Heu de fer-ho d\'una manera raonable, però no de cap manera que pugui suggerir que els autors han format part activa del vostre projecte en concret si no n\'és el cas.</p>
     
     <div class="philobutton">
         <a href="https://creativecommons.org/licenses/by/4.0/deed.ca" title="For more information, read the Creative Commons Attribution 4.0">

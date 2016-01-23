@@ -93,7 +93,7 @@ $LANG = array(
     <p>Saya ingin memberikan kepada orang hak untuk menyebarluaskan, menggunakan, membuat dan menghasilkan keuntungan dari karya yang saya buat.<br/>
     Semua halaman, karya dan konten dari situs ini dibuat menggunakan program yang bebas dan gratis melalui Gnu/Linux, dan semua sumber dari situs ini tersedia di menu &#39;Sumber&#39;.<br/>
     Penggunaan komersial, penerjemahan, karya dari penggemar, mencetak, membuat film, permainan video, berbagi, dan menyebarluaskan akan sangat dihargai.<br/>
-    Anda tinggal menyebutkan saja nama saya - David Revoy - sebagai pemilik karya ini.</p>
+    Anda hanya menyebutkan pihak yang berperan di dalamnya (pembuat, penerjemah, maupun pengoreksi pada karya yang akan Anda gunakan/bagikan) dengan cara memberikan pranala ke lisensi, dan sebutkan perubahan yang Anda lakukan jika ada perubahan yang berarti. Anda dapat membagikan karya ini dengan wajar, namun hal ini tidak berarti Anda akan mendapatkan dukungan penuh dari pemilik karya.</p>
     
     <div class="philobutton">
         <a href="https://creativecommons.org/licenses/by/4.0/" title="Untuk informasi selengkapnya, silakan membaca Atribusi Creative Commons 4.0">

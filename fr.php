@@ -90,7 +90,7 @@ $LANG = array(
     <p>Je veux donner aux autres le droit, celui d\'utiliser, de changer et même de commercialiser leurs projets utilisant Pepper&amp;Carrot.<br/>
     Toutes pages, dessins et autres contenus ont été fabriqués avec des logiciels libres (Gnu/Linux), et toutes les sources sont sur ce site (menu  \'Sources\').<br/>
     L\'utilisation commerciale, les traductions, les fan-arts, l\'impression, les films, les jeux-vidéos et le re-partage sur le net sont encouragés.<br/>
-    Je vous demande seulement de me citer en retour comme étant l\'auteur original.</p>
+    Je vous demande seulement de créditer les œuvres de leur(s) auteur(s) respectif (artistes, correcteurs, traducteurs investi(e)s dans la creation de l\'œuvre), d\'intégrer un lien vers la licence et indiquer si des modifications ont été effectuées à l\'œuvre. Vous devez indiquer ces informations par tous les moyens raisonnables, sans toutefois suggérer que les auteur(s) vous soutiennent ou soutiennent la façon dont vous avez utilisé leurs œuvres.</p>
     
     <div class="philobutton">
         <a href="https://creativecommons.org/licenses/by/4.0/deed.fr" title="Plus d\'information en français sur Creative Commons Attribution 4.0">

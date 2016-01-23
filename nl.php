@@ -93,7 +93,7 @@ $LANG = array(
     Alle pagina\'s, tekeningen en andere inhoud zijn gemaakt met vrije open-bron-software op GNU/Linux,<br/>
     en alle bronbestanden staan op deze website (het &#39;Bronnen&#39;-menu).<br/>
     Ik moedig commercieel gebruik, vertalingen, fanart, prints, films, videospellen, delen en reposts aan.<br/>
-    Je hoeft alleen maar mij - David Revoy - als auteur te vermelden.</p>
+    Het enige wat je hoeft te doen is de auteurs (tekenaars, correctoren en vertalers die zijn betrokken bij de tekeningen die je wil gebruiken) te vermelden, een link naar de licentie te plaatsen, en aan te geven of je wijzigingen hebt aangebracht. Je mag dit doen op iedere redelijke manier, zolang je maar niet suggereert dat de auteurs jou of jouw gebruik onderschrijven of steunen.</p>
     
     <div class="philobutton">
         <a href="https://creativecommons.org/licenses/by/4.0/deed.nl" title="Lees voor meer informatie de Creative Commons Naamsvermelding-licentie 4.0">
