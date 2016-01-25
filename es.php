@@ -92,7 +92,7 @@ $LANG = array(
     <p>Quiero darle a la gente el derecho a compartir, utilizar, desarrollar e incluso ganar dinero con el trabajo que he creado.<br/>
     Todas las páginas, ilustraciones y contenido se hicieron con Software Gratuito/Libre de código abierto en GNU/Linux, y todas las fuentes están en este sitio web, en el menú &#39;Fuentes&#39;.<br/>
     Se anima el uso comercial, traducciones, fan-arts, impresiones, películas, videojuegos, distribuciones y re-publicaciones.<br/>
-    Sólo tienes que dar crédito a mi nombre - David Revoy - como el autor.</p>
+    Solo tienes que atribuir la obra a los autores (artistas, correctores, traductores o cualquier persona implicado en la obra que quieras utilizar), proporcionar un enlace a la licencia e indicar si se han realizado cambios en la obra. Puedes hacer esto de cualquier manera razonable, pero no de forma que sugiera que los autores te dan su respaldo.</p>
     
     <div class="philobutton">
         <a href="https://creativecommons.org/licenses/by/4.0/deed.es" title="For more information, read the Creative Commons Attribution 4.0">
