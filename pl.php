@@ -93,7 +93,7 @@ $LANG = array(
     <p>Pragnę dać ludziom prawo do podziału, użytku, budowania, a nawet zarobku na pracy, którą stworzyłem.<br/>
     Wszystkie strony, grafiki i zawartość zostały wykonane w otwartym/liberalnym oprogramowaniu na GNU/Linuksie. Źródła dostępne są tutaj, wystarczy wybrać &#39;Źródła&#39; z menu.<br/>
     Zachęcam do użycia komercyjnego, przekładu, tworzenia fan-artów, druku, wykorzystania w filmach, grach wideo i uploadu na inne strony.<br/>
-    Wystarczy, byś wymienił autorów (artystów, korektorów, tłumaczy, którzy mieli swój wkład w dzieło), udostępnił link do licencji i wypisał zmiany, które zostały wprowadzone. Możesz zrobić to w każdy rozsądny sposób, lecz nie w taki, który sugerowałby, że autorzy wspierają Twoje wykorzystanie dzieła.</p>
+    Wystarczy, byś wymienił autorów (artystów, korektorów, tłumaczy, którzy mieli swój wkład w dzieło), podał link do licencji i wskazał wprowadzone zmiany. Możesz zrobić to w każdy rozsądny sposób, o ile nie sugeruje on udzielania przez licencjonodawcę poparcia dla Ciebie lub Twojego sposobu wykorzystania dzieła.</p>
 
     <div class="philobutton">
         <a href="https://creativecommons.org/licenses/by/4.0/" title="By dowiedzieć się więcej, przeczytaj treść Creative Commons Uznanie autorstwa 4.0">
