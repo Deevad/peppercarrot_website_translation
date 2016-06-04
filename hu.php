@@ -97,7 +97,7 @@ $LANG = array(
     
     <div class="philobutton">
         <a href="https://creativecommons.org/licenses/by/4.0/deed.hu" title="További információért olvasd el a &quot;Creative Commons Nevezd meg! 4.0&quot;-t">
-            Licenc: Creative Commons Nevezd 4.0 meg!
+            Licenc: Creative Commons Nevezd meg! 4.0
         </a>
     </div>
 
@@ -255,7 +255,7 @@ $LANG = array(
 ################################################################################
 # Website General: Footer
 'FOOTER_CONTENT'    => '
-    <p>A képregény, illusztráció és szöveg a <a href="https://creativecommons.org/licenses/by/4.0/deed.hu" title="További információért olvasd el a &quot;Creative Commons Nevezd meg! 4.0&quot;-t">Creative Commons Nevezd 4.0</a>licenc szerint használható fel, hacsak az adott oldalon más nem szerepel.<br/>
+    <p>A képregény, illusztráció és szöveg a <a href="https://creativecommons.org/licenses/by/4.0/deed.hu" title="További információért olvasd el a &quot;Creative Commons Nevezd meg! 4.0&quot;-t">Creative Commons Nevezd meg! 4.0</a>licenc szerint használható fel, hacsak az adott oldalon más nem szerepel.<br/>
     Szerző: "David Revoy, www.davidrevoy.com". Kapcsolat (angol, francia nyelven): <a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a></p>
     
     <p>Website powered by <a href="http://www.pluxml.org" title="PlXml">PluXml</a></p> 
