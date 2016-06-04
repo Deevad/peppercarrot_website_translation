@@ -235,7 +235,7 @@ $LANG = array(
 ################################################################################
 # Website General: Footer
 'FOOTER_CONTENT'    => '
-    <p>Serial komik, gambar dan teks dilisensi di bawah CC-BY, terkecuali ada informasi lainnya di halaman tersebut.<br/>
+    <p>Serial komik, gambar dan teks dilisensi di bawah <a href="https://creativecommons.org/licenses/by/4.0/" title="Untuk informasi selengkapnya, silakan membaca Atribusi Creative Commons 4.0">Atribusi Creative Commons 4.0</a>, terkecuali ada informasi lainnya di halaman tersebut.<br/>
     Dibuat oleh "David Revoy, www.davidrevoy.com". Hubungi saya: info@davidrevoy.com untuk informasi selengkapnya.</p>
     
     <p>Situs dibuat oleh <a href="http://www.pluxml.org" title="PlXml">PluXml</a></p> 

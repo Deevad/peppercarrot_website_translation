@@ -233,7 +233,7 @@ $LANG = array(
 ################################################################################
 # Website General : Footer
 'FOOTER_CONTENT'    => '
-    <p>HQs, arte e textos estão sob uma licença CC-By a não ser que outra licença seja expecificada na página.<br/>
+    <p>HQs, arte e textos estão sob uma licença <a href="https://creativecommons.org/licenses/by/4.0/deed.pt" title="Para mais informações, leia a Creative Commons Attribution 4.0">Creative Commons Attribution 4.0</a> a não ser que outra licença seja expecificada na página.<br/>
     Atribuição a "David Revoy, www.davidrevoy.com". Para mais informações: info@davidrevoy.com.</p>
     
     <p>Esse site usa <a href="http://www.pluxml.org" title="PlXml">PluXml</a></p> 

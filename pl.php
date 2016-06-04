@@ -236,7 +236,7 @@ $LANG = array(
 ################################################################################
 # Website General: Footer
 'FOOTER_CONTENT'    => '
-    <p>Komiks, obrazki i teksty są udostępniane na licencji CC-By, dopóki strona nie stanowi inaczej.<br/>
+    <p>Komiks, obrazki i teksty są udostępniane na licencji <a href="https://creativecommons.org/licenses/by/4.0/" title="By dowiedzieć się więcej, przeczytaj treść Creative Commons Uznanie autorstwa 4.0">Creative Commons Uznanie autorstwa 4.0</a>, dopóki strona nie stanowi inaczej.<br/>
     Uznanie autostwa "David Revoy, www.davidrevoy.com". Napisz do mnie: info@davidrevoy.com, by dowiedzieć się więcej.</p>
 
     <p>Strona napędzana przez <a href="http://www.pluxml.org" title="PlXml">PluXml</a></p>

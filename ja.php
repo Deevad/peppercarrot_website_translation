@@ -235,7 +235,7 @@ $LANG = array(
 ################################################################################
 # Website General : Footer
 'FOOTER_CONTENT'    => '
-    <p>ウェブコミック、アートワーク、テキストは特にページ内で追記されていない限り、CC-Byライセンスで提供されます。<br/>
+    <p>ウェブコミック、アートワーク、テキストは特にページ内で追記されていない限り, <a href="https://creativecommons.org/licenses/by/4.0/deed.ja" title="詳しくはCreative Commons Attribution 4.0を参照してください">Creative Commons Attribution 4.0</a>ライセンスで提供されます。<br/>
     帰属表示クレジットは "David Revoy, www.davidrevoy.com"です。 詳細情報が必要な場合の連絡先はこちらです : info@davidrevoy.com </p>
     
     <p>Website powered by <a href="http://www.pluxml.org" title="PlXml">PluXml</a></p> 

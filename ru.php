@@ -235,7 +235,7 @@ $LANG = array(
 ################################################################################
 # Website General: Footer
 'FOOTER_CONTENT'    => '
-    <p>Веб-комиксы, графика и тексты лицензированы под лицензией CC-BY, если на странице не указано иначе.<br/>
+    <p>Веб-комиксы, графика и тексты лицензированы под лицензией <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" title="Прочтите Creative Commons Attribution 4.0, чтобы узнать больше">            Creative Commons Attribution 4.0</a>, если на странице не указано иначе.<br/>
     Владелец - Давид Ревуа "David Revoy, www.davidrevoy.com". Для получения большей информации свяжитесь со мной: info@davidrevoy.com.</p>
     
     <p>Вебсайт создан на базе <a href="http://www.pluxml.org" title="PlXml">PluXml</a></p> 

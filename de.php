@@ -237,7 +237,7 @@ $LANG = array(
 ################################################################################
 # Website General : Footer
 'FOOTER_CONTENT'    => '
-    <p>Webcomics, Kunstwerke und Text sind lizensiert unter CC-By, wenn nicht anders auf der Seite beschrieben.<br/>
+    <p>Webcomics, Kunstwerke und Text sind lizensiert unter <a href="https://creativecommons.org/licenses/by/4.0/deed.de" title="F&uumlr weitere Informationen lies: Creative Commons Namensnennung 4.0 Unported">Creative Commons Namensnennung 4.0 Unported</a>, wenn nicht anders auf der Seite beschrieben.<br/>
     Namensnennung von "David Revoy, www.davidrevoy.com". Kontaktiert mich : info@davidrevoy.com um mehr zu erfahren.</p>
     
     <p>Website powered by <a href="http://www.pluxml.org" title="PlXml">PluXml</a></p> 

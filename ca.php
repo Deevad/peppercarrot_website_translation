@@ -235,7 +235,7 @@ $LANG = array(
 ################################################################################
 # Website General: Footer
 'FOOTER_CONTENT'    => '
-    <p>El webcòmic, artworks i textos tenen llicència a CC-By license, a no ser que la plana ho especifiqui d\'una altra manera.</a><br/>
+    <p>El webcòmic, artworks i textos tenen llicència a <a href="https://creativecommons.org/licenses/by/4.0/deed.ca" title="For more information, read the Creative Commons Attribution 4.0">Creative Commons Attribution 4.0</a> license, a no ser que la plana ho especifiqui d\'una altra manera.</a><br/>
     Atribucions a "David Revoy, www.davidrevoy.com". Contacteu-me: info@davidrevoy.com si voleu més informació.</a></p>
     
     <p>Plana web funcionant amb <a href="http://www.pluxml.org" title="PlXml">PluXml</a></p> 

@@ -234,7 +234,7 @@ $LANG = array(
 ################################################################################
 # Website General: Footer
 'FOOTER_CONTENT'    => '
-    <p>Webcomic, artworks ha testenno&ugrave; dindan la&ntilde;vaz CC-By, nemet e vefe skrivet un dra bennak all er bajenn.<br/>
+    <p>Webcomic, artworks ha testenno&ugrave; dindan la&ntilde;vaz <a href="https://creativecommons.org/licenses/by/4.0/" title="Evit muioc\'h a ditouro&ugrave;, lennit ar Creative Commons Attribution 4.0">Creative Commons Attribution 4.0</a>, nemet e vefe skrivet un dra bennak all er bajenn.<br/>
     Da lakaat war anv "David Revoy, www.davidrevoy.com". Deuit e darempred ganin : info@davidrevoy.com evit gouzout hiroc\'h.</p>
 
     <p>Lec\'hienn lusket gant <a href="http://www.pluxml.org" title="PlXml">PluXml</a></p>
