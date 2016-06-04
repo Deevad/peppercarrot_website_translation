@@ -253,6 +253,8 @@ $LANG = array(
 'UTIL_PAGE'      =>  'Seite',
 'UTIL_BY'        =>  'von',
 'UTIL_LICENSE'   =>  'Lizenz',
+'FIRST'        =>  'zuerst',
+'LAST'   =>  'letzte',
 
 );
 

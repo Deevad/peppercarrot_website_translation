@@ -249,9 +249,10 @@ $LANG = array(
 'UTIL_BACK_TO_GALLERY'      =>  'ギャラリーに戻る',
 'UTIL_MORE'      =>  'もっと見る',
 'UTIL_PAGE'      =>  'ページ',
-'UTIL_BY'        =>  'by',
-'UTIL_LICENSE'   =>  'license',
-
+'UTIL_BY'        =>  'から',
+'UTIL_LICENSE'   =>  'ライセンス',
+'FIRST'        =>  '最初',
+'LAST'   =>  '最終',
 );
 
 ?>  

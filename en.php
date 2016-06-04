@@ -251,7 +251,8 @@ $LANG = array(
 'UTIL_PAGE'      =>  'page',
 'UTIL_BY'        =>  'by',
 'UTIL_LICENSE'   =>  'license',
-
+'FIRST'        =>  'first',
+'LAST'   =>  'last',
 );
 
 ?>

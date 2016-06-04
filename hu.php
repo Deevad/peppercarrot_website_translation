@@ -271,6 +271,8 @@ $LANG = array(
 'UTIL_PAGE'      =>  'oldal',
 'UTIL_BY'        =>  ', készítette ',
 'UTIL_LICENSE'   =>  'licenc',
+'FIRST'        =>  'első',
+'LAST'   =>  'utolsó',
 
 );
 

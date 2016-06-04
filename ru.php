@@ -251,7 +251,8 @@ $LANG = array(
 'UTIL_PAGE'      =>  'стр.',
 'UTIL_BY'        =>  '',
 'UTIL_LICENSE'   =>  'Лицензия',
-
+'FIRST'        =>  'первый',
+'LAST'   =>  'последний',
 );
 
 ?>  
