@@ -237,7 +237,7 @@ $LANG = array(
 # Website General : Footer
 'FOOTER_CONTENT'    => '
     <p>De strip, tekeningen en teksten zijn vrijgegeven onder de <a href="https://creativecommons.org/licenses/by/4.0/deed.nl" title="Lees voor meer informatie de Creative Commons Naamsvermelding-licentie 4.0">Creative Commons Naamsvermelding 4.0</a>-licentie, tenzij anders vermeld op de pagina.<br/>
-    Gebruik de naamsvermelding "David Revoy, www.davidrevoy.com". Je kunt me bereiken op info@davidrevoy.com voor meer informatie.</p>
+    Gebruik de naamsvermelding "David Revoy, www.davidrevoy.com". Je kunt me bereiken op <a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a> voor meer informatie.</p>
     
     <p>Website mogelijk gemaakt door <a href="http://www.pluxml.org" title="PlXml">PluXml</a></p> 
 ',

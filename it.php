@@ -216,7 +216,7 @@ $LANG = array(
 # Website General: Footer
 'FOOTER_CONTENT'    => '
     <p>Il webcomic, i disegni ed i testi, se non diversamente specificato nella pagina, sono sotto licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.it" title="Leggete la Creative Commons Attribution 4.0 per maggiori informazioni">Creative Commons Attribution 4.0</a>.<br/>
-    Autore: David Revoy, www.davidrevoy.com. Per contatti e maggiori informazioni: info@davidrevoy.com.</p>
+    Autore: David Revoy, www.davidrevoy.com. Per contatti e maggiori informazioni: <a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a>.</p>
     
     <p>Questo sito web utilizza <a href="http://www.pluxml.org" title="PlXml">PluXml</a></p> 
 ',

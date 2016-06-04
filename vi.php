@@ -237,7 +237,7 @@ $LANG = array(
 # Website General: Footer
 'FOOTER_CONTENT'    => '
     <p>Truyện tranh, các tác phẩm và văn bản được ký giấy phép bởi <a href="https://creativecommons.org/licenses/by/4.0/" title="Thông tin chi tiết, đọc the Creative Commons Attribution 4.0">Creative Commons Attribution 4.0</a>, trừ khi có ghi chú khác trong trang.<br/>
-    Ghi nhận tác giả "David Revoy, www.davidrevoy.com". Liên lạc: info@davidrevoy.com cho các thông tin khác.</p>
+    Ghi nhận tác giả "David Revoy, www.davidrevoy.com". Liên lạc: <a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a> cho các thông tin khác.</p>
     
     <p>Trang web được hỗ trợ bởi <a href="http://www.pluxml.org" title="PlXml">PluXml</a></p> 
 ',
