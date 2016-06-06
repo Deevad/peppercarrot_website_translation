@@ -219,7 +219,7 @@ $LANG = array(
     ☐ Auf einer japanischen Comic-Messe eine Rede &uuml;ber Pepper&amp;Carrot halten<br/>
     ☐ Mit einem Gamepad ein Pepper&amp;Carrot Videospiel spielen<br/>
     ☐ Eine Gallerie von 100 Fan-Art-Beitr&auml;gen sammeln<br/>
-    ☐ Eine eigene Wikipediaseite<br/>
+    ☑ <a href="http://www.peppercarrot.com/en/article376/dream-to-do-list-a-wikipedia-page">Eine eigene Wikipediaseite</a><br/>
     ☐ Ein Foto von einem Pepper cosplay bekommen<br/>
     ☑ <a href="http://www.peppercarrot.com/article304/dream-to-do-list-a-cat-named-carrot">Ein Foto von einer roten Katze namens Carrot bekommen</a><br/>
     ☑ <a href="http://www.peppercarrot.com/article302/peppercarrot-has-over-500-supporters">Von 500 Patreons unterst&uuml;tzt werden</a><br/>

@@ -218,7 +218,7 @@ $LANG = array(
     ☐ Előadni egy Japán Comic Con-on a Paprika&amp;Sárgarépáról<br/>
     ☐ Gamepad-en játszani egy Paprika&amp;Sárgarépa videójátékkal<br/>
     ☐ 100 kép a rajongói galériában<br/>
-    ☐ Wikipédia-oldal<br/>
+    ☑ <a href="http://www.peppercarrot.com/en/article376/dream-to-do-list-a-wikipedia-page">Wikipédia-oldal</a><br/>
     ☐ Kapni egy képet Paprika cosplay-ről<br/>
     ☑ <a href="http://www.peppercarrot.com/article304/dream-to-do-list-a-cat-named-carrot">Kapni egy képet egy vörös macskáról, akit Sárgarépának hívnak</a><br/>
     ☑ <a href="http://www.peppercarrot.com/article302/peppercarrot-has-over-500-supporters">500 pártfogóm legyen Patreon-on</a><br/>

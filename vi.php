@@ -217,7 +217,7 @@ $LANG = array(
     ☐ Tạo một cuộc nói chuyện tại một hội nghị ở Nhật về Hạt Tiêu&amp;Cà Rốt<br/>
     ☐ Chơi với một gamepad về Hạt Tiêu&amp;Cà Rốt video-game<br/>
     ☐ Sở hữu một bộ ảnh với 100 fan-arts<br/>
-    ☐ Sở hữu một trang Wikipedia<br/>
+    ☑ <a href="http://www.peppercarrot.com/en/article376/dream-to-do-list-a-wikipedia-page">Sở hữu một trang Wikipedia</a><br/>
     ☐ Nhận một bức ảnh về Pepper cosplay<br/>
     ☑ <a href="http://www.peppercarrot.com/article304/dream-to-do-list-a-cat-named-carrot">Nhận một bức ảnh về một chú mèo đỏ tên Carrot</a><br/>
     ☑ <a href="http://www.peppercarrot.com/article302/peppercarrot-has-over-500-supporters">Được ủng hộ bởi 500 nhà tài trợ</a><br/>

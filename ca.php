@@ -217,7 +217,7 @@ $LANG = array(
     ☐ Fer una xerrada a una convenció japonesa sobre Pepper&amp;Carrot<br/>
     ☐ Jugar amb un gamepad a un joc de Pepper&amp;Carrot<br/>
     ☐ Aconseguir tenir 100 fan-arts a la galeria<br/>
-    ☐ Tenir una plana a Wikipedia<br/>
+    ☑ <a href="http://www.peppercarrot.com/en/article376/dream-to-do-list-a-wikipedia-page">Tenir una plana a Wikipedia</a><br/>
     ☐ Rebre una foto d\'algú disfressat de la Pepper<br/>
     ☑ <a href="http://www.peppercarrot.com/article304/dream-to-do-list-a-cat-named-carrot">Rebre una foto d\'un gat taronja al que hagin anomenat Carrot<br/>
     ☑ <a href="http://www.peppercarrot.com/article302/peppercarrot-has-over-500-supporters">Tenir 500 patreons<br/>
