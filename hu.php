@@ -50,7 +50,7 @@ $LANG = array(
 'WEBCOMIC_EPISODE'		    =>  'Elkészült epizódok',
 'WEBCOMIC_MAKINGOF'		    =>  'Így készült',
 'WEBCOMIC_MAKINGOF_DESCRIPTION' =>  '
-    <p>Az &quot;Így készült&quot; és a <a href="http://www.davidrevoy.com/static4/tutorials">grafikai tutorial</a> egy különleges bónusz, amit a <a href="https://www.patreon.com/davidrevoy">Patreons &quot;hőseim&quot;</a> szponzoráltak.</p>
+    <p>Az &quot;Így készült&quot; és a <a href="http://www.davidrevoy.com/categorie5/tutorials">grafikai tutorial</a> egy különleges bónusz, amit a <a href="https://www.patreon.com/davidrevoy">Patreons &quot;hőseim&quot;</a> szponzoráltak.</p>
 ',
 'WEBCOMIC_ARTWORK'		    =>  'Galéria',
 'WEBCOMIC_SKETCHES'		    =>  'Vázlatok, skiccek',

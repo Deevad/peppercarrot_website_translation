@@ -50,7 +50,7 @@ $LANG = array(
 'WEBCOMIC_EPISODE'		    =>  'Выпуски веб-комикса',
 'WEBCOMIC_MAKINGOF'		    =>  'О создании',
 'WEBCOMIC_MAKINGOF_DESCRIPTION' =>  '
-    <p> О создании комикса и <a href="http://www.davidrevoy.com/static4/tutorials"> обучение рисунку</a>  - особый бонус благодаря моим <a href="https://www.patreon.com/davidrevoy">героическим помощникам</a></p>
+    <p> О создании комикса и <a href="http://www.davidrevoy.com/categorie5/tutorials"> обучение рисунку</a>  - особый бонус благодаря моим <a href="https://www.patreon.com/davidrevoy">героическим помощникам</a></p>
 ',
 'WEBCOMIC_ARTWORK'		    =>  'Галерея работ',
 'WEBCOMIC_SKETCHES'		    =>  'Эскизы',

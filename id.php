@@ -50,7 +50,7 @@ $LANG = array(
 'WEBCOMIC_EPISODE'		    =>  'Serial komik',
 'WEBCOMIC_MAKINGOF'		    =>  'Cara membuat',
 'WEBCOMIC_MAKINGOF_DESCRIPTION' =>  '
-    <p> Bagaimana cara membuat dan <a href="http://www.davidrevoy.com/static4/tutorials">tutorial</a> merupakan bonus spesial untuk <a href="https://www.patreon.com/davidrevoy">donatur di Patreon</a></p>
+    <p> Bagaimana cara membuat dan <a href="http://www.davidrevoy.com/categorie5/tutorials">tutorial</a> merupakan bonus spesial untuk <a href="https://www.patreon.com/davidrevoy">donatur di Patreon</a></p>
 ',
 'WEBCOMIC_ARTWORK'		    =>  'Galeri',
 'WEBCOMIC_SKETCHES'		    =>  'Sketsa',

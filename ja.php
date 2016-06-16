@@ -50,7 +50,7 @@ $LANG = array(
 'WEBCOMIC_EPISODE'		    =>  'ウェブコミックエピソードリスト',
 'WEBCOMIC_MAKINGOF'		    =>  'メイキング',
 'WEBCOMIC_MAKINGOF_DESCRIPTION' =>  '
-    <p> メイキングと<a href="http://www.davidrevoy.com/static4/tutorials">チュートリアル</a>は、<a href="https://www.patreon.com/davidrevoy">パトロンの&#39;ヒーロー達&#39;</a>の支援に支えられている特別ボーナスです。</p>
+    <p> メイキングと<a href="http://www.davidrevoy.com/categorie5/tutorials">チュートリアル</a>は、<a href="https://www.patreon.com/davidrevoy">パトロンの&#39;ヒーロー達&#39;</a>の支援に支えられている特別ボーナスです。</p>
 ',
 'WEBCOMIC_ARTWORK'		    =>  'アートワークギャラリー',
 'WEBCOMIC_SKETCHES'		    =>  'スケッチ',

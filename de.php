@@ -50,7 +50,7 @@ $LANG = array(
 'WEBCOMIC_EPISODE'		    =>  'Webcomic Episoden',
 'WEBCOMIC_MAKINGOF'		    =>  'Making-of',
 'WEBCOMIC_MAKINGOF_DESCRIPTION' =>  '
-    <p> Making-of und <a href="http://www.davidrevoy.com/static4/tutorials"> Kunst-Tutorials</a>  sind ein spezieller Bonus, gesponsert durch meine <a href="https://www.patreon.com/davidrevoy">Patreons &#39;Helden&#39;</a></p>
+    <p> Making-of und <a href="http://www.davidrevoy.com/categorie5/tutorials"> Kunst-Tutorials</a>  sind ein spezieller Bonus, gesponsert durch meine <a href="https://www.patreon.com/davidrevoy">Patreons &#39;Helden&#39;</a></p>
 ',
 'WEBCOMIC_ARTWORK'		    =>  'Artwork Galerie',
 'WEBCOMIC_SKETCHES'		    =>  'Zeichnungen',

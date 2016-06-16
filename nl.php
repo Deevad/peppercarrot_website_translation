@@ -50,7 +50,7 @@ $LANG = array(
 'WEBCOMIC_EPISODE'		    =>  'Webcomic-afleveringen',
 'WEBCOMIC_MAKINGOF'		    =>  'Achter de schermen',
 'WEBCOMIC_MAKINGOF_DESCRIPTION' =>  '
-    <p>De achter-de-schermen-pagina\'s en de <a href="http://www.davidrevoy.com/static4/tutorials">teken-tutorials</a> zijn een speciale bonus, gesponsord door mijn <a href="https://www.patreon.com/davidrevoy">Patreon-&#39;helden&#39;</a></p>
+    <p>De achter-de-schermen-pagina\'s en de <a href="http://www.davidrevoy.com/categorie5/tutorials">teken-tutorials</a> zijn een speciale bonus, gesponsord door mijn <a href="https://www.patreon.com/davidrevoy">Patreon-&#39;helden&#39;</a></p>
 ',
 'WEBCOMIC_ARTWORK'		    =>  'Galerij',
 'WEBCOMIC_SKETCHES'		    =>  'Schetsen',

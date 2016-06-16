@@ -44,7 +44,7 @@ $LANG = array(
 'WEBCOMIC_EPISODE'		    =>  'Episodi del Webcomic',
 'WEBCOMIC_MAKINGOF'		    =>  'Dietro le quinte',
 'WEBCOMIC_MAKINGOF_DESCRIPTION' =>  '
-    <p> Il dietro le quinte e <a href="http://www.davidrevoy.com/static4/tutorials"> i tutorials</a> sono dei regali speciali grazie alle sponsorizzazioni dei miei <a href="https://www.patreon.com/davidrevoy"> &#39;eroici&#39; lettori</a></p>
+    <p> Il dietro le quinte e <a href="http://www.davidrevoy.com/categorie5/tutorials"> i tutorials</a> sono dei regali speciali grazie alle sponsorizzazioni dei miei <a href="https://www.patreon.com/davidrevoy"> &#39;eroici&#39; lettori</a></p>
 ',
 'WEBCOMIC_ARTWORK'		    =>  'Galleria dei lavori artistici',
 'WEBCOMIC_SKETCHES'		    =>  'Schizzi',
