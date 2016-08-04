@@ -163,7 +163,7 @@ $LANG = array(
             
     <h2>Reseaux sociaux et presse:</h2> 
     
-    <p>Devenez l\'éditeur de Pepper&amp;Carrot, écrivez des articles, partagez les pages, et construisez votre propre communeauté. Des fichiers archives au format zip sont à votre disposition dans les Sources avec logos et dessins en haute-définition. Ils sont classés sous la catégorie <a href="?static6/sources" title="Sources page">Press Kit</a>.</p>  
+    <p>Devenez l\'éditeur de Pepper&amp;Carrot, écrivez des articles, partagez les pages, et construisez votre propre communauté. Des fichiers archives au format zip sont à votre disposition dans les Sources avec logos et dessins en haute-définition. Ils sont classés sous la catégorie <a href="?static6/sources" title="Sources page">Press Kit</a>.</p>  
     
     <h2> Autres idées de participations:</h2>
     
