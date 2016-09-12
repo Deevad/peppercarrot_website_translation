@@ -34,7 +34,7 @@ $LANG = array(
 # Page: Homepage
 'HOMEPAGE_BIG_TEXT'		    =>  '
     Darmy i ôdewrzōny internetowy kōmiks<br/>
-    spiyrany bezpostrzeniŏ bez czytŏczōw,<br/>
+    spiyrany bezpostrzedniŏ bez czytŏczōw,<br/>
     coby zmiynić branżã kōmiksōw!<br/>
 ',
 'HOMEPAGE_PATREON_INFO'     =>  'Wystyknie 1$ na Patreōnie, coby być patrōnym nowyj tajle',
