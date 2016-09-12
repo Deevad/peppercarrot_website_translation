@@ -64,10 +64,10 @@ $LANG = array(
 ################################################################################
 # Page: Philosophy
 'PHILOSOPHY_CONTENT'    =>  '
- <h2>Spyrany bez patrōnōw</h2>
+ <h2>Spiyrany bez patrōnōw</h2>
 
     <p>Projekt Pepper&amp;Carrot je fundowany bez czytŏczōw ze cołkigo świata.<br/>
-    Kŏżdy z patrōnōw przelywŏ trochã pijyndzy na nowõ tajlã, za co dostŏwŏ podziynkowanie na kōńcu kŏżdyj tajle.<br/>
+    Kożdy z patrōnōw przelywŏ trochã pijyndzy na nowõ tajlã, za co dostŏwŏ podziynkowanie na kōńcu kożdyj tajle.<br/>
     Dziynki tymu Pepper&amp;Carrot może być niyznŏleżny i swobodny ôd zmaraszyniŏ ryklamami i marketingym.</p>
 
     <div class="philobutton">
@@ -95,7 +95,7 @@ $LANG = array(
     Źrōdła dostympne sōm tukej, dostyknie ôbrać \'Źrōdła\' z myni. Zachyncōm do użyciŏ kōmercyjnego, przekłŏdu,<br/>
     tworzyniŏ fanartōw, drukowaniŏ, wyużyciŏ w filmach, szpilach wideo i ladowaniŏ na inksze zajty.<br/>
     Dostyknie, byście pedzieli, fto je autorami (kōnsztlery, korektōry, tumacze, kerzi mieli swōj wkłŏd w dzieło),<br/>
-    podali link do licyncyje i naporynczyli wkludzōne pōmiany. Możecie zrobić to w kŏżdy usōndny knif, jak dugo niy sugeruje ôn<br/>
+    podali link do licyncyje i naporynczyli wkludzōne pōmiany. Możecie zrobić to w kożdy usōndny knif, jak dugo niy sugeruje ôn<br/>
     dŏwaniŏ bez licyncjodŏwcy sparciŏ dlŏ Ciebie abo Twojigo knifu wyużyciŏ dzieła.</p>
 
     <div class="philobutton">
@@ -108,7 +108,7 @@ $LANG = array(
 
     <h2>Wysokij jakości szpas dlŏ wszyjskich i wszyndy</h2>
 
-    <p>Pepper&amp;Carrot je uciesznym kōmiksym, przipasowanym do kŏżdego czytŏcza.<br/>
+    <p>Pepper&amp;Carrot je uciesznym kōmiksym, przipasowanym do kożdego czytŏcza.<br/>
     Niy ma w nim treści dlŏ majoryntnych ani gwołtōw. Pepper&amp;Carrot je blank ôdewrzōny, ale je tyż dumnym przikłŏdym,<br/>
     jak szumne mogōm być darme rzeczy. Skupiōm sie na zwielgij jakości, pōniywŏż darme niy musi ôznŏczać złe abo amatorske. Blank ôpacznie.</p>
 
@@ -187,7 +187,7 @@ $LANG = array(
 'SOURCES_TOP'	        => '
     <p><b>Witej w cyntrōm sebiyraniŏ źrōdeł!</b><br/>
     Znojdziesz sam zbiory źrōdłowe (i niy ino) Pepper&amp;Carrot.<br/>
-    Wszyjske zbiory graficzne sōm kōmpatybilne z nŏjnowszōm wersyjōm <a href="https://krita.org/">Krity</a>.</p>
+    Wszyjske zbiory graficzne sōm kōmpatybilne z nojnowszōm wersyjōm <a href="https://krita.org/">Krity</a>.</p>
 ',
 'SOURCES_BOTTOM'	    => '
     <p>Bez sebiyranie i robotã na tych zbiorach, zgŏdzŏsz sie ze prawidłami licyncyje<br/>
