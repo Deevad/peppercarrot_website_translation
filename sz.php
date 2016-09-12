@@ -91,9 +91,12 @@ $LANG = array(
     <h2>Ôdewrzōny i liberalny</h2>
 
     <p>Chcã dŏć ludziom prawo do dzielyniŏ, użytku, budowaniŏ, aji zarŏbianiŏ na robocie, kerõ stworzōłch.<br/>
-    Wszyjske zajty, grafiki i treść były sprŏwiōne w ôdewrzōnym/liberalnym softwerze na GNU/Linuksie. Źrōdła dostympne sōm tukej, dostyknie ôbrać 'Źrōdła' z myni.<br/>
-    Zachyncōm do użyciŏ kōmercyjnego, przekłŏdu, tworzyniŏ fanartōw, drukowaniŏ, wyużyciŏ w filmach, szpilach wideo i ladowaniŏ na inksze zajty.<br/>
-    Dostyknie, byście pedzieli, fto je autorami (kōnsztlery, korektōry, tumacze, kerzi mieli swōj wkłŏd w dzieło), podali link do licyncyje i naporynczyli wkludzōne pōmiany. Możecie zrobić to w kŏżdy usōndny knif, jak dugo niy sugeruje ôn dŏwaniŏ bez licyncjodŏwcy sparciŏ dlŏ Ciebie abo Twojigo knifu wyużyciŏ dzieła.</p>
+    Wszyjske zajty, grafiki i treść były sprŏwiōne w ôdewrzōnym/liberalnym softwerze na GNU/Linuksie.<br/>
+    Źrōdła dostympne sōm tukej, dostyknie ôbrać \'Źrōdła\' z myni. Zachyncōm do użyciŏ kōmercyjnego, przekłŏdu,<br/>
+    tworzyniŏ fanartōw, drukowaniŏ, wyużyciŏ w filmach, szpilach wideo i ladowaniŏ na inksze zajty.<br/>
+    Dostyknie, byście pedzieli, fto je autorami (kōnsztlery, korektōry, tumacze, kerzi mieli swōj wkłŏd w dzieło),<br/>
+    podali link do licyncyje i naporynczyli wkludzōne pōmiany. Możecie zrobić to w kŏżdy usōndny knif, jak dugo niy sugeruje ôn<br/>
+    dŏwaniŏ bez licyncjodŏwcy sparciŏ dlŏ Ciebie abo Twojigo knifu wyużyciŏ dzieła.</p>
 
     <div class="philobutton">
         <a href="https://creativecommons.org/licenses/by/4.0/" title="Coby przewiedzieć sie wiyncyj, przeczytej Creative Commons Uzdanie autorstwa 4.0">
@@ -106,8 +109,8 @@ $LANG = array(
     <h2>Wysokij jakości szpas dlŏ wszyjskich i wszyndy</h2>
 
     <p>Pepper&amp;Carrot je uciesznym kōmiksym, przipasowanym do kŏżdego czytŏcza.<br/>
-    Niy ma w nim treści dlŏ majoryntnych ani gwołtōw. Pepper&amp;Carrot je blank ôdewrzōny, ale je tyż dumnym przikłŏdym, jak szumne mogōm być darme rzeczy.<br/>
-    Skupiōm sie na zwielgij jakości, pōniywŏż darme niy musi ôznŏczać złe abo amatorske. Blank ôpacznie.</p>
+    Niy ma w nim treści dlŏ majoryntnych ani gwołtōw. Pepper&amp;Carrot je blank ôdewrzōny, ale je tyż dumnym przikłŏdym,<br/>
+    jak szumne mogōm być darme rzeczy. Skupiōm sie na zwielgij jakości, pōniywŏż darme niy musi ôznŏczać złe abo amatorske. Blank ôpacznie.</p>
 
         <img alt="" src="data/images/static/2015-02-09_philosophy_05-everyone.jpg">
 
