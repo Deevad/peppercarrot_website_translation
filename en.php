@@ -115,7 +115,8 @@ $LANG = array(
 
     <p>Without intermediary between artist and audience you pay less and I benefit more. You support me directly.<br/>
     No publisher/distributor/marketing/fashion can force me to change Pepper&amp;Carrot to fit their vision of &#39;the market&#39;.<br/>
-    &nbsp;.&nbsp;.&nbsp;.&nbsp;Why not a single success couldn&#39;t &#39;snowball&#39; a whole industry in crisis? We&#39;ll see...</p>
+    &nbsp;.&nbsp;.&nbsp;.&nbsp;Why can&#39;t a single success &#39;snowball&#39; to a whole industry in crisis? We&#39;ll see...</p>
+    
 
         <img alt="illustration: comic book industry VS patreon support" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
 
