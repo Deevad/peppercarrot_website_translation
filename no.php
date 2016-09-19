@@ -59,7 +59,7 @@ $LANG = array(
 # Page: Blog
 # when content are not English (no need to warn user the content is english only here):
 #'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Content available in english only ',
-'LIMITATIONS' 		=> '<i class="fa fa-info-circle"></i> innhold er kun tilhjengelig p&aring; engelsk ',
+'LIMITATIONS' 		=> '<i class="fa fa-info-circle"></i> innhold er kun tilgjengelig p&aring; engelsk ',
 
 ################################################################################
 # Page: Philosophy
@@ -83,7 +83,7 @@ $LANG = array(
 
     <h2>100% gratis, for alltid, ingen betalingsmur</h2>
 
-    <p>Alt epper&amp;gulrot materiale jeg produserer er tilgjengelig p&aring; denne nettsiden fritt og tilgjengelig for alle.<br/>
+    <p>Alt Pepper&amp;gulrot materiale jeg produserer er tilgjengelig p&aring; denne nettsiden fritt og tilgjengelig for alle.<br/>
 	Jeg har like mye respekt for dere alle enten dere bidrar eller ikke. Alt ekstramateriale jeg lager for mine sponsorer blir ogs&aring; gjort tilgjengelig her.<br/>
     Pepper&amp;Gulrot kommer aldri til å be deg om hverken penger eller noen form for abonnement for &aring; f&aring; tilgang til nytt innhold.</p>
 
@@ -147,14 +147,14 @@ $LANG = array(
     <h2>Donasjoner fra f&oslash;lgere</h2>
 
     <p>P&aring; <a href="?static2/philosophy" title="open the Sources page">Filosofi-siden</a> kan du lese i detaljer det meste som ang&aring;r finansiering av serien.<br/>
-	Det er en smal sak &aring; bli en Pepper&amp;Gulrot-sponsor og det for bare 1$ per nye episode. G&aring; til<a href="https://www.patreon.com/davidrevoy">Patreon</a>.<br/>
+	Det er en smal sak &aring; bli en Pepper&amp;Gulrot-sponsor og det for bare 1$ per nye episode. G&aring; til <a href="https://www.patreon.com/davidrevoy">Patreon</a>.<br/>
 	Patreon godtar kredittkort fra hele verden s&aring; vel som betaling via Paypal.<br/>
 	Jeg tar ogs&aring; imot donasjoner direkte via Paypal eller Flattr:</p>
 
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Fan-art</h2>
-    <p>Pepper&amp;Gulrot setter stor pris p&aring; fan-art som: tegninger, scenarier, skulpturer, 3D modeller, fan-fiction. Send dem til meg (<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a>, eller poke meg p&aring; sosiale nettverk) for &aring; bli med i fan-art galleriet:</p>
+    <p>Pepper&amp;Gulrot setter stor pris p&aring; fan-art som for eksempel: tegninger, scenarier, skulpturer, 3D modeller, fan-fiction. Send dem til meg (<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a>, eller ta kontakt p&aring; sosiale nettverk) for &aring; bli med i fan-art galleriet:</p>
 ',
 'CONTRIBUTE_DERIVATIONS' => '
     <h2>Avarter:</h2>
@@ -177,7 +177,7 @@ $LANG = array(
     <h2>Andre m&aring;ter &aring; bidra p&aring;&nbsp;.&nbsp;.&nbsp;.&nbsp;</h2>
 
     <p>Alle kan bidra p&aring; ulike m&aring;ter:<br/>
-        <b>Utvikler:</b> Lag en mobilapp sS&aring; en kan lese Pepper&amp;Gulrot p&aring; mobil eller nettbrett.<br/>
+        <b>Utvikler:</b> Lag en mobilapp s&aring; en kan lese Pepper&amp;Gulrot p&aring; mobil eller nettbrett.<br/>
         <b>Musiker:</b> Lage musikkstykker til Pepper&amp;Gulrot.<br/>
         <b>Forfatter:</b> Foresl&aring; nye Pepper&amp;Gulrot historier.<br/>
         <b>Journalist:</b> Informere tradisjonelle medier om Pepper&amp;Gulrot (aviser, tv, etc.)<br/>
