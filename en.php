@@ -3,7 +3,7 @@
 $LANG = array(
 
 # Global
-'TRANSLATED_BY' 		    => 'translation credit: <a href="https://www.davidrevoy.com">David Revoy</a>',
+'TRANSLATED_BY' 		    => 'Translation credit: <a href="https://www.davidrevoy.com">David Revoy</a>',
 'LANGUAGE_NAME' 			=> 'English',
 'LANGUAGE_ISO_CODE_2_LETTER'=> 'en',
 # http://www.w3schools.com/tags/ref_language_codes.asp --> full list
@@ -50,7 +50,7 @@ $LANG = array(
 'WEBCOMIC_EPISODE'		    =>  'Webcomic episodes',
 'WEBCOMIC_MAKINGOF'		    =>  'Making-of',
 'WEBCOMIC_MAKINGOF_DESCRIPTION' =>  '
-    <p> Making-of and <a href="http://www.davidrevoy.com/categorie5/tutorials">art tutorials</a>  are special bonuses sponsored by my <a href="https://www.patreon.com/davidrevoy">Patreons &#39;heroes&#39;</a></p>
+    <p> Making-of and <a href="http://www.davidrevoy.com/categorie5/tutorials">art tutorials</a> are special bonuses sponsored by my <a href="https://www.patreon.com/davidrevoy">Patreons &#39;heroes&#39;</a></p>
 ',
 'WEBCOMIC_ARTWORK'		    =>  'Artwork gallery',
 'WEBCOMIC_SKETCHES'		    =>  'Sketches',
@@ -72,7 +72,7 @@ $LANG = array(
 
     <div class="philobutton">
         <a href="https://www.patreon.com/davidrevoy" title="For only $1 per new episode, become a patreon of Pepper&amp;Carrot">
-            For only $1 per new episode, become a patron today on Patreon
+            For only $1 per new episode, become a patron today on Patreon.
         </a>
     </div>
 
@@ -86,7 +86,7 @@ $LANG = array(
     I respect all of you equally: with or without money. All special bonuses I make for my patrons are also posted here.<br/>
     Pepper&amp;Carrot will never ask you to pay anything or to get a subscription to get access to new content.</p>
 
-        <img alt="illustration representing paywall" src="data/images/static/2015-02-09_philosophy_03-paywall.jpg">
+        <img alt="Illustration representing paywall" src="data/images/static/2015-02-09_philosophy_03-paywall.jpg">
 
     <h2>Open-source and permissive</h2>
 
@@ -101,13 +101,13 @@ $LANG = array(
         </a>
     </div>
 
-        <img alt="illustration representing open-source media" src="data/images/static/2015-02-09_philosophy_04-open-source.jpg">
+        <img alt="Illustration representing open-source media" src="data/images/static/2015-02-09_philosophy_04-open-source.jpg">
 
     <h2>Quality entertainment for everyone, everywhere</h2>
 
     <p>Pepper&amp;Carrot is a comedy/humor webcomic suited for everyone, every age.<br/>
     No mature content, no violence. Free and open-source, Pepper&amp;Carrot is a proud example of how cool free-culture could be.<br/>
-    I&#39;m focusing a lot on quality, because free and open-source doesn&#39;t mean bad or amateur. Au contraire.</p>
+    I&#39;m focusing a lot on quality, because free and open-source doesn&#39;t mean bad or amateur. Quite the contrary.</p>
 
         <img alt="" src="data/images/static/2015-02-09_philosophy_05-everyone.jpg">
 
@@ -118,11 +118,11 @@ $LANG = array(
     &nbsp;.&nbsp;.&nbsp;.&nbsp;Why can&#39;t a single success &#39;snowball&#39; to a whole industry in crisis? We&#39;ll see...</p>
     
 
-        <img alt="illustration: comic book industry VS patreon support" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
+        <img alt="Illustration: comic book industry VS patreon support" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
 
     <div class="philobutton">
         <a class="h4" href="https://www.patreon.com/davidrevoy" title="For only $1 per new episode, become a patreon of Pepper&amp;Carrot">
-            help me boost Pepper&amp;Carrot production today
+            help me boost Pepper&amp;Carrot production today.
         </a>
     </div>
 
@@ -156,7 +156,7 @@ $LANG = array(
 ',
 
 'CONTRIBUTE_BOTTOM'	    => '
-    <h2>Translations and corrections:</h2>
+    <h2>Translations and corrections</h2>
 
     <p>Pepper&amp;Carrot website is designed to be multilingual and accept any language (including extinct ones, or fictive ones). The sources of this page are at your disposal for you to translate them. Check the <a href="index.php?fr/article267/translation-tutorial">reference tutorial</a> for more information on how to add your translation.</p>
 
@@ -167,9 +167,9 @@ $LANG = array(
     <h2>Other contributions ideas&nbsp;.&nbsp;.&nbsp;.&nbsp;</h2>
 
     <p>Everyone can contribute in different ways:<br/>
-        <b>Developers:</b> create of an application to read Pepper&amp;Carrot on mobile device.<br/>
-        <b>Musician:</b> create music themes for Pepper&amp;Carrot.<br/>
-        <b>Writer:</b> propose new Pepper&amp;Carrot scenario.<br/>
+        <b>Developers:</b> Create of an application to read Pepper&amp;Carrot on mobile device.<br/>
+        <b>Musician:</b> Create music themes for Pepper&amp;Carrot.<br/>
+        <b>Writer:</b> Propose new Pepper&amp;Carrot scenario.<br/>
         <b>Journalist:</b> Inform about Pepper&amp;Carrot in traditionnal media (printed press, tv, etc.)<br/>
         <b>Printer:</b> Print posters or goodies with Pepper&amp;Carrot on it.<br/>
     </p>
@@ -192,7 +192,7 @@ $LANG = array(
     <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution license</a>.
     Check the README files in each project for more infos.</p>
 
-    <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Code repositories for translations, script, website, graphism,etc.:</b><br/></p>
+    <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i>Code repositories for translations, script, website, graphism, etc.:</b><br/></p>
 ',
 'SOURCE_COVER'   =>  'Covers images',
 'SOURCE_KRITA'   =>  'Krita sources files',
@@ -209,24 +209,24 @@ $LANG = array(
     <br/>
     After more than 10 years of Freelance in digital-painting, teaching, concept-art, illustration, art-direction, I decided to start my own project. I finally found a way to mix all my passions together; and the result is Pepper&amp;Carrot.</p>
 
-    <p>my portfolio:</p>
+    <p>My portfolio:</p>
 ',
 'AUTHOR_TODO_DREAM'	=> '
     <h3>Dream TO-DO list:</h3>
 
     <p>
-    ☐ Give a talk in a Japanese comic convention about Pepper&amp;Carrot<br/>
-    ☐ Play with a gamepad to a Pepper&amp;Carrot video-game<br/>
-    ☐ Get a gallery of 100 fan-arts<br/>
-    ☑ <a href="http://www.peppercarrot.com/en/article376/dream-to-do-list-a-wikipedia-page">Get a Wikipedia page</a><br/>
-    ☐ Receive a photo of a Pepper cosplay<br/>
-    ☑ <a href="http://www.peppercarrot.com/article304/dream-to-do-list-a-cat-named-carrot">Receive a photo of a red cat named Carrot</a><br/>
-    ☑ <a href="http://www.peppercarrot.com/article302/peppercarrot-has-over-500-supporters">be supported by 500 patreons</a><br/>
-    ☐ Reach episode 100<br/>
+    ☐ Give a talk in a Japanese comic convention about Pepper&amp;Carrot.<br/>
+    ☐ Play with a gamepad to a Pepper&amp;Carrot video-game.<br/>
+    ☐ Get a gallery of 100 fan-arts.<br/>
+    ☑ <a href="http://www.peppercarrot.com/en/article376/dream-to-do-list-a-wikipedia-page">Get a Wikipedia page.</a><br/>
+    ☐ Receive a photo of a Pepper cosplay.<br/>
+    ☑ <a href="http://www.peppercarrot.com/article304/dream-to-do-list-a-cat-named-carrot">Receive a photo of a red cat named Carrot.</a><br/>
+    ☑ <a href="http://www.peppercarrot.com/article302/peppercarrot-has-over-500-supporters">Be supported by 500 patreons.</a><br/>
+    ☐ Reach episode 100!<br/>
     </p>
 ',
 
-'AUTHOR_CARREER_TITLE'				 => 'my carreer in 7 bubbles:',
+'AUTHOR_CARREER_TITLE'				 => 'My carreer in 7 bubbles:',
 'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS' => '<p></p>',
 
 ################################################################################

@@ -194,7 +194,7 @@ $LANG = array(
     Consultez le fichier README<br/>
     de chaque projet pour plus d\'infos.</p>
   
-    <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Dépôt de codes pour traductions, graphisme, site, script :</b><br/></p>
+    <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i>Dépôts de codes pour traductions, graphisme, site, script :</b><br/></p>
 ',
 'SOURCE_COVER'   =>  'Couvertures',
 'SOURCE_KRITA'   =>  'Fichiers Krita sources',
