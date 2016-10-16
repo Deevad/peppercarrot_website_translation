@@ -167,7 +167,7 @@ $LANG = array(
     <h2>Other contributions ideas&nbsp;.&nbsp;.&nbsp;.&nbsp;</h2>
 
     <p>Everyone can contribute in different ways:<br/>
-        <b>Developers:</b> Create of an application to read Pepper&amp;Carrot on mobile device.<br/>
+        <b>Developers:</b> Create an application to read Pepper&amp;Carrot on mobile device.<br/>
         <b>Musician:</b> Create music themes for Pepper&amp;Carrot.<br/>
         <b>Writer:</b> Propose new Pepper&amp;Carrot scenario.<br/>
         <b>Journalist:</b> Inform about Pepper&amp;Carrot in traditionnal media (printed press, tv, etc.)<br/>
