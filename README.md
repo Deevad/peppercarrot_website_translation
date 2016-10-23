@@ -12,9 +12,11 @@ License
 
 ## Translators and correctors:
 
-* French: David Revoy
+* Czech: Kateřina Fleknová
 
 * English: David Revoy
+
+* French: David Revoy
 
 * Polish: Sölve Svartskogen
 
