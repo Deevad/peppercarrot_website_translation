@@ -93,7 +93,7 @@ $LANG = array(
     <p>Ich m&ouml;chte den Leuten das Recht geben, das, was ich produziert habe, zu verwenden, zu erweitern und sogar Geld damit zu verdienen.<br/>    
     Alle Seiten, Kunstwerke und Inhalte wurden mit freier, quelloffener Software unter GNU/Linux <br/>
     erstellt und alle Quellen sind auf dieser Webseite im &#39;Quellen&#39; Men&uuml; zu finden.<br/>
-    Komerzielle Verwendung, &Uuml;bersetzungen, Fan-Art, Drucke, Filme, Videospiele, Verteilen und Verbreiten sind erw&uuml;nscht.<br/>
+    Kommerzielle Verwendung, &Uuml;bersetzungen, Fan-Art, Drucke, Filme, Videospiele, Verteilen und Verbreiten sind erw&uuml;nscht.<br/>
     Ihr m&uuml;sst nur meinen Namen - David Revoy - als Autor kenntlich machen.</p>
     
     <div class="philobutton">
