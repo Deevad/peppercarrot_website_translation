@@ -221,7 +221,7 @@ $LANG = array(
     ☐ Jouer avec une manette de jeu à un jeu vidéo dérivé de Pepper&amp;Carrot.<br/>
     ☐ Avoir 100 fan-arts dans la galerie du site.<br/>
     ☑ <a href="http://www.peppercarrot.com/en/article376/dream-to-do-list-a-wikipedia-page">Avoir une page sur Wikipedia.</a><br/>
-    ☐ Recevoir une photo d\'un cosplay de Pepper.<br/>
+    ☑ <a href="http://www.peppercarrot.com/article387/cosplay-by-maria-and-ekaterina">Recevoir une photo d\'un cosplay de Pepper.</a><br/>
     ☑ <a href="http://www.peppercarrot.com/article304/dream-to-do-list-a-cat-named-carrot">Recevoir une photo d\'un chat roux nommé Carrot en hommage à Carrot.</a><br/>
     ☑ <a href="http://www.peppercarrot.com/article302/peppercarrot-has-over-500-supporters">Être soutenu par 500 mécènes via Patreon.</a><br/>
     ☐ Atteindre l\'épisode 100 !<br/>

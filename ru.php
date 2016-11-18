@@ -217,7 +217,7 @@ $LANG = array(
     ☐ Поиграть на геймпаде в видеоигру Pepper&amp;Carrot<br/>
     ☐ Собрать галерею из 100 фан-артов<br/>
     ☑ <a href="http://www.peppercarrot.com/en/article376/dream-to-do-list-a-wikipedia-page">Иметь свою страницу на Википедии</a><br/>
-    ☐ Получить фото косплея Перчинки<br/>
+    ☑ <a href="http://www.peppercarrot.com/article387/cosplay-by-maria-and-ekaterina">Получить фото косплея Перчинки</a><br/>
     ☑ <a href="http://www.peppercarrot.com/article304/dream-to-do-list-a-cat-named-carrot">Получить фото рыжего кота по имени Морквик</a><br/>
     ☑ <a href="http://www.peppercarrot.com/article302/peppercarrot-has-over-500-supporters">Получить поддержку 500 добровольцев с Patreon</a><br/>
     ☐ Выпустить 100 эпизодов<br/>
