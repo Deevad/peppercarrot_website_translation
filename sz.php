@@ -221,7 +221,7 @@ $LANG = array(
     ☐ Poszpilać na padzie we szpil ô Pepper&amp;Carrot<br/>
     ☐ Mieć galeryjõ ze 100 fanartami<br/>
     ☑ <a href="http://www.peppercarrot.com/en/article376/dream-to-do-list-a-wikipedia-page">Mieć strōnã na Wikipedyji</a><br/>
-    ☐ Dostać fotografijõ cosplayu Pepper<br/>
+    ☑ <a href="http://www.peppercarrot.com/article387/cosplay-by-maria-and-ekaterina">Dostać fotografijõ cosplayu Pepper</a><br/>
     ☑ <a href="http://www.peppercarrot.com/article304/dream-to-do-list-a-cat-named-carrot">Dostać fotografijõ ryżygo kota mianowanego Carrot</a><br/>
     ☑ <a href="http://www.peppercarrot.com/article302/peppercarrot-has-over-500-supporters">Dostać sparcie ôd 500 patrōnōw</a><br/>
     ☐ Wydać 100 tajlōw<br/>

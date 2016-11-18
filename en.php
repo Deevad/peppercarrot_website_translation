@@ -219,7 +219,7 @@ $LANG = array(
     ☐ Play with a gamepad to a Pepper&amp;Carrot video-game.<br/>
     ☐ Get a gallery of 100 fan-arts.<br/>
     ☑ <a href="http://www.peppercarrot.com/en/article376/dream-to-do-list-a-wikipedia-page">Get a Wikipedia page.</a><br/>
-    ☐ Receive a photo of a Pepper cosplay.<br/>
+    ☑ <a href="http://www.peppercarrot.com/article387/cosplay-by-maria-and-ekaterina">Receive a photo of a Pepper cosplay.</a><br/>
     ☑ <a href="http://www.peppercarrot.com/article304/dream-to-do-list-a-cat-named-carrot">Receive a photo of a red cat named Carrot.</a><br/>
     ☑ <a href="http://www.peppercarrot.com/article302/peppercarrot-has-over-500-supporters">Be supported by 500 patreons.</a><br/>
     ☐ Reach episode 100!<br/>

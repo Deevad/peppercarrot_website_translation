@@ -217,7 +217,7 @@ $LANG = array(
     ☐ C\'hoari d\'ur c\'hoari video Pepper&amp;Carrot gant un dornell<br/>
     ☐ Kaout ur skeudennaoueg a 100 fan-art<br/>
     ☑ <a href="http://www.peppercarrot.com/en/article376/dream-to-do-list-a-wikipedia-page">Kaout ur bajenn Wikipedia</a><br/>
-    ☐ Resevout ur skeudenn eus ur c\'h/cosplay eus Pepper<br/>
+    ☑ <a href="http://www.peppercarrot.com/article387/cosplay-by-maria-and-ekaterina">Resevout ur skeudenn eus ur c\'h/cosplay eus Pepper</a><br/>
     ☑ <a href="http://www.peppercarrot.com/article304/dream-to-do-list-a-cat-named-carrot">Resevout ur skeudenn eus ur c\'hazh rouz anvet Carrot</a><br/>
     ☑ <a href="http://www.peppercarrot.com/article302/peppercarrot-has-over-500-supporters">beza&ntilde; harpet gant 500 paeron</a><br/>
     ☐ Tizhout ar c\'hantvet rann<br/>
