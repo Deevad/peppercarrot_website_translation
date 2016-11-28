@@ -58,8 +58,8 @@ $LANG = array(
 ################################################################################
 # Page: Blog
 # when content are not English (no need to warn user the content is english only here):
-#'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Content available in english only ',
-'LIMITATIONS' 		=> '<i class="fa fa-info-circle"></i> Treść dostympnŏ jyno we angelskij gŏdce',
+#'LIMITATIONS' 	=> ' Content available in english only ',
+'LIMITATIONS' 		=> ' Treść dostympnŏ jyno we angelskij gŏdce',
 
 ################################################################################
 # Page: Philosophy
@@ -194,7 +194,7 @@ $LANG = array(
     <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Uzdōnie autorstwa</a>.
     Wejzdrzij do zbiorōw README, coby przewiedzieć sie wiyncyj.</p>
 
-    <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Repozytoria przekłŏdōw, skryptōw, placu necowego, grafik atd.:</b><br/></p>
+    <p><b> Repozytoria przekłŏdōw, skryptōw, placu necowego, grafik atd.:</b><br/></p>
 ',
 'SOURCE_COVER'   =>  'Ôbkłŏdki',
 'SOURCE_KRITA'   =>  'Źrōdłowe zbiory dlŏ Krity',

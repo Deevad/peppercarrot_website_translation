@@ -58,7 +58,7 @@ $LANG = array(
 ################################################################################
 # Page : Blog
 # An empty one in English (no need to warn user the content is english only here) :
-'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Contenu disponible en anglais uniquement',
+'LIMITATIONS' 	=> ' Contenu disponible en anglais uniquement',
 
 ################################################################################
 # Page : Philosophy
@@ -194,7 +194,7 @@ $LANG = array(
     Consultez le fichier README<br/>
     de chaque projet pour plus d\'infos.</p>
   
-    <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i>Dépôts de codes pour traductions, graphisme, site, script :</b><br/></p>
+    <p><b>Dépôts de codes pour traductions, graphisme, site, script :</b><br/></p>
 ',
 'SOURCE_COVER'   =>  'Couvertures',
 'SOURCE_KRITA'   =>  'Fichiers Krita sources',

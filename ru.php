@@ -58,8 +58,8 @@ $LANG = array(
 ################################################################################
 # Page: Blog
 # when content are not English (no need to warn user the content is english only here):
-#'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Content available in english only ',
-'LIMITATIONS' 		=> '<i class="fa fa-info-circle"></i>  Содержимое доступно только на английском языке',
+#'LIMITATIONS' 	=> ' Content available in english only ',
+'LIMITATIONS' 		=> '  Содержимое доступно только на английском языке',
 
 ################################################################################
 # Page: Philosophy
@@ -190,7 +190,7 @@ $LANG = array(
     <a href="http://creativecommons.org/licenses/by/4.0/">лицензии Creative Commons Attribution</a>.
     Ознакомьтесь с файлами README каждого проекта для получения большей информации.</p>
   
-    <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Репозиторий кода для переводов, текстов, сайта, графики и пр.:</b><br/></p>
+    <p><b> Репозиторий кода для переводов, текстов, сайта, графики и пр.:</b><br/></p>
 ',
 'SOURCE_COVER'   =>  'Обложки',
 'SOURCE_KRITA'   =>  'Исходники рисунков для Krita',

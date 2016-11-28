@@ -49,7 +49,7 @@ $LANG = array(
 'WEBCOMIC_EPISODE'		    =>  'Episódios da HQ',
 'WEBCOMIC_MAKINGOF'		    =>  'Por trás das cenas',
 'WEBCOMIC_MAKINGOF_DESCRIPTION' =>  '
-    <p> A seção <i>Por trás das cenas</i> e os <a href="http://www.davidrevoy.com/categorie5/tutorials"> tutoriais de arte</a>  são um bônus especial graças ao apoio dos meus <a href="https://www.patreon.com/davidrevoy">&#39;heróicos&#39 Patronos;</a></p>
+    <p> A seção  e os <a href="http://www.davidrevoy.com/categorie5/tutorials"> tutoriais de arte</a>  são um bônus especial graças ao apoio dos meus <a href="https://www.patreon.com/davidrevoy">&#39;heróicos&#39 Patronos;</a></p>
 ',
 'WEBCOMIC_ARTWORK'		    =>  'Galeria',
 'WEBCOMIC_SKETCHES'		    =>  'Rascunhos',
@@ -57,7 +57,7 @@ $LANG = array(
 ################################################################################
 # Page : Blog
 # when content are not English ( no need to warn user the content is english only here ) :
-'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Conteúdo disponível apenas em inglês',
+'LIMITATIONS' 	=> ' Conteúdo disponível apenas em inglês',
 
 
 ################################################################################
@@ -188,7 +188,7 @@ $LANG = array(
     <a href="https://creativecommons.org/licenses/by/4.0/deed.pt_BR">Licença de Atribuição Creative Commons</a>.
     Leia o README de cada projeto para mais informações.</p>
   
-    <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Código para traduções, scripts, website, grafismos...etc... :</b><br/></p>
+    <p><b> Código para traduções, scripts, website, grafismos...etc... :</b><br/></p>
 ',
 'SOURCE_COVER'   =>  'Imagens da capa',
 'SOURCE_KRITA'   =>  'Arquivo fonte compatíveis com o Krita',

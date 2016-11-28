@@ -58,8 +58,8 @@ $LANG = array(
 ################################################################################
 # Page: Blog
 # when content are not English (no need to warn user the content is english only here):
-#'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Content available in english only ',
-'LIMITATIONS' 		=> '<i class="fa fa-info-circle"></i> Kinniget e vez an endalc\'had-ma&ntilde; e Saozneg nemetken',
+#'LIMITATIONS' 	=> ' Content available in english only ',
+'LIMITATIONS' 		=> ' Kinniget e vez an endalc\'had-ma&ntilde; e Saozneg nemetken',
 
 ################################################################################
 # Page: Philosophy
@@ -190,7 +190,7 @@ $LANG = array(
     <a href="http://creativecommons.org/licenses/by/4.0/">la&ntilde;vaz Creative Commons Attribution</a>.
     Lennit ar restro&ugrave; README e pep raktres evit kaout muioc\'h a ditouro&ugrave;.</p>
 
-    <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Mirlec\'h evit an troidigezhio&ugrave;, ar skript, al lec\'hienn, ar graferezh, hag all :</b><br/></p>
+    <p><b> Mirlec\'h evit an troidigezhio&ugrave;, ar skript, al lec\'hienn, ar graferezh, hag all :</b><br/></p>
 ',
 'SOURCE_COVER'   =>  'Skeudenno&ugrave; golo',
 'SOURCE_KRITA'   =>  'Restro&ugrave; mammenn Krita',

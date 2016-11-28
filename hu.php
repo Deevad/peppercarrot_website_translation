@@ -58,8 +58,8 @@ $LANG = array(
 ################################################################################
 # Page: Blog
 # when content are not English (no need to warn user the content is english only here):
-#'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Content available in english only ',
-'LIMITATIONS' 		=> '<i class="fa fa-info-circle"></i> A blog tartalma csak angol nyelven érhető el ',
+#'LIMITATIONS' 	=> ' Content available in english only ',
+'LIMITATIONS' 		=> ' A blog tartalma csak angol nyelven érhető el ',
 
 ################################################################################
 # Page: Philosophy
@@ -192,7 +192,7 @@ $LANG = array(
     <a href="https://creativecommons.org/licenses/by/4.0/deed.hu">Creative Commons Nevezd meg! licencét</a>.
     További infóért nézd meg a README fájlt az egyes projektekben.</p>
   
-    <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Forráskód repók a fordításhoz, scriptekhez, weboldalhoz, grafikákhoz stb.:</b><br/></p>
+    <p><b> Forráskód repók a fordításhoz, scriptekhez, weboldalhoz, grafikákhoz stb.:</b><br/></p>
 ',
 'SOURCE_COVER'   =>  'Borítóképek',
 'SOURCE_KRITA'   =>  'Krita forrásfájlok',

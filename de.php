@@ -58,8 +58,8 @@ $LANG = array(
 ################################################################################
 # Page : Blog
 # when content are not English ( no need to warn user the content is english only here ) :
-#'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Content available in english only ',
-'LIMITATIONS' 		=> '<i class="fa fa-info-circle"></i> Inhalt nur in Englisch verfügbar',
+#'LIMITATIONS' 	=> ' Content available in english only ',
+'LIMITATIONS' 		=> ' Inhalt nur in Englisch verfügbar',
 
 ################################################################################
 # Page : Philosophy
@@ -193,7 +193,7 @@ $LANG = array(
     <a href="https://creativecommons.org/licenses/by/4.0/deed.de">Creative Commons Namensnennung Lizenz</a>.
     Schaut euch die README in den Projekten an, um mehr zu erfahren.</p>
   
-    <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Code Repositories f&uumlr &Uuml;bersetzungen, Scripte, Webseite, Grafik, etc...:</b><br/></p>
+    <p><b> Code Repositories f&uumlr &Uuml;bersetzungen, Scripte, Webseite, Grafik, etc...:</b><br/></p>
 ',
 'SOURCE_COVER'   =>  'Titelbilder',
 'SOURCE_KRITA'   =>  'Krita Quelldateien',

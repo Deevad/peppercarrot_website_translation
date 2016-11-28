@@ -58,8 +58,8 @@ $LANG = array(
 ################################################################################
 # Page : Blog
 # when content are not English ( no need to warn user the content is english only here ) :
-#'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Content available in english only ',
-'LIMITATIONS' 		=> '<i class="fa fa-info-circle"></i>このセクションのコンテンツは英語のみです',
+#'LIMITATIONS' 	=> ' Content available in english only ',
+'LIMITATIONS' 		=> 'このセクションのコンテンツは英語のみです',
 
 ################################################################################
 # Page : Philosophy
@@ -190,7 +190,7 @@ $LANG = array(
     <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution license</a>
     各プロジェクトの詳細は、READMEを参照してください。</p>
   
-    <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> 翻訳、スクリプト、ウェブサイト、グラフィックなどのコードリポジトリ:</b><br/></p>
+    <p><b> 翻訳、スクリプト、ウェブサイト、グラフィックなどのコードリポジトリ:</b><br/></p>
 ',
 'SOURCE_COVER'   =>  'カバーイメージ',
 'SOURCE_KRITA'   =>  'Kritaソースファイル',

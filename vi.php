@@ -58,7 +58,7 @@ $LANG = array(
 ################################################################################
 # Page: Blog
 # when content are not English (no need to warn user the content is english only here):
-#'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Content available in english only ',
+#'LIMITATIONS' 	=> ' Content available in english only ',
 'LIMITATIONS' 		=> 'Trang này chỉ hiển thị tiếng Anh.',
 
 ################################################################################
@@ -191,7 +191,7 @@ $LANG = array(
     <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution license</a>.
     Kiểm tra README file trong mỗi dự án để biết thêm thông tin.</p>
   
-    <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Mã kho cho bản dịch, kịch bản, trang web, hình ảnh, vv.:</b><br/></p>
+    <p><b> Mã kho cho bản dịch, kịch bản, trang web, hình ảnh, vv.:</b><br/></p>
 ',
 'SOURCE_COVER'   =>  'Ảnh bìa',
 'SOURCE_KRITA'   =>  'file Krita gốc',

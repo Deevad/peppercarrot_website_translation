@@ -58,15 +58,15 @@ $LANG = array(
 ################################################################################
 # Page: Blog
 # when content are not English (no need to warn user the content is english only here):
-#'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Content available in english only ',
-'LIMITATIONS' 		=> '<i class="fa fa-info-circle"></i> Konten hanya tersedia dalam bahasa Inggris ',
+#'LIMITATIONS' 	=> ' Content available in english only ',
+'LIMITATIONS' 		=> ' Konten hanya tersedia dalam bahasa Inggris ',
 
 ################################################################################
 # Page: Philosophy
 'PHILOSOPHY_CONTENT'    =>  '
  <h2>Didukung oleh sukarelawan!</h2>
     
-    <p>Pepper&amp;Carrot mendapatkan dana dari para sukarelawan (<i>patrons</i>), yang berasal dari seluruh dunia.<br/>
+    <p>Pepper&amp;Carrot mendapatkan dana dari para sukarelawan (), yang berasal dari seluruh dunia.<br/>
     Setiap sukarelawan dapat berdonasi untuk setiap episode baru yang akan dibuat dan nama mereka akan dicantumkan pada akhir halaman komik.<br/>
     Pepper&amp;Carrot tidak menggunakan iklan maupun media yang serupa untuk tetap hidup.</p>
     
@@ -191,7 +191,7 @@ $LANG = array(
     <a href="http://creativecommons.org/licenses/by/4.0/">lisensi atribusi Creative Commons</a>.
     Kunjungi README dari setiap proyek untuk info selengkapnya.</p>
   
-    <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Gudang kode untuk terjemahan, skrip, situs, gambar, dan yang lainnya:</b><br/></p>
+    <p><b> Gudang kode untuk terjemahan, skrip, situs, gambar, dan yang lainnya:</b><br/></p>
 ',
 'SOURCE_COVER'   =>  'Halaman sampul',
 'SOURCE_KRITA'   =>  'Sumber gambar Krita',

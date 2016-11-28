@@ -58,8 +58,8 @@ $LANG = array(
 ################################################################################
 # Page : Blog
 # when content are not English ( no need to warn user the content is english only here ) :
-#'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Content available in english only ',
-'LIMITATIONS' 		=> '<i class="fa fa-info-circle"></i> Dit is alleen beschikbaar in het Engels',
+#'LIMITATIONS' 	=> ' Content available in english only ',
+'LIMITATIONS' 		=> ' Dit is alleen beschikbaar in het Engels',
 
 ################################################################################
 # Page : Philosophy
@@ -192,7 +192,7 @@ $LANG = array(
     <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Naamsvermelding-licentie</a> te respecteren.
     Bekijk de README-bestanden in ieder project voor meer informatie.</p>
   
-    <p><b><i class="fa fa-github" style="font-size:1.5em;" ></i> Code-repository\'s voor vertalingen, scripts, de website, tekeningen, enzovoorts:</b><br/></p>
+    <p><b> Code-repository\'s voor vertalingen, scripts, de website, tekeningen, enzovoorts:</b><br/></p>
 ',
 'SOURCE_COVER'   =>  'Cover-afbeeldingen',
 'SOURCE_KRITA'   =>  'Krita-bronbestanden',
