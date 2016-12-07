@@ -5,7 +5,7 @@ $LANG = array(
 # Global
 'TRANSLATED_BY' 		=> '翻译:庄冉',
 'LANGUAGE_NAME' 			=> '简体中文',
-'LANGUAGE_ISO_CODE_2_LETTER'=> 'zh',
+'LANGUAGE_ISO_CODE_2_LETTER'=> 'cn',
 # http://www.w3schools.com/tags/ref_language_codes.asp --> full list
 
 ################################################################################
