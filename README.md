@@ -11,6 +11,7 @@ License
 [GNU GPL V3](http://www.gnu.org/copyleft/gpl.html)
 
 ## Translators and correctors:
+* Chinese: Ran Zhuang
 
 * Czech: Kateřina Fleknová
 
