@@ -82,7 +82,7 @@ $LANG = array(
 
     <h2>100% senpaga, por ĉiam, neniuj &apos;pag-muroj&apos;</h2>
 
-    <p>Ĉiu enhavo farata de mi pri Pipro kaj Karoĉjo estas per tiu ĉi retejo senpaga kaj disponebla al ĉiuj.<br/>
+    <p>Ĉiu enhavo farita de mi pri Pipro kaj Karoĉjo estas senpage disponebla per tiu ĉi retejo al ĉiuj.<br/>
     Mi respektas vin ĉiujn egale: kaj senmonuloj kaj riĉuloj. Ĉiuj ekstraĵoj faritaj de mi por patronoj ankaŭ estas publikigitaj tie ĉi.<br/>
     Pipro kaj Karoĉjo neniam petos vin pri pagi pro ion aŭ postulos pagendan abonon por aliri novan enhavon.</p>
 
@@ -96,14 +96,14 @@ $LANG = array(
     Vi nur devas agnoski aŭtorecon al kreintoj (artistoj, korektintoj kaj tradukintoj kiuj kontribuis al artaĵo, kiun vi volas uzi), meti ligilon al la permesilo kaj indiki se io estas ŝanĝita. Vi povas fari tion en iu ajn aprobinda maniero, tamen ne sugestu, ke aŭtoroj aprobas vin aŭ vian uzadon.</p>
 
     <div class="philobutton">
-        <a href="https://creativecommons.org/licenses/by/4.0/deed.eo" title="Por pli da informoj, legu Creative Commons Atribuite 4.0">
+        <a href="https://creativecommons.org/licenses/by/4.0/deed.eo" title="por pli da informoj, legu Creative Commons Atribuite 4.0">
             Permesilo: Creative Commons Atribuite 4.0
         </a>
     </div>
 
         <img alt="ilustraĵo montranta malfermkodajn komunikilojn" src="data/images/static/2015-02-09_philosophy_04-open-source.jpg">
 
-    <h2>Kvalita amuzo por ĉiu, ĉie</h2>
+    <h2>Altkvalita amuzo por ĉiuj, ĉie</h2>
 
     <p>Pipro kaj Karoĉjo estas komedia/ŝerca retkomikso, kiu taŭgas al ĉiu, de ĉiu aĝo.<br/>
     Neniu enhavo por plenkreskuloj, sen brutaleco. Libera kaj malfermkoda, Pipro kaj Karoĉjo estas imitinda ekzemplo kiel ŝatindega la libera kulturo povas esti.<br/>
@@ -166,7 +166,7 @@ $LANG = array(
 
     <h2>Aliaj ideoj por kontribui&nbsp;.&nbsp;.&nbsp;.&nbsp;</h2>
 
-    <p>Ĉiu povas kontribui en diferenca maniero:<br/>
+    <p>Ĉiu povas kontribui en diversaj manieroj:<br/>
         <b>Programistoj:</b> kreu aplikaĵon por legi Pipron kaj Karoĉjon per poŝkomputiloj.<br/>
         <b>Muzikistoj:</b> kreu muzikajn temojn por Pipro kaj Karoĉjo.<br/>
         <b>Verkistoj:</b> proponu novan scenaron al Pipro kaj Karoĉjo.<br/>
@@ -192,7 +192,7 @@ $LANG = array(
     <a href="https://creativecommons.org/licenses/by/4.0/deed.eo">permesilo Creative Commons Atribuite</a>.
     Vidu la dosierojn &apos;README&apos; por pliaj informoj.</p>
 
-    <p><b>Font-deponejoj por tradukoj, scenararoj, retejo, grafikaĵoj, ktp:</b><br/></p>
+    <p><b>Font-deponejoj por tradukoj, scenaroj, retejo, grafikaĵoj, ktp:</b><br/></p>
 ',
 'SOURCE_COVER'   =>  'Kovriloj',
 'SOURCE_KRITA'   =>  'Krita-aj font-dosieroj',
@@ -216,13 +216,13 @@ $LANG = array(
 
     <p>
     ☐ Paroladi en japana bildrakonta kongreso pri Pipro kaj Karoĉjo.<br/>
-    ☐ Ludi per ludstirilo videoludon Pipro kaj KaroĉjoP.<br/>
-    ☐ Havigi galerion de 100 fanatikul-artaĵoj.<br/>
+    ☐ Ludi per ludstirilo videoludon Pipro kaj Karoĉjo.<br/>
+    ☐ Havigi galerion da 100 fanatikul-artaĵoj.<br/>
     ☑ <a href="http://www.peppercarrot.com/en/article376/dream-to-do-list-a-wikipedia-page">Posedi paĝon en Vikipedio.</a><br/>
     ☑ <a href="http://www.peppercarrot.com/article387/cosplay-by-maria-and-ekaterina">Ricevi bildon pri rolkostumado kiel Pipro.</a><br/>
     ☑ <a href="http://www.peppercarrot.com/article304/dream-to-do-list-a-cat-named-carrot">Ricevi bildon de ruĝa kato nomita Karoĉjo.</a><br/>
-    ☑ <a href="http://www.peppercarrot.com/article302/peppercarrot-has-over-500-supporters">Esti subtenata de 500 patrono.</a><br/>
-    ☐ Atingi rakontaĵon!<br/>
+    ☑ <a href="http://www.peppercarrot.com/article302/peppercarrot-has-over-500-supporters">Esti subtenata da 500 patronoj.</a><br/>
+    ☐ Atingi rakontaĵon 100!<br/>
     </p>
 ',
 
