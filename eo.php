@@ -169,7 +169,7 @@ $LANG = array(
     <p>Ĉiu povas kontribui en diversaj manieroj:<br/>
         <b>Programistoj:</b> kreu aplikaĵon por legi Pipron kaj Karoĉjon per poŝkomputiloj.<br/>
         <b>Muzikistoj:</b> kreu muzikajn temojn por Pipro kaj Karoĉjo.<br/>
-        <b>Verkistoj:</b> proponu novan scenaron al Pipro kaj Karoĉjo.<br/>
+        <b>Verkistoj:</b> proponu novan scenaron por Pipro kaj Karoĉjo.<br/>
         <b>Ĵurnalistoj:</b> skribu pri Pipro kaj Karoĉjo per tradiciaj komunikiloj (presita gazetaro, televido, ktp.)<br/>
         <b>Presistoj:</b> presu fotoafiŝojn pri Pipro kaj Karoĉjo.<br/>
     </p>
