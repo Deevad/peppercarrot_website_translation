@@ -83,7 +83,7 @@ $LANG = array(
     <h2>100% senpaga, por ĉiam, neniuj &apos;pag-muroj&apos;</h2>
 
     <p>Ĉiu enhavo farita de mi pri Pipro kaj Karoĉjo estas senpage disponebla per tiu ĉi retejo al ĉiuj.<br/>
-    Mi respektas vin ĉiujn egale: kaj senmonuloj kaj riĉuloj. Ĉiuj ekstraĵoj faritaj de mi por patronoj ankaŭ estas publikigitaj tie ĉi.<br/>
+    Mi respektas vin ĉiujn egale: kaj senmonulojn kaj riĉulojn. Ĉiuj ekstraĵoj faritaj de mi por patronoj ankaŭ estas publikigitaj tie ĉi.<br/>
     Pipro kaj Karoĉjo neniam petos vin pri pagi pro ion aŭ postulos pagendan abonon por aliri novan enhavon.</p>
 
         <img alt="ilustraĵo montranta pag-murojn" src="data/images/static/2015-02-09_philosophy_03-paywall.jpg">
@@ -158,7 +158,7 @@ $LANG = array(
 'CONTRIBUTE_BOTTOM'	    => '
     <h2>Tradukoj kaj korektoj</h2>
 
-    <p>Retejo de Pipro kaj Karoĉjo estas projektita por esti plurlingva kaj akceptas iun ajn lingvon (eĉ mortintajn aŭ planitajn). Fontoj de tiu ĉi retejo estas disponeblaj al vi por ilin traduki. Vidu la <a href="index.php?fr/article267/translation-tutorial">gvidilon</a> por pli da informoj pri kiel aldoni vian tradukon.</p>
+    <p>Retejo de Pipro kaj Karoĉjo estas projektita por esti plurlingva kaj akceptas iun ajn lingvon (eĉ mortintajn aŭ fikciajn). Fontoj de tiu ĉi retejo estas disponeblaj al vi por ilin traduki. Vidu la <a href="index.php?fr/article267/translation-tutorial">gvidilon</a> por pli da informoj pri kiel aldoni vian tradukon.</p>
 
     <h2>Gazetaro kaj interkonaj retejoj</h2>
 
@@ -217,11 +217,11 @@ $LANG = array(
     <p>
     ☐ Paroladi en japana bildrakonta kongreso pri Pipro kaj Karoĉjo.<br/>
     ☐ Ludi per ludstirilo videoludon Pipro kaj Karoĉjo.<br/>
-    ☐ Havigi galerion da 100 fanatikul-artaĵoj.<br/>
+    ☐ Havigi galerion kun 100 fanatikul-artaĵoj.<br/>
     ☑ <a href="http://www.peppercarrot.com/en/article376/dream-to-do-list-a-wikipedia-page">Posedi paĝon en Vikipedio.</a><br/>
     ☑ <a href="http://www.peppercarrot.com/article387/cosplay-by-maria-and-ekaterina">Ricevi bildon pri rolkostumado kiel Pipro.</a><br/>
     ☑ <a href="http://www.peppercarrot.com/article304/dream-to-do-list-a-cat-named-carrot">Ricevi bildon de ruĝa kato nomita Karoĉjo.</a><br/>
-    ☑ <a href="http://www.peppercarrot.com/article302/peppercarrot-has-over-500-supporters">Esti subtenata da 500 patronoj.</a><br/>
+    ☑ <a href="http://www.peppercarrot.com/article302/peppercarrot-has-over-500-supporters">Esti subtenata de 500 patronoj.</a><br/>
     ☐ Atingi rakontaĵon 100!<br/>
     </p>
 ',
