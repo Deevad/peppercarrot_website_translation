@@ -66,7 +66,7 @@ $LANG = array(
 'PHILOSOPHY_CONTENT'    =>  '
  <h2>Subtenata de patronoj</h2>
 
-    <p>La projekto &apos;Pipro kaj Karoĉjo&apos; estas financata nur de ĝiaj patronoj de la tuta mondo.<br/>
+    <p>La projekto “Pipro kaj Karoĉjo” estas financata nur de ĝiaj patronoj de la tuta mondo.<br/>
     Ĉiu patrono sendas iomete da mono por ĉiu nov-publikigita rakontaĵo kaj ricevas agnoskon sube nova bildrakonto.<br/>
     Danke al tiu ĉi sistemo, Pipro kaj Karoĉjo povas esti sendependa kaj por ĉiam restos libera de iuj reklamaĉoj.</p>
 
@@ -96,8 +96,8 @@ $LANG = array(
     Vi nur devas agnoski aŭtorecon al kreintoj (artistoj, korektintoj kaj tradukintoj kiuj kontribuis al artaĵo, kiun vi volas uzi), meti ligilon al la permesilo kaj indiki se io estas ŝanĝita. Vi povas fari tion en iu ajn aprobinda maniero, tamen ne sugestu, ke aŭtoroj aprobas vin aŭ vian uzadon.</p>
 
     <div class="philobutton">
-        <a href="https://creativecommons.org/licenses/by/4.0/deed.eo" title="por pli da informoj, legu Creative Commons Atribuite 4.0">
-            Permesilo: Creative Commons Atribuite 4.0
+        <a href="https://creativecommons.org/licenses/by/4.0/deed.eo" title="por pli da informoj, legu Krea Komunaĵo Atribuite 4.0">
+            Permesilo: Krea Komunaĵo Atribuite 4.0
         </a>
     </div>
 
@@ -114,7 +114,7 @@ $LANG = array(
     <h2>Ni ŝanĝu la sektoron de bildrakontoj!</h2>
 
     <p>Sen perantoj inter artisto kaj spektantoj vi pagas malpli kaj mi profitas pli. Vi subtenas min senpere.<br/>
-    Neniu eldonisto/distribuisto/reklamisto povas devigi min ŝanĝi Pipron kaj Karoĉjon por kongrui kun lia aspekto de &apos;merkato&apos;.<br/>
+    Neniu eldonisto/distribuisto/reklamisto povas devigi min ŝanĝi Pipron kaj Karoĉjon por kongrui kun lia aspekto de ‘merkato’.<br/>
     &nbsp;.&nbsp;.&nbsp;.&nbsp;Ĉu estas eble por ke unu eta sukceso influu la tutan sektoron? Ni provu!</p>
     
 
@@ -136,7 +136,7 @@ $LANG = array(
 'CONTRIBUTE_TITLE'		=> 'Kontribui',
 'CONTRIBUTE_TOP'		=> '
     <p>Danke al <a href="?static6/sources" title="paĝo de fontoj">malfermaj fontoj</a> kaj al la <a href="https://creativecommons.org/licenses/by/4.0/deed.eo">
-    permesilo Creative Commons</a> vi povas kontribui al Pipro kaj Karoĉjo multmaniere:</p>
+    permesilo Krea Komunaĵo</a> vi povas kontribui al Pipro kaj Karoĉjo multmaniere:</p>
 ',
 'CONTRIBUTE_DONATION'		=> '
     <h2>Patroneco, donacoj</h2>
@@ -189,8 +189,8 @@ $LANG = array(
 ',
 'SOURCES_BOTTOM'	    => '
     <p>Per elŝuti kaj labori kun tiuj dosieroj vi konsentas respekti kondiĉojn de la <br/>
-    <a href="https://creativecommons.org/licenses/by/4.0/deed.eo">permesilo Creative Commons Atribuite</a>.
-    Vidu la dosierojn &apos;README&apos; por pliaj informoj.</p>
+    <a href="https://creativecommons.org/licenses/by/4.0/deed.eo">permesilo Krea Komunaĵo Atribuite</a>.
+    Vidu la dosierojn ‘README’ por pliaj informoj.</p>
 
     <p><b>Font-deponejoj por tradukoj, scenaroj, retejo, grafikaĵoj, ktp:</b><br/></p>
 ',
@@ -236,7 +236,7 @@ $LANG = array(
 ################################################################################
 # Website General: Footer
 'FOOTER_CONTENT'    => '
-    <p>Retkomikso, artaĵoj kaj tekstoj estas disponeblaj laŭ la permesilo <a href="https://creativecommons.org/licenses/by/4.0/deed.eo" title="por pli da informoj, legu Creative Commons Atribuite 4.0">Creative Commons Atribuite 4.0</a>, escepte se tio estas rimarkita sur paĝo.<br/>
+    <p>Retkomikso, artaĵoj kaj tekstoj estas disponeblaj laŭ la permesilo <a href="https://creativecommons.org/licenses/by/4.0/deed.eo" title="por pli da informoj, legu Krea Komunaĵo Atribuite 4.0">Krea Komunaĵo Atribuite 4.0</a>, escepte se tio estas rimarkita sur paĝo.<br/>
     Aŭtoreco al "David REVOY, www.davidrevoy.com". Kontaktu min: <a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a> por pli da informoj.</p>
 
     <p>Retejo povigata de <a href="http://www.pluxml.org" title="PlXml">PluXml</a></p>
