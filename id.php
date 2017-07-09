@@ -254,6 +254,7 @@ $LANG = array(
 'UTIL_PAGE'      =>  'halaman',
 'UTIL_BY'        =>  'oleh',
 'UTIL_LICENSE'   =>  'lisensi',
+'UTIL_DOT'   =>  '.',
 'FIRST'        =>  'pertama',
 'LAST'   =>  'terakhir',
 );

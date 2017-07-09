@@ -255,6 +255,7 @@ $LANG = array(
 'UTIL_PAGE'      =>  'trang',
 'UTIL_BY'        =>  'bởi',
 'UTIL_LICENSE'   =>  'giấy phép',
+'UTIL_DOT'   =>  '.',
 'FIRST'        =>  'Đầu tiên',
 'LAST'   =>  'Cuối cùng',
 );

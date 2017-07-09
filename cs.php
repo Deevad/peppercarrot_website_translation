@@ -255,6 +255,7 @@ $LANG = array(
 'UTIL_PAGE'      =>  'strana',
 'UTIL_BY'        =>  ':',
 'UTIL_LICENSE'   =>  'licence',
+'UTIL_DOT'   =>  '.',
 'FIRST'        =>  'první',
 'LAST'   =>  'poslední',
 

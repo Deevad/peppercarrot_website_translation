@@ -254,6 +254,7 @@ $LANG = array(
 'UTIL_MORE'      =>  '更多',
 'UTIL_PAGE'      =>  '页面',
 'UTIL_BY'        =>  '由',
+'UTIL_DOT'   =>  '。',
 'UTIL_LICENSE'   =>  '发行许可',
 'FIRST'        =>  '第一集',
 'LAST'   =>  '最新一集',

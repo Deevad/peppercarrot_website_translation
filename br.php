@@ -253,6 +253,7 @@ $LANG = array(
 'UTIL_PAGE'      =>  'pajenn',
 'UTIL_BY'        =>  'gant',
 'UTIL_LICENSE'   =>  'la&ntilde;vaz',
+'UTIL_DOT'   =>  '.',
 'FIRST'        =>  'kentañ',
 'LAST'   =>  'diwezhañ',
 

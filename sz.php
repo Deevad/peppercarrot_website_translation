@@ -257,6 +257,7 @@ $LANG = array(
 'UTIL_MORE'      =>  'wiyncyj',
 'UTIL_PAGE'      =>  'strōna',
 'UTIL_BY'        =>  'bez',
+'UTIL_DOT'   =>  '.',
 'UTIL_LICENSE'   =>  'licyncyjŏ',
 'FIRST'        =>  'piyrszŏ',
 'LAST'   =>  'ôstatniŏ',

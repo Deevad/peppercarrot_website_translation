@@ -233,6 +233,7 @@ $LANG = array(
 'UTIL_PAGE'      =>  'pagina',
 'UTIL_BY'        =>  'di',
 'UTIL_LICENSE'   =>  'licenza',
+'UTIL_DOT'   =>  '.',
 'FIRST'        =>  'primo',
 'LAST'   =>  'ultimo',
 );

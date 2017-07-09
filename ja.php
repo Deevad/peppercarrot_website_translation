@@ -254,6 +254,7 @@ $LANG = array(
 'UTIL_PAGE'      =>  'ページ',
 'UTIL_BY'        =>  'から',
 'UTIL_LICENSE'   =>  'ライセンス',
+'UTIL_DOT'   =>  '。',
 'FIRST'        =>  '最初',
 'LAST'   =>  '最終',
 );

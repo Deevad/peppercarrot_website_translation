@@ -274,6 +274,7 @@ $LANG = array(
 'UTIL_PAGE'      =>  'oldal',
 'UTIL_BY'        =>  ', készítette ',
 'UTIL_LICENSE'   =>  'licenc',
+'UTIL_DOT'   =>  '.',
 'FIRST'        =>  'első',
 'LAST'   =>  'utolsó',
 

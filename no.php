@@ -266,6 +266,7 @@ $LANG = array(
 'UTIL_PAGE'      =>  'side',
 'UTIL_BY'        =>  'av',
 'UTIL_LICENSE'   =>  'lisens',
+'UTIL_DOT'   =>  '.',
 'FIRST'        =>  'f&oslash;rste',
 'LAST'   =>  'siste',
 );

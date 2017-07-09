@@ -253,6 +253,7 @@ $LANG = array(
 'UTIL_MORE'      =>  'еще',
 'UTIL_PAGE'      =>  'стр.',
 'UTIL_BY'        =>  '',
+'UTIL_DOT'   =>  '.',
 'UTIL_LICENSE'   =>  'Лицензия',
 'FIRST'        =>  'первый',
 'LAST'   =>  'последний',

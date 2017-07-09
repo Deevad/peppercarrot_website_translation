@@ -255,6 +255,7 @@ $LANG = array(
 'UTIL_PAGE'      =>  'paĝo',
 'UTIL_BY'        =>  'de',
 'UTIL_LICENSE'   =>  'permesilo',
+'UTIL_DOT'   =>  '.',
 'FIRST'        =>  'unua',
 'LAST'   =>  'lasta',
 );
