@@ -44,6 +44,7 @@ $LANG = array(
 'HOMEPAGE_NEWS_UPDATE'      =>  'Hírek és frissítések',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'További bejegyzések',
 'HOMEPAGE_MAINSERVICE_LINK' =>  'https://www.patreon.com/davidrevoy',
+'HOMEPAGE_SUPPORTED_BY'     =>  'olvasók által támogatott.',
 
 ################################################################################
 # Page: Webcomics

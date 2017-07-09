@@ -44,6 +44,7 @@ $LANG = array(
 'HOMEPAGE_NEWS_UPDATE'      =>  'Novinky a aktualizace:',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Další příspěvky',
 'HOMEPAGE_MAINSERVICE_LINK' =>  'https://www.patreon.com/davidrevoy',
+'HOMEPAGE_SUPPORTED_BY'     =>  'podporovaný fanoušky.',
 
 ################################################################################
 # Page: Webcomics

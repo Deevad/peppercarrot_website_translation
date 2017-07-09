@@ -44,6 +44,7 @@ $LANG = array(
 'HOMEPAGE_NEWS_UPDATE'      =>  'Новости и обновления:',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Другие посты',
 'HOMEPAGE_MAINSERVICE_LINK' =>  'https://www.patreon.com/davidrevoy',
+'HOMEPAGE_SUPPORTED_BY'     =>  'поддерживается добровольцами.',
 
 ################################################################################
 # Page: Webcomics
