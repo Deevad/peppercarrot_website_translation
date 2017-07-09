@@ -46,6 +46,7 @@ $LANG = array(
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Muioc\'h a bennado&ugrave; :',
 'HOMEPAGE_MAINSERVICE_LINK' =>  'https://www.patreon.com/davidrevoy',
 'HOMEPAGE_SUPPORTED_BY'     =>  'harpet gant paeroned.',
+'HOMEPAGE_ALTERNATIVES'     =>  'Erlec\'hiañ:',
 
 ################################################################################
 # Page: Webcomics

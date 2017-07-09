@@ -46,6 +46,7 @@ $LANG = array(
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Más mensajes',
 'HOMEPAGE_MAINSERVICE_LINK' =>  'https://www.patreon.com/davidrevoy',
 'HOMEPAGE_SUPPORTED_BY'     =>  'auspiciado por patrocinadores.',
+'HOMEPAGE_ALTERNATIVES'     =>  'Alternativas:',
 
 ################################################################################
 # Page: Webcomics
