@@ -40,6 +40,7 @@ $LANG = array(
 'HOMEPAGE_PATREON_INFO'     =>  'Pour moins d\' 1€ par nouvel épisode, devenez mécène de Pepper&amp;Carrot sur Patreon.',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Plus d\'informations',
 'HOMEPAGE_PATREON_BUTTON'   =>  'Devenez mécène de Pepper&amp;Carrot sur Patreon',
+'HOMEPAGE_PATREON_BOX'      =>  'Devenez mécène de Pepper&amp;Carrot sur:',
 'HOMEPAGE_LAST_EPISODE'     =>  'Dernier épisode :',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Nouvelles et mises à jour :',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Voir tout',

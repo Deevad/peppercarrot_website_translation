@@ -34,6 +34,7 @@ $LANG = array(
 'HOMEPAGE_PATREON_INFO'     =>  'Diventate oggi un lettore con Patreon con appena 1€ per nuovo episodio',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Maggiori informazioni',
 'HOMEPAGE_PATREON_BUTTON'   =>  'Diventa un lettore di Pepper&amp;Carrot on Patreon',
+'HOMEPAGE_PATREON_BOX'      =>  'Diventa un lettore di Pepper&amp;Carrot on:',
 'HOMEPAGE_LAST_EPISODE'     =>  'Ultimo episodio:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'News ed aggiornamenti:',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Altri posts',

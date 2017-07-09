@@ -40,6 +40,7 @@ $LANG = array(
 'HOMEPAGE_PATREON_INFO'     =>  'Kun 1$ per nye episode, bli en sponsor idag på Patreon',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Mer informasjon',
 'HOMEPAGE_PATREON_BUTTON'   =>  'bli en Pepper&amp;Gulrot sponsor på Patreon',
+'HOMEPAGE_PATREON_BOX'      =>  'Bli en Pepper&amp;Gulrot sponsor på:',
 'HOMEPAGE_LAST_EPISODE'     =>  'Siste episode:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Nyheter &amp; oppdateringer:',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Flere innlegg',

@@ -40,6 +40,7 @@ $LANG = array(
 'HOMEPAGE_PATREON_INFO'     =>  'Legyél Te is pártfogó a Patreon-on, mindössze $1-ért epizódonként',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'További információ',
 'HOMEPAGE_PATREON_BUTTON'   =>  'Legyél a Paprika&amp;Sárgarépa pártfogója a Patreon-on',
+'HOMEPAGE_PATREON_BOX'      =>  'Legyél a Paprika&amp;Sárgarépa pártfogója a:',
 'HOMEPAGE_LAST_EPISODE'     =>  'Legújabb rész:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Hírek és frissítések',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'További bejegyzések',

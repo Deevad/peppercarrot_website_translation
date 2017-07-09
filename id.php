@@ -40,6 +40,7 @@ $LANG = array(
 'HOMEPAGE_PATREON_INFO'     =>  'Hanya 1$ untuk setiap episode baru, jadilah donatur melalui Patreon',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Informasi selengkapnya',
 'HOMEPAGE_PATREON_BUTTON'   =>  'Jadilah donatur dari Pepper&amp;Carrot di Patreon',
+'HOMEPAGE_PATREON_BOX'      =>  'Jadilah donatur dari Pepper&amp;Carrot di:',
 'HOMEPAGE_LAST_EPISODE'     =>  'Episode terbaru:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Berita terbaru:',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Post lainnya',

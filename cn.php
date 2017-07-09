@@ -40,6 +40,7 @@ $LANG = array(
 'HOMEPAGE_PATREON_INFO'     =>  '只要1美元/集，就可以成为小辣椒与萝卜头的赞助者。',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  '更多信息',
 'HOMEPAGE_PATREON_BUTTON'   =>  '成为小辣椒与萝卜头的赞助者',
+'HOMEPAGE_PATREON_BOX'      =>  '成为小辣椒与萝卜头的赞助者：',
 'HOMEPAGE_LAST_EPISODE'     =>  '最新一集：',
 'HOMEPAGE_NEWS_UPDATE'      =>  '新闻及更新：',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  '查看更多',

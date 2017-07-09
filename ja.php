@@ -40,6 +40,7 @@ $LANG = array(
 'HOMEPAGE_PATREON_INFO'     =>  '1エピソードたった1ドルで、あなたもPatreonでペッパー&amp;キャロットのパトロンになりませんか？',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  '詳しく',
 'HOMEPAGE_PATREON_BUTTON'   =>  'ペッパー&amp;キャロットのパトロンになりませんか？',
+'HOMEPAGE_PATREON_BOX'      =>  'ペッパー&amp;キャロットのパトロンになりませんか？',
 'HOMEPAGE_LAST_EPISODE'     =>  '最新エピソード:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'ニュースと更新情報:',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'もっと見る',

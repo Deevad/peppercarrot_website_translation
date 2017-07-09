@@ -40,6 +40,7 @@ $LANG = array(
 'HOMEPAGE_PATREON_INFO'     =>  'Por sólo 1€ por cada nuevo episodio, conviértete hoy en un patrocinador en Patreon',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Más información',
 'HOMEPAGE_PATREON_BUTTON'   =>  'Conviértete en un patrocinador de Pepper&amp;Carrot en Patreon',
+'HOMEPAGE_PATREON_BOX'      =>  'Conviértete en un patrocinador de Pepper&amp;Carrot en:',
 'HOMEPAGE_LAST_EPISODE'     =>  'Último episodio:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Noticias y Actualizaciónes:',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Más mensajes',

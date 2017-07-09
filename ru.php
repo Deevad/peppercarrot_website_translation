@@ -40,6 +40,7 @@ $LANG = array(
 'HOMEPAGE_PATREON_INFO'     =>  'Стань спонсором сегодня на Patreon - всего 1$ за новый выпуск',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Узнать больше',
 'HOMEPAGE_PATREON_BUTTON'   =>  'стань спонсором Pepper&amp;Carrot на Patreon',
+'HOMEPAGE_PATREON_BOX'      =>  'Стань спонсором Pepper&amp;Carrot на:',
 'HOMEPAGE_LAST_EPISODE'     =>  'Последний выпуск:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Новости и обновления:',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Другие посты',

@@ -39,6 +39,7 @@ $LANG = array(
 'HOMEPAGE_PATREON_INFO'     =>  'Com apenas 1€ a cada novo episódio, você pode ser um patrono no Patreon hoje mesmo',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Mais informações',
 'HOMEPAGE_PATREON_BUTTON'   =>  'Seja um patrono de Pepper&amp;Carrot no Patreon',
+'HOMEPAGE_PATREON_BOX'      =>  'Seja um patrono de Pepper&amp;Carrot no:',
 'HOMEPAGE_LAST_EPISODE'     =>  'Último episódio:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Notícias e Atualizações:',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Outras postagens',

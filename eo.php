@@ -40,6 +40,7 @@ $LANG = array(
 'HOMEPAGE_PATREON_INFO'     =>  'Nur po 1$ por nova rakontaĵo, iĝu patrono nun per Patreon',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Pli da informoj',
 'HOMEPAGE_PATREON_BUTTON'   =>  'iĝi patrono de Pipro kaj Karoĉjo per Patreon',
+'HOMEPAGE_PATREON_BOX'      =>  'Iĝi patrono de Pipro kaj Karoĉjo per:',
 'HOMEPAGE_LAST_EPISODE'     =>  'Plej nova rakontaĵo:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Novaĵoj kaj ĝisdatigoj:',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Pli da afiŝoj',

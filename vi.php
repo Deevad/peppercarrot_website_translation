@@ -40,6 +40,7 @@ $LANG = array(
 'HOMEPAGE_PATREON_INFO'     =>  'Chỉ 1$ cho 1 tập truyện, trở thành ngưởi ủng hộ ngay hôm nay, qua Patreon.',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Thông tin khác',
 'HOMEPAGE_PATREON_BUTTON'   =>  'trở thành ngưởi ủng hộ cho Hạt Tiêu&amp;Cà Rốt qua Patreon',
+'HOMEPAGE_PATREON_BOX'      =>  'Trở thành ngưởi ủng hộ cho Hạt Tiêu&amp;Cà Rốt qua:',
 'HOMEPAGE_LAST_EPISODE'     =>  'Tập mới nhất:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Tin Tức và Cập Nhật:',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Các bài đăng khác',

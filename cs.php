@@ -40,6 +40,7 @@ $LANG = array(
 'HOMEPAGE_PATREON_INFO'     =>  'Jen za 1$ podpořte vznik dalších Feferončiných dobrodružství',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Více informací',
 'HOMEPAGE_PATREON_BUTTON'   =>  'Podpořte na Patreonu novou epizodu Pepper&amp;Carrot',
+'HOMEPAGE_PATREON_BOX'      =>  'Podpořte novou epizodu Pepper&amp;Carrot na:',
 'HOMEPAGE_LAST_EPISODE'     =>  'Nejnovější epizoda:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Novinky a aktualizace:',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Další příspěvky',

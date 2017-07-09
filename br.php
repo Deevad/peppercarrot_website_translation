@@ -40,6 +40,7 @@ $LANG = array(
 'HOMEPAGE_PATREON_INFO'     =>  'Evit 1€ dre rann, deuit da veza&ntilde; paeron war Patreon !',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Gouzout hiroc\'h',
 'HOMEPAGE_PATREON_BUTTON'   =>  'paeronia&ntilde; Pepper&amp;Carrot war Patreon',
+'HOMEPAGE_PATREON_BOX'      =>  'Paeronia&ntilde; Pepper&amp;Carrot war:',
 'HOMEPAGE_LAST_EPISODE'     =>  'Rann ziwezha&ntilde; :',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Keleier ha nevesadurio&ugrave; :',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Muioc\'h a bennado&ugrave; :',
