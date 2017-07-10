@@ -66,23 +66,16 @@ $LANG = array(
 
 ################################################################################
 # Page: Philosophy
-'PHILOSOPHY_CONTENT'    =>  '
+'PHILOSOPHY_TOP'    =>  '
  <h2>Subtenata de patronoj</h2>
 
     <p>La projekto “Pipro kaj Karoĉjo” estas financata nur de ĝiaj patronoj de la tuta mondo.<br/>
     Ĉiu patrono sendas iomete da mono por ĉiu nov-publikigita rakontaĵo kaj ricevas agnoskon sube nova bildrakonto.<br/>
     Danke al tiu ĉi sistemo, Pipro kaj Karoĉjo povas esti sendependa kaj por ĉiam restos libera de iuj reklamaĉoj.</p>
-
-    <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="nur po 1$ por nova rakontaĵo, iĝu patrono de Pipro kaj Karoĉjo">
-            Nur po 1$ por nova rakontaĵo, iĝu patrono nun per Patreon.
-        </a>
-    </div>
-
-        <a href="https://www.patreon.com/davidrevoy" title="nur po 1$ por nova rakontaĵo, iĝu patrono de Pipro kaj Karoĉjo">
-            <img alt="ilustraĵo montranta patronecon" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-        </a>
-
+',
+'PHILOSOPHY_BOTTOM'    =>  '
+    <img alt="ilustraĵo montranta patronecon" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
+    
     <h2>100% senpaga, por ĉiam, neniuj &apos;pag-muroj&apos;</h2>
 
     <p>Ĉiu enhavo farita de mi pri Pipro kaj Karoĉjo estas senpage disponebla per tiu ĉi retejo al ĉiuj.<br/>

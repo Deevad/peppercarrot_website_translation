@@ -65,21 +65,16 @@ $LANG = array(
 
 ################################################################################
 # Page : Philosophy
-'PHILOSOPHY_CONTENT'    =>  '
+'PHILOSOPHY_TOP'    =>  '
  <h2>Financé par ses lecteurs</h2>
     
     <p>Le projet Pepper&amp;Carrot est financé par ses lecteurs venant du monde entier.<br/>
     Tout lecteur peut envoyer une petite pièce pour mécéner la publication d\'un nouvel épisode.<br/>
     Il apparaît ensuite dans les remerciements de cet épisode. Grâce à ce système, Pepper&amp;Carrot<br/>
     reste indépendant et protégé du monde éditorial, de la pub et du marketing agressif.</p>
-    
-    <div class="philobutton">
-        Pour seulement 1€ par nouvel épisode, devenez dès aujourd\'hui mécène de Pepper&amp;Carrot sur <a href="https://www.patreon.com/davidrevoy" title="Pour seulement 1$ par nouvel épisode, devenez mécéne aujourdh\'ui sur Patreon">Patreon</a>, site international utilisant le dollar US, ou alternativement sur <a href="https://www.tipeee.com/pepper-carrot" title="Pour seulement 1€ par nouvel épisode, devenez mécéne aujourd\'hui sur Tipeee">Tipeee</a>, site en Français utilisant l\'euro.
-    </div>
-    
-        <a href="https://www.tipeee.com/pepper-carrot" title="Pour seulement 1€ par nouvel épisode, devenez mécène aujourdh\'ui sur Tipeee">
-            <img alt="Illustration représentant le mécénat moderne" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-        </a>
+',
+'PHILOSOPHY_BOTTOM'    =>  '
+    <img alt="Illustration représentant le mécénat moderne" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
 
     <h2>100% gratuit, pour toujours</h2>
     

@@ -66,22 +66,15 @@ $LANG = array(
 
 ################################################################################
 # Page: Philosophy
-'PHILOSOPHY_CONTENT'    =>  '
+'PHILOSOPHY_TOP'    =>  '
  <h2>Olvasók által támogatott</h2>
     
     <p>A Paprika&amp;Sárgarépa projektet kizárólag az olvasói támogatják, a világ minden részéről.<br/>
     Minden pártfogó egy csekély összeggel hozzájárul, amiért cserébe a rész végén megemlítésre kerül.<br/>
     Ennek a rendszernek köszönhetően a képregény független maradhat és nem kell reklámokhoz, egyéb marketing-eszközhöz fordulnia.</p>
-    
-    <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Legyél Te is a Paprika&amp;Sárgarépa pártfogója, mindössze $1-ért epizódonként">
-            Legyél Te is pártfogó a Patreon-on, mindössze $1-ért epizódonként
-        </a>
-    </div>
-    
-        <a href="https://www.patreon.com/davidrevoy" title="Legyél Te is a Paprika&amp;Sárgarépa pártfogója, mindössze $1-ért epizódonként">
-            <img alt="pártfogást jelképező illusztráció" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-        </a>
+',
+'PHILOSOPHY_BOTTOM'    =>  '
+    <img alt="pártfogást jelképező illusztráció" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
 
     <h2>100% ingyen, örökké, nincs fizetőfal</h2>
 

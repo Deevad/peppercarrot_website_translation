@@ -66,22 +66,15 @@ $LANG = array(
 
 ################################################################################
 # Page: Philosophy
-'PHILOSOPHY_CONTENT'    =>  '
+'PHILOSOPHY_TOP'    =>  '
  <h2>Harpet gant paeroned</h2>
 
     <p>Pepper&amp;Carrot a zo ur raktres arc\'hantet gant e baeroned nemetken, gant tud o tont eus pep lec\'h er bed.<br/>
     Ur sammadig arc\'hant a vez roet gant pep paeron evit kement rann nevez embannet, ha lakaet e vez o anv e dibenn ar rann nevez.<br/>
     A-drugarez d\'an aozadur-ma&ntilde; ez eo dizalc\'h Pepper&amp;Carrot ha ne vez morse saotret gant bruderezh.</p>
-
-    <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Paeronit Pepper&amp;Carrot war Patreon evit 1$ dre rann nevez">
-            Paeroniit Pepper&amp;Carrot war Patreon evit 1$ dre rann nevez
-        </a>
-    </div>
-
-        <a href="https://www.patreon.com/davidrevoy" title="Bezit paeron da Pepper&amp;Carrot war Patreon evit 1$ dre rann nevez">
-            <img alt="skeudenn o taolenni&ntilde; ar baeroniezh" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-        </a>
+',
+'PHILOSOPHY_BOTTOM'    =>  '
+    <img alt="skeudenn o taolenni&ntilde; ar baeroniezh" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
 
     <h2>100% digoust, da viken</h2>
 

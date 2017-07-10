@@ -66,22 +66,15 @@ $LANG = array(
 
 ################################################################################
 # Page: Philosophy
-'PHILOSOPHY_CONTENT'    =>  '
+'PHILOSOPHY_TOP'    =>  '
  <h2>Didukung oleh sukarelawan!</h2>
     
     <p>Pepper&amp;Carrot mendapatkan dana dari para sukarelawan (), yang berasal dari seluruh dunia.<br/>
     Setiap sukarelawan dapat berdonasi untuk setiap episode baru yang akan dibuat dan nama mereka akan dicantumkan pada akhir halaman komik.<br/>
     Pepper&amp;Carrot tidak menggunakan iklan maupun media yang serupa untuk tetap hidup.</p>
-    
-    <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Hanya 1$ untuk setiap episode baru, jadilah donatur melalui Patreon">
-            Hanya 1$ untuk setiap episode baru, jadilah donatur melalui Patreon
-        </a>
-    </div>
-    
-        <a href="https://www.patreon.com/davidrevoy" title="Hanya 1$ untuk setiap episode baru, bantulah Pepper&amp;Carrot melalui Patreon">
-            <img alt="illustration representing patronage" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-        </a>
+',
+'PHILOSOPHY_BOTTOM'    =>  '
+    <img alt="illustration representing patronage" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
 
     <h2>100% gratis, selamanya! Sungguh!</h2>
     

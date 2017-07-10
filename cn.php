@@ -65,21 +65,16 @@ $LANG = array(
 
 ################################################################################
 # Page : Philosophy
-'PHILOSOPHY_CONTENT'    =>  '
+'PHILOSOPHY_TOP'    =>  '
  <h2>由读者提供资金支持</h2>
     
     <p>小辣椒与萝卜头项目是由全世界的读者提供经济支持的。<br/>
     所有读者都可以以一集漫画为单位给予一小笔赞助。<br/>
     这些给予赞助的读者将会被列在该集漫画的鸣谢名单中。由于此系统的健康运作，小辣椒与萝卜头<br/>
     得以继续以自由独立漫画的形式存在从而摆脱漫画产业，广告和商业运作的影响。</p>
-    
-    <div class="philobutton">
-        只要1美元/集，从今天开始成为小辣椒与萝卜头的赞助者，具体请参见<a href="https://www.patreon.com/davidrevoy" title="只要1$/集，通过Patreon网站成为小辣椒与萝卜头的赞助者">Patreon网站</a>.
-    </div>
-    
-        <a href="https://www.patreon.com/davidrevoy" title="只要1$一集，通过Patreon网站成为小辣椒与萝卜头的赞助者">
-            <img alt="Illustration représentant le mécénat moderne" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-        </a>
+',
+'PHILOSOPHY_BOTTOM'    =>  '
+    <img alt="Illustration représentant le mécénat moderne" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
 
     <h2>永远100%免费</h2>
     

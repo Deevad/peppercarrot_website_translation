@@ -66,22 +66,15 @@ $LANG = array(
 
 ################################################################################
 # Page: Philosophy
-'PHILOSOPHY_CONTENT'    =>  '
+'PHILOSOPHY_TOP'    =>  '
  <h2>Finançat per mecenes</h2>
     
     <p>El projecte Pepper&amp;Carrot és finançat tan sols pels seus mecenes, de totes les parts del món.<br/>
     Cada mecenes dóna uns quants diners per cada nou episodi publicat i el seu nom apareix als crèdits del final de cada capítol.<br/>
     Gràcies a aquest sistema, Pepper&amp;Carrot pot ser independent i mai fa servir publicitat o qualsevol altre tipus de contaminació per marketing.</p>
-    
-    <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="For only 1$ per new episode, become a patreon of Pepper&amp;Carrot">
-            For only 1$ per new episode, become a patron today on Patreon
-        </a>
-    </div>
-    
-        <a href="https://www.patreon.com/davidrevoy" title="For only 1$ per new episode, become a patreon of Pepper&amp;Carrot">
-            <img alt="illustration representing patronage" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-        </a>
+',
+'PHILOSOPHY_BOTTOM'    =>  '
+    <img alt="illustration representing patronage" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
 
     <h2>100% free, forever, no paywall</h2>
     

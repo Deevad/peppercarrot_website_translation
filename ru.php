@@ -66,21 +66,15 @@ $LANG = array(
 
 ################################################################################
 # Page: Philosophy
-'PHILOSOPHY_CONTENT'    =>  '
+'PHILOSOPHY_TOP'    =>  '
  <h2>Поддерживается добровольцами</h2>
     
     <p>Проект Pepper&amp;Carrot спонсируется исключительно добровольцами со всего мира.<br/>
     Каждый спонсор присылает немного денег на каждый новый опубликованный выпуск, и я выношу ему благодарность в конце нового эпизода.<br/>
     Благодаря такой системе, Pepper&amp;Carrot может быть независимым и не пользоваться рекламой или какой-либо маркетинговой ерундой.</p>
-    
-    <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Стань спонсором Pepper&amp;Carrot - всего 1$ за новый выпуск">
-            Всего 1$ на новый выпуск - стань спонсором уже сегодня на Patreon
-        </a>
-    </div>
-        <a href="https://www.patreon.com/davidrevoy" title="Стань спонсором Pepper&amp;Carrot - всего 1$ за новый выпуск">
-            <img alt="illustration representing patronage" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-        </a>
+',
+'PHILOSOPHY_BOTTOM'    =>  '
+    <img alt="illustration representing patronage" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
 
     <h2>100% бесплатный, навсегда, никакого платного доступа</h2>
     

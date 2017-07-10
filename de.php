@@ -66,23 +66,16 @@ $LANG = array(
 
 ################################################################################
 # Page : Philosophy
-'PHILOSOPHY_CONTENT'    =>  '
+'PHILOSOPHY_TOP'    =>  '
  <h2>Unterst&uuml;tzt durch F&ouml;rderer</h2>
     
     <p>Das Pepper&amp;Carrot Projekt wird nur von seinen F&ouml;rderern aus aller Welt finanziert.<br/>
     Jeder F&ouml;rderer gibt ein bisschen Geld f&uuml;r jede neue Episode, und wird daf&uuml;r am Ende der neuen Episode genannt.<br/>
-    Durch dieses System kann Pepper&amp;Carrot unabh&auml;ngig bleiben und ohne Werbung oder Verschmutzung durch Marketing auskommen.</p> 
+    Durch dieses System kann Pepper&amp;Carrot unabh&auml;ngig bleiben und ohne Werbung oder Verschmutzung durch Marketing auskommen.</p>
+',
+'PHILOSOPHY_BOTTOM'    =>  '
+    <img alt="Illustration, die die F&ouml;rderung beschreibt" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
     
-    <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Werde F&ouml;rderer von Pepper&amp;Carrot f&uuml;r 1€ pro neuer Episode">
-            Werde heute noch F&ouml;rderer auf Patreon f&uuml;r nur 1€ pro neuer Episode
-        </a>
-    </div>
-        
-        <a href="https://www.patreon.com/davidrevoy" title="Werde F&ouml;rderer von Pepper&amp;Carrot f&uuml;r 1€ pro neuer Episode">
-            <img alt="Illustration, die die F&ouml;rderung beschreibt" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-        </a>
-
     <h2>100% dauerhaft kostenlos, keine Paywall</h2>
     
     <p>Jeder Inhalt, den ich zu Pepper&amp;Carrot produziere, ist auf dieser Webseite f&uuml;r jeden frei verf&uuml;gbar.<br/> 

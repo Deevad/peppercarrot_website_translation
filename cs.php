@@ -66,23 +66,16 @@ $LANG = array(
 
 ################################################################################
 # Page: Philosophy
-'PHILOSOPHY_CONTENT'    =>  '
+'PHILOSOPHY_TOP'    =>  '
  <h2>Podporovaný fanoušky</h2>
 
     <p>Pepper&amp;Carrot je projekt sponzorovaný jen svými fanoušky z celého světa.<br/>
     Každý fanoušek na nově vydanou epizodu přispěje 1 dollar a za to bude jeho jméno napsáno v poděkování autora na konci nové epizody.<br/>
     Díky tomuto systému může Pepper&amp;Carrot zůstat nezávislým komiksem bez jakýkoliv otravných reklam.</p>
-
-    <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Jen za 1$ na Patreonu podpořte novou epizodu Pepper&amp;Carrot">
-            Jen za 1$ na epizodu přispějte ke vzniku nových Feferončiných a Karotkových dobrodružství.
-        </a>
-    </div>
-
-        <a href="https://www.patreon.com/davidrevoy" title="Jen za 1$ na Patreonu podpořte novou epizodu Pepper&amp;Carrot">
-            <img alt="illustration representing patronage" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-        </a>
-
+',
+'PHILOSOPHY_BOTTOM'    =>  '
+    <img alt="illustration representing patronage" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
+    
     <h2>Navždy 100% zdarma, žádný placený přístup</h2>
 
     <p>Všechen můj obsah vytvořený k Pepper&amp;Carrot je na těchto stránkách zdarma a všem volně k dostání.<br/>

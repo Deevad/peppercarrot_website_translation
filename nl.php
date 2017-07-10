@@ -66,22 +66,16 @@ $LANG = array(
 
 ################################################################################
 # Page : Philosophy
-'PHILOSOPHY_CONTENT'    =>  '
+'PHILOSOPHY_TOP'    =>  '
  <h2>Ondersteund door patrons</h2>
     
     <p>Het Pepper&amp;Carrot-project wordt alleen ondersteund door zijn patrons, van over de hele wereld.<br/>
     Alle patrons doneren een klein beetje geld voor iedere nieuwe gepubliceerde aflevering en krijgen credit aan het eind van de aflevering.<br/>
     Door dit systeem kan Pepper&amp;Carrot onafhankelijk zijn en nooit advertenties of andere marketing-vervuiling gebruiken.</p>
+',
+'PHILOSOPHY_BOTTOM'    =>  '
+    <img alt="afbeelding die patrons voorstelt" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
     
-    <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Voor slechts 1€,- per aflevering kun je patron van Pepper&amp;Carrot worden">
-            Voor slechts 1€,- per aflevering kun je patron worden op Patreon
-        </a>
-    </div>
-        <a href="https://www.patreon.com/davidrevoy" title="Voor slechts 1€,- per aflevering kun je patron van Pepper&amp;Carrot worden">
-            <img alt="afbeelding die patrons voorstelt" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-        </a>
-
     <h2>100% gratis, altijd, zonder paywall</h2>
     
     <p>Alles wat ik produceer van Pepper&amp;Carrot staat op deze website, gratis en voor iedereen beschikbaar.<br/>

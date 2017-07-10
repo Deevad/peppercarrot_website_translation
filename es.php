@@ -66,21 +66,15 @@ $LANG = array(
 
 ################################################################################
 # Page: Philosophy
-'PHILOSOPHY_CONTENT'    =>  '
+'PHILOSOPHY_TOP'    =>  '
  <h2>Auspiciado por patrocinadores</h2>
     
     <p>El proyecto Pepper&amp;Carrot únicamente es financiado por sus patrocinadores, de todo el mundo.<br/>
     Cada patrocinador envía un poco de dinero por cada nuevo episodio publicado y recibe créditos al final del nuevo episodio.<br/>
     Gracias a este Sistema, Pepper&amp;Carrot puede ser independiente y nunca usar publicidad o cualquier contaminación de marketing.</p>
-    
-    <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Por sólo 1€ por cada nuevo episodio, conviértete en patrocinador">
-            Por sólo 1€ por cada nuevo episodio, conviértete hoy en un patrocinador en Patreon
-        </a>
-    </div>
-        <a href="https://www.patreon.com/davidrevoy" title="Por sólo 1€ por cada nuevo episodio, conviértete en patrocinador">
-            <img alt="ilustración representando el patrocinio" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-        </a>
+',
+'PHILOSOPHY_BOTTOM'    =>  '
+    <img alt="ilustración representando el patrocinio" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
 
     <h2>100% gratis, por siempre, sin Paywall</h2>
     

@@ -66,22 +66,15 @@ $LANG = array(
 
 ################################################################################
 # Page: Philosophy
-'PHILOSOPHY_CONTENT'    =>  '
+'PHILOSOPHY_TOP'    =>  '
  <h2>Spiyrany bez patrōnōw</h2>
 
     <p>Projekt Pepper&amp;Carrot je fundowany bez czytŏczōw ze cołkigo świata.<br/>
     Kożdy z patrōnōw przelywŏ trochã pijyndzy na nowõ tajlã, za co dostŏwŏ podziynkowanie na kōńcu kożdyj tajle.<br/>
     Dziynki tymu Pepper&amp;Carrot może być niyznŏleżny i swobodny ôd zmaraszyniŏ ryklamami i marketingym.</p>
-
-    <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Wystyknie 1$ na Patreōnie, by być patrōnym nowyj tajle">
-            Wystyknie 1$ na Patreōnie, by być patrōnym nowyj tajle
-        </a>
-    </div>
-
-        <a href="https://www.patreon.com/davidrevoy" title="Wystyknie 1$ na Patreōnie, by być patrōnym nowyj tajle">
-            <img alt="ôbrŏzek sparciŏ" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-        </a>
+',
+'PHILOSOPHY_BOTTOM'    =>  '
+    <img alt="ôbrŏzek sparciŏ" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
 
     <h2>We 100% darmy, bez płacyniŏ</h2>
 

@@ -66,23 +66,16 @@ $LANG = array(
 
 ################################################################################
 # Page: Philosophy
-'PHILOSOPHY_CONTENT'    =>  '
+'PHILOSOPHY_TOP'    =>  '
  <h2>Được giúp đỡ bởi các nhà tài trợ</h2>
     
     <p>Dự án Hạt Tiêu&amp;Cà Rốt được tài trỡ bởi những người ủng hộ trên khắp thế giới<br/>
     Những người ủng hộ tài trợ cho những tập truyện mới phát hành, được ghi nhận ở cuối mỗi tập truyện.<br/>
     Cảm ơn hệ thống này, Hạt Tiêu&amp;Cà Rốt có thể hoạt động độc lập và không phải dùng quảng cáo khó chịu.</p>
+',
+'PHILOSOPHY_BOTTOM'    =>  '
+    <img alt="illustration representing patronage" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
     
-    <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Chỉ với 1$ mỗi tập, hãy ủng hộ Hạt Tiêu&amp;Cà Rốt">
-            Chỉ với 1$ mỗi tập, hãy ủng hộ Hạt Tiêu&amp;Cà Rốt ngay hôm nay.
-        </a>
-    </div>
-    
-        <a href="https://www.patreon.com/davidrevoy" title="Chỉ với 1$ mỗi tập, hãy ủng hộ Hạt Tiêu&amp;Cà Rốt">
-            <img alt="illustration representing patronage" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-        </a>
-
     <h2>100% miễn phí, mãi mãi và không yêu cầu trả tiền</h2>
     
     <p>Mỗi nội dung liên quan đến Hạt Tiêu&amp;Cà Rốt được đăng trên này, miên phí cho tất cả mọi người<br/>

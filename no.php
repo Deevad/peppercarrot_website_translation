@@ -66,23 +66,16 @@ $LANG = array(
 
 ################################################################################
 # Page: Philosophy
-'PHILOSOPHY_CONTENT'    =>  '
+'PHILOSOPHY_TOP'    =>  '
  <h2>Støttet av sponsorer</h2>
 
     <p>Pepper&amp;Gulrot er finansiert ene og alene av sponsorer verden over.<br/>
 	Hver sponsor sender en liten slant med penger for hver nye episode som blir laget og blir kreditert på slutten av hver episode.<br/>
 	Dette systemet tillater Pepper&amp;Gulrot &aring; v&aelig;re 100 prosent uavhengig uten &aring; måtte ty til reklame eller andre triks som kan
 	ødelegge seriens orginalitet.</p>
-
-    <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Bli en Pepper&amp;Gulrot sponsor idag for bare 1$">
-            Bli en Pepper&amp;Gulrot sponsor idag for bare 1$ per episode.
-        </a>
-    </div>
-
-        <a href="https://www.patreon.com/davidrevoy" title="Bli en Pepper&amp;Gulrot sponsor idag for bare 1$ per episode">
-            <img alt="illustration representing patronage" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-        </a>
+',
+'PHILOSOPHY_BOTTOM'    =>  '
+    <img alt="illustration representing patronage" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
 
     <h2>100% gratis, for alltid, ingen betalingsmur</h2>
 

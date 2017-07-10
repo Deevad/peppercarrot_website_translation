@@ -58,22 +58,16 @@ $LANG = array(
 'LIMITATIONS' 		=> ' Contentuti disponibili soltanto in lingua inglese ',
 ################################################################################
 # Page: Philosophy
-'PHILOSOPHY_CONTENT'    =>  '
+'PHILOSOPHY_TOP'    =>  '
  <h2>Supportato dai lettori</h2>
     
     <p>Il progetto Pepper&amp;Carrot si basa soltanto sui suoi lettori sparsi in tutto il mondo.<br/>
     Ogni lettore contribuisce con un po&#8217; di denaro per ogni nuovo episodio pubblicato e compare nei crediti al termine di ogni episodio.<br/>
     Grazie a questo sistema, Pepper&amp;Carrot pu&#242; essere indipendente e mai sar&#224; infarcito da annunci pubbicitari oppure da qualsiasi altra trovata commerciale.</p>
-    
-    <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Diventa lettore di Pepper&amp;Carrot con appena 1€ per nuovo episodio">
-            Diventate oggi un lettore con Patreon con appena 1€ per nuovo episodio, 
-        </a>
-    </div>
-        <a href="https://www.patreon.com/davidrevoy" title="Diventa lettore di Pepper&amp;Carrot con appena 1€ per nuovo episodio">
-            <img alt="illustration representing patronage" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-        </a>
-        
+',
+'PHILOSOPHY_BOTTOM'    =>  '
+    <img alt="illustration representing patronage" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
+
     <h2>100% gratuito, per sempre</h2>
 
     <p>Ogni contenuto prodotto su Pepper&amp;Carrot &#232; disponibile in questo sito web, gratuito e fruibile da chiunque.<br/>

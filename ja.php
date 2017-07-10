@@ -66,21 +66,15 @@ $LANG = array(
 
 ################################################################################
 # Page : Philosophy
-'PHILOSOPHY_CONTENT'    =>  '
+'PHILOSOPHY_TOP'    =>  '
  <h2>パトロンによる支援</h2>
     
     <p>ペッパー&amp;キャロットプロジェクトは、世界中からのパトロンからの資金援助だけによって支えられています。<br/>
     パトロンは新しいエピソードが公開される度にちょっとしたお金を送金します。パトロンは各エピソードの最後にクレジットされます。<br/>
     このシステムのおかげで、ペッパー&amp;キャロットは広告やマーケティングPRなしに、独立した運営が可能です。</p>
-    
-    <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="1エピソードたった1ドルで、ペッパー&amp;キャロットのパトロンになりませんか？">
-            1エピソードたった1ドルで、あなたもPatreonでペッパー&amp;キャロットのパトロンになりませんか？
-        </a>
-    </div>
-        <a href="https://www.patreon.com/davidrevoy" title="1エピソードたった1ドルで、ペッパー&amp;キャロットのパトロンになりませんか？">
-            <img alt="パトロンシステムの説明イラスト" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-        </a>
+',
+'PHILOSOPHY_BOTTOM'    =>  '
+    <img alt="パトロンシステムの説明イラスト" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
 
     <h2>ずっと100%無料、 課金の壁は無し</h2>
     
