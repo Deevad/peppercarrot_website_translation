@@ -139,7 +139,7 @@ $LANG = array(
     <p>En detalle de la <a href="?static2/philosophy" title="open the Sources page">página de Filosofía</a> esta casi todo lo relativo a la financiación.<br/>
     Es fácil llegar a ser patrocinador de Pepper&amp;Carrot por sólo 1€ por nuevo episodio <a href="https://www.patreon.com/davidrevoy">en Patreon</a>.<br/>
     Patreon acepta tarjetas de crédito de todo el mundo, e incluso se puede pagar con una cuenta de Paypal en Patreon.<br/>
-            También acepto donación directa a través de PayPal o Flattr:</p>
+    </p>
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Fan-art</h2>

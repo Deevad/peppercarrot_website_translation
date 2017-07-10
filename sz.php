@@ -142,7 +142,7 @@ $LANG = array(
     <p>Na zajcie ze <a href="?static2/philosophy" title="ôdewrzij zajtã filozofije">filozofijōm</a> wyeklerowołch bezma wszyjsko ô financowaniu.<br/>
     Patrōnym Pepper&amp;Carrot idzie być za 1$ <a href="https://www.patreon.com/davidrevoy">na Patreōnie</a>.<br/>
     Patreon akceptuje szkarty borgowe z cołkigo świata, a tyż płaty bez Paypal.<br/>
-            Możesz tyż spōmōc mie dyrekt bez Paypal abo Flattr:</p>
+    </p>
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Ôd fanōw:</h2>

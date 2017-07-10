@@ -139,7 +139,7 @@ $LANG = array(
     <p><a href="?static2/philosophy" title="open the Sources page">理念のページ</a>に資金援助に関する内容のほぼすべてがあります。<br/>
     ペッパー&amp;キャロットのパトロンになるのは簡単です。<a href="https://www.patreon.com/davidrevoy">Patreon</a>で、1エピソード$1からパトロンになることができます。<br/>
     Patreonでは世界中のクレジットカードが使えます。PatreonではPaypalでの支払いも可能です。<br/>
-            またPayPalとFlattrでの直接の寄付も受け入れています :</p>
+    </p>
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>ファンアート</h2>

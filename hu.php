@@ -139,7 +139,7 @@ $LANG = array(
     <p>A <a href="?static2/philosophy">Filozófia oldalon</a> részletesebben is leírtam majdnem mindent, amit a finanszírozásról tudni érdemes.<br/>
     Könnyű a Paprika&amp;Sárgarépa pártfogójává válni a <a href="https://www.patreon.com/davidrevoy">Patreon-on</a>, mindössze $1-ért epizódonként.<br/>
     A Patreon a világ minden részéről elfogad bankkártyát, és még PayPal-lal is fizethetsz.<br/>
-    Közvetlenül is elfogadok adományokat PayPal-on és Flattr-ön keresztül:<p>
+    <p>
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Rajongói művek</h2>

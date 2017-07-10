@@ -139,7 +139,7 @@ $LANG = array(
     <p>Na stronie z <a href="?static2/philosophy" title="otwórz stronę filozofii">filozofią</a> wyjaśniłem praktycznie wszystko na temat finansowania.<br/>
     Patronem Pepper&amp;Carrot można zostać za 1$ <a href="https://www.patreon.com/davidrevoy">na Patreonie</a>.<br/>
     Patreon akceptuje karty kredytowe z całego świata, a nawet płatności poprzez Paypal.<br/>
-            Możesz też wspomóc mnie bezpośrednio przez Paypala lub Flattr:</p>
+    </p>
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Twórczość fanów:</h2>

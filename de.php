@@ -141,7 +141,7 @@ $LANG = array(
     <p>Auf der <a href="?static2/philosophy" title="open the Sources page">Philosophie Seite</a> habe ich fast alles zum Thema Finanzierung ausgebreitet.<br/>
     Es ist einfach, f&uuml;r nur 1€ pro Episode Pepper&amp;Carrot F&ouml;rderer <a href="https://www.patreon.com/davidrevoy">auf Patreon</a> zu werden.<br/>
     Patreon akzeptiert Kreditkarten aus aller Welt und ihr k&ouml;nnt sogar mit PayPal auf Patreon bezahlen.<br/>
-            Ich nehme au&szlig;erdem direkte Spenden &uuml;ber PayPal oder Flattr an:</p>
+    </p>
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Fan-Art</h2>

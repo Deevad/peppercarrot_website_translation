@@ -139,7 +139,7 @@ $LANG = array(
     <p>Explico a la secció <a href="?static2/philosophy" title="open the Sources page">Filosofia</a> quasi tot el que té a veure amb el mecenatge.<br/>
     És molt fàcil esdevenir un mecenes de Pepper&amp;Carrot per tan sols 1$ per cada nou episodi <a href="https://www.patreon.com/davidrevoy">a Patreon</a>.<br/>
     Patreon accepta targetes de crèdit de tot el món, i fins i tot pots emprar paypal a Patreon.<br/>
-            També accepto donacions directes via PayPal or Flattr:</p>
+    </p>
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Fan-art</h2>

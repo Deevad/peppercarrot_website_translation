@@ -139,8 +139,8 @@ $LANG = array(
     <a href="?static2/philosophy" title="Philosophie">Philosophie</a>.<br/>
     Pour plus de commodité et moins de frais bancaires pour l\'audience francophone en Europe, j\'ai mis en place <a href="https://www.tipeee.com/pepper-carrot" title="Pepper&amp;Carrot on tipeee">une page sur Tipeee</a>.<br/>
     Il est également possible <a href="https://www.patreon.com/davidrevoy">de soutenir le projet via Patreon</a> (international).
-    Patreon et Tipeee acceptent les Cartes Bleues, Visa et Paypal, etc.<br/><br/>
-    J\'accepte également les donations directes via PayPal ou Flattr :</p>
+    Patreon et Tipeee acceptent les Cartes Bleues, Visa et Paypal, etc.<br/>
+    </p>
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Fan-art</h2>

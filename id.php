@@ -139,7 +139,7 @@ $LANG = array(
     <p>Saya menjelaskan secara detail di <a href="?static2/philosophy" title="buka halaman Perihal">halaman Perihal</a> mengenai segalanya tentang berdonasi.<br/>
     Sangat mudah untuk menjadi donatur Pepper&amp;Carrot, hanya 1$ untuk setiap episode baru <a href="https://www.patreon.com/davidrevoy">melalui Patreon</a>.<br/>
     Patreon menerima kartu kredit dari seluruh dunia, dan Anda juga dapat membayar dengan akun PayPal di Patreon.<br/>
-            I juga menerima donasi secara langsung melalui PayPal atau Flattr:</p>
+    </p>
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Karya dari penggemar</h2>

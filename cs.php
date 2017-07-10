@@ -140,7 +140,7 @@ $LANG = array(
     <p>Všechno ohledně financování rozepisuji do detailu na <a href="?static2/philosophy" title="otevřít stránku Pojetí">stránce Pojetí</a>.<br/>
     Fanouškem Pepper&amp;Carrot se <a href="https://www.patreon.com/davidrevoy">na Patreonu</a> můžete stát už za 1 dollar na epizodu.<br/>
     Patreon přijímá všechny platební karty z celého světa a dokonce můžete platit i přes PayPal.<br/>
-            Také mě můžete podpořit bezprostředně přes PayPal nebo Flattr:</p>
+    </p>
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Tvorba fanoušků</h2>

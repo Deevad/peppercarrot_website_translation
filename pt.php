@@ -138,7 +138,7 @@ $LANG = array(
     <p>Eu detalho na página de <a href="?static2/philosophy" title="abra a página de Sources">Princípios</a> quase tudo a respeito de arrecadação de fundos.<br/>
     Você pode se tornar um patrono de Pepper&amp;Carrot por apenas $1 a cada novo episódio <a href="https://www.patreon.com/davidrevoy">no Patreon</a>.<br/>
     Patreon aceita cartões de crédito de todo o mundo, e você pode até pagar com sua conta no Paypal no Patreon.<br/>
-            Eu também aceito doações diretas via PayPal ou Flattr:</p>
+    </p>
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Fan-art</h2>

@@ -141,7 +141,7 @@ $LANG = array(
     <p>您可以在<a href="?static2/philosophy" title="Philosophie">理念</a>页面找到所有有关小辣椒与萝卜头的资助信息。<br/>
     成为小辣椒与萝卜头的赞助者很容易，只要在<a href="https://www.patreon.com/davidrevoy">Patreon</a>网站上支付1美元/集就可以了。<br/>
     Patreon接受全球的信用卡，您也可以在Patreon上使用Paypal账户。<br/>
-            我同时接受来自于PayPal或者Flattr的直接捐助：</p>
+    </p>
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>粉丝作品</h2>

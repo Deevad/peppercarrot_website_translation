@@ -140,7 +140,7 @@ $LANG = array(
     <p>Mi precizigis en la <a href="?static2/philosophy" title="malfermi paĝon pri filozofio">paĝo pri filozofio</a> preskaŭ ĉion pri financado.<br/>
     Estas facile iĝi patrono de Pipro kaj Karoĉjo nur po 1$ por nova rakontaĵo <a href="https://www.patreon.com/davidrevoy">per Patreon</a>.<br/>
     Patreon akceptas monkartojn de la tuta mondo kaj vi eĉ povas pagi per PayPal-konton al Patreon.<br/>
-            Mi ankaŭ akceptas senperajn donacojn per PayPal aŭ Flattr:</p>
+    </p>
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Fanatikul-artaĵo</h2>

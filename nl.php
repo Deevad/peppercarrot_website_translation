@@ -141,7 +141,7 @@ $LANG = array(
     <p>Op de pagina <a href="?static2/philosophy" title="open de Filosofie-pagina">Filosofie</a> leg ik alles uit over donaties.<br/>
     Het is makkelijk om patron van Pepper&amp;Carrot te worden voor slechts 1€,- per nieuwe aflevering <a href="https://www.patreon.com/davidrevoy">op Patreon</a>.<br/>
     Patreon accepteert creditcards uit de hele wereld, en je kunt betalen met een PayPal-account op Patreon.<br/>
-            </p>
+    </p>
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Fanart</h2>

@@ -145,7 +145,7 @@ $LANG = array(
     <p>P&aring; <a href="?static2/philosophy" title="open the Sources page">Filosofi-siden</a> kan du lese i detaljer det meste som ang&aring;r finansiering av serien.<br/>
 	Det er en smal sak &aring; bli en Pepper&amp;Gulrot-sponsor og det for bare 1$ per nye episode. G&aring; til <a href="https://www.patreon.com/davidrevoy">Patreon</a>.<br/>
 	Patreon godtar kredittkort fra hele verden s&aring; vel som betaling via Paypal.<br/>
-	Jeg tar ogs&aring; imot donasjoner direkte via Paypal eller Flattr:</p>
+	</p>
 
 ',
 'CONTRIBUTE_FANART'	    => '

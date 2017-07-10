@@ -139,7 +139,7 @@ $LANG = array(
     <p>Tôi đã viết chi tiết trong <a href="?static2/philosophy" title="open the Sources page">trang Philosophy</a> hầu như tất cả về cách ủng hộ.<br/>
     Rất dễ dàng để trở thành nhà tài trợ cho Hạt Tiêu&amp;Cà Rốt chỉ với 1$ cho mỗi tập truyện <a href="https://www.patreon.com/davidrevoy">qua Patreon</a>.<br/>
     Patreon nhận thẻ tín dụng từ khắp thế giới, và bạn cũng có thể trả với tài khoản Paypal qua Patreon.<br/>
-            Tôi cũng nhân những ủng hộ trực tiếp qua PayPal hay Flattr:</p>
+    </p>
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Fan-art</h2>

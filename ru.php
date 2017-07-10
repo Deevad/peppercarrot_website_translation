@@ -139,7 +139,7 @@ $LANG = array(
     <p>Подробнее на странице <a href="?static2/philosophy" title="открыть страницу Философии">Философии</a> рассказано почти все о взносах.<br/>
     Стать спонсором Pepper&amp;Carrot легко: всего по 1$ за новый выпуск <a href="https://www.patreon.com/davidrevoy">на Patreon</a>.<br/>
     Patreon принимают кредитные карты со всего мира, можно даже оплачивать через Paypal.<br/>
-            Кроме того, я принимаю прямые взносы через PayPal или Flattr:</p>
+    </p>
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Фан-арт</h2>

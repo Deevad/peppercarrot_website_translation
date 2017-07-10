@@ -138,7 +138,7 @@ $LANG = array(
     <p>Displega&ntilde; a ran er <a href="?static2/philosophy" title="digor ar bajenn Preder">bajenn Preder</a> kazi pep tra a-zivout va arc\'hantaoui&ntilde;.<br/>
     Aes eo dont da veza&ntilde; paeron Pepper&amp;Carrot evit 1€ dre rann nevez <a href="https://www.patreon.com/davidrevoy">war Patreon</a>.<br/>
     Asantet e vez gant Patreon ar c\'hartenno&ugrave; gred eus ar bed a-bezh, ha tu \'zo deoc\'h zoken paea&ntilde; gant ur gont Paypal.</br>
-            Asanti&ntilde; a ran ivez roadurio&ugrave; war-eeun gant Paypal pe Flattr;</p>
+    </p>
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Fan-art</h2>
