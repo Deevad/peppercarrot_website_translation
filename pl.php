@@ -39,7 +39,7 @@ $LANG = array(
 ',
 'HOMEPAGE_PATREON_INFO'     =>  'Wystarczy 1$ na Patreonie, by zostać patronem nowego odcinka',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Więcej informacji',
-'HOMEPAGE_PATREON_BUTTON'   =>  'wesprzyj nowy odcinek Pepper&amp;Carrot na Patreonie',
+'HOMEPAGE_PATREON_BUTTON'   =>  'Wesprzyj nowy odcinek Pepper&amp;Carrot na Patreonie',
 'HOMEPAGE_PATREON_BOX'      =>  'Wesprzyj nowy odcinek Pepper&amp;Carrot na:',
 'HOMEPAGE_LAST_EPISODE'     =>  'Ostatni odcinek:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Nowinki i aktualizacje:',

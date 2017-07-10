@@ -39,7 +39,7 @@ $LANG = array(
 ',
 'HOMEPAGE_PATREON_INFO'     =>  'Per tan sols 1$ per cada nou episodi, esdevingues un mecenes avui a Patreon',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Més informació',
-'HOMEPAGE_PATREON_BUTTON'   =>  'converteix-te en mecenes de Pepper&amp;Carrot a Patreon',
+'HOMEPAGE_PATREON_BUTTON'   =>  'Converteix-te en mecenes de Pepper&amp;Carrot a Patreon',
 'HOMEPAGE_PATREON_BOX'      =>  'Converteix-te en mecenes de P&amp;C a:',
 'HOMEPAGE_LAST_EPISODE'     =>  'Últim episodi:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'Notícies i novetats:',

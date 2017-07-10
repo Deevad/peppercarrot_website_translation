@@ -39,7 +39,7 @@ $LANG = array(
 ',
 'HOMEPAGE_PATREON_INFO'     =>  'For only 1$ per new episode, become a patron today on Patreon',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'More information',
-'HOMEPAGE_PATREON_BUTTON'   =>  'become a patron of Pepper&amp;Carrot on Patreon',
+'HOMEPAGE_PATREON_BUTTON'   =>  'Become a patron of Pepper&amp;Carrot on Patreon',
 'HOMEPAGE_PATREON_BOX'      =>  'Become a patron of Pepper&amp;Carrot on:',
 'HOMEPAGE_LAST_EPISODE'     =>  'Latest episode:',
 'HOMEPAGE_NEWS_UPDATE'      =>  'News and Update:',
