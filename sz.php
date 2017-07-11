@@ -148,22 +148,30 @@ $LANG = array(
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Ôd fanōw:</h2>
+    
     <p>Pepper&amp;Carrot je ôdewrzōny na fanōw: cechōnki, scynariusze, rzeźby, modele 3D, fan-fiction. Prześlij mi je, (<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a>, abo napisz na placu społecznościowym) coby trefiyły do galeryje fanartōw:</p>
 ',
 'CONTRIBUTE_DERIVATIONS' => '
     <h2>Adaptacyje:</h2>
+    
     <p>Pepper&amp;Carrot może być adaptowany do wielu projektōw i produktōw. Możno sprŏwisz włŏsny abo spōmożesz kogoś?</p>
 ',
 
-'CONTRIBUTE_BOTTOM'	    => '
+'CONTRIBUTE_TRANSLATION'	    => '
     <h2>Przekłŏd i korekta:</h2>
 
     <p>Plac Pepper&amp;Carrot je wielogodkowy i akceptuje kożdõ z nich (aji wymarłe i fikcyjne). Źrōdła ôd zajty sōm dostympne do przekłŏdu. Przeczytej <a href="index.php?fr/article267/translation-tutorial">instrukcyjõ</a>, coby przewiedzieć sie, jak przidać włŏsny przekłŏd.</p>
+',
 
-    <h2>Presa, nece społecznościowe</h2>
+'CONTRIBUTE_SOCIAL'	    => 'Nece społecznościowe:',
+ 
+'CONTRIBUTE_PRESS'	    => '     
+    <h2>Presa:</h2>
 
     <p>Bydź wydŏwcōm Pepper&amp;Carrot! Pisz artikle, rychtuj posty, tajluj sie i ôdewiyrej skupiny na ôblubiōnych necach społecznościowych. Na zajcie źrōdeł możesz sebrać <a href="?static6/sources" title="Źródła">sztofy presowe</a>.</p>
+',
 
+'CONTRIBUTE_OTHER'	    => '
     <h2>Inksze idyje na wkłŏd&nbsp;.&nbsp;.&nbsp;.&nbsp;</h2>
 
     <p>Kożdy może pōmŏgać jak chce:<br/>
@@ -173,7 +181,9 @@ $LANG = array(
         <b>Dziynnikŏrze:</b> informiyrowanie o Pepper&amp;Carrot we tradycyjnych mydiach (cajtōngi, telewizyjŏ atd.).<br />
         <b>Drukŏrze:</b> drukowanie plakŏtōw i inkszych dobrot ze Pepper&amp;Carrot.<br />
     </p>
+',
 
+'CONTRIBUTE_IRC'	    => '
     <h2>Kanał IRC:</h2>
 
     <p>Ôzprŏwiej ô Pepper&amp;Carrot. Je żech sam w dziyń (czasu europejskigo) (nick: deevad)<br/>

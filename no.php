@@ -152,26 +152,32 @@ $LANG = array(
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Fan-art</h2>
+    
     <p>Pepper&amp;Gulrot setter stor pris p&aring; fan-art som for eksempel: tegninger, scenarier, skulpturer, 3D modeller, fan-fiction. Send dem til meg (<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a>, eller ta kontakt p&aring; sosiale nettverk) for &aring; bli med i fan-art galleriet:</p>
 ',
 'CONTRIBUTE_DERIVATIONS' => '
     <h2>Avarter:</h2>
+    
     <p>Pepper&amp;Gulrot kan tilpasses til mange prosjekter eller produkter, hvorfor ikke lage noe selv eller bidra til eksisterende prosjekter?</p>
 ',
 
-'CONTRIBUTE_BOTTOM'	    => '
+'CONTRIBUTE_TRANSLATION'	    => '
     <h2>Oversettelser eller korrekturlesning:</h2>
 
     <p>Pepper&amp;Gulrot er laget for &aring; v&aelig;re flerspr&aring;klig og aksepterer alle spr&aring;k (inkludert utd&oslash;dde og oppdiktede). Kildefilene til denne siden ligger klart til alle som &oslash;nsker &aring;
 	oversette. Se <a href="index.php?fr/article267/translation-tutorial">reference tutorial</a> for mere informasjon om hvordan du kan legge til din oversettelse.</p>
-	
+',
 
-    <h2>Presse, og sosiale medier</h2>
+'CONTRIBUTE_SOCIAL'	    => 'Og sosiale medier:',
+ 
+'CONTRIBUTE_PRESS'	    => '     
+    <h2>Presse:</h2>
 
-	<p>Bli en utgiver av Pepper&amp;Gulrot! Skriv artikler, lag blogginnlegg, del og skap engasjement p&aring; dine foretrukne sosiale nettverk.
+    <p>Bli en utgiver av Pepper&amp;Gulrot! Skriv artikler, lag blogginnlegg, del og skap engasjement p&aring; dine foretrukne sosiale nettverk.
 	Du kan laste ned <a href="?static6/sources" title="Sources page">pressepakker</a> p&aring; "kildefiler"-siden.</p>
-  
+',
 
+'CONTRIBUTE_OTHER'	    => '
     <h2>Andre m&aring;ter &aring; bidra p&aring;&nbsp;.&nbsp;.&nbsp;.&nbsp;</h2>
 
     <p>Alle kan bidra p&aring; ulike m&aring;ter:<br/>
@@ -181,7 +187,9 @@ $LANG = array(
         <b>Journalist:</b> Informere tradisjonelle medier om Pepper&amp;Gulrot (aviser, tv, etc.)<br/>
         <b>Grafiker:</b> Lage plakater eller annet materiel med Pepper&amp;Gulrot tema.<br/>
     </p>
+',
 
+'CONTRIBUTE_IRC'	    => '
     <h2>IRC kanal:</h2>
 
     <p>Chat og diskuter Pepper&amp;Gulrot. Jeg vil v&aelig;re tilgjengelig p&aring; europeisk tid (kallenavn:deevad)<br/>

@@ -145,22 +145,30 @@ $LANG = array(
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Twórczość fanów:</h2>
+    
     <p>Pepper&amp;Carrot jest otwarty na fanów: rysunki, scenariusze, rzeźby, modele 3D, fanfici. Prześlij mi je, (<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a>, lub zaczep mnie na portalu społecznościowym) by znalazły się w galerii fan-artów:</p>
 ',
 'CONTRIBUTE_DERIVATIONS' => '
     <h2>Adaptacje:</h2>
+    
     <p>Pepper&amp;Carrot umożliwia dowolne tworzenie adaptacji. Może wykonasz własną albo wesprzesz czyjąś?</p>
 ',
 
-'CONTRIBUTE_BOTTOM'	    => '
+'CONTRIBUTE_TRANSLATION'	    => '
     <h2>Przekład i korekta:</h2>
 
     <p>Strona Pepper&amp;Carrot jest wielojęzykowa i akceptuje każdy z nich (nawet wymarłe i fikcyjne). Źródła strony są dostępne do przekładu. Przeczytaj <a href="index.php?fr/article267/translation-tutorial">tutorial</a>, by dowiedzieć się, jak dodać własny przekład.</p>
+',
 
-    <h2>Prasa, sieci społecznosciowe</h2>
+'CONTRIBUTE_SOCIAL'	    => 'Sieci społecznosciowe:',
+ 
+'CONTRIBUTE_PRESS'	    => '     
+    <h2>Prasa:</h2>
 
     <p>Zostań wydawcą Pepper&amp;Carrot! Pisz artykuły, twórz posty, dziel się i buduj grupy na ulubionych portalach społecznościowych. Na stronie źródeł możesz pobrać <a href="?static6/sources" title="Źródła">materiały prasowe</a>.</p>
+',
 
+'CONTRIBUTE_OTHER'	    => '
     <h2>Inne pomysły na wkład&nbsp;.&nbsp;.&nbsp;.&nbsp;</h2>
 
     <p>Każdy może dorzucić swoją cegiełkę:<br/>
@@ -170,7 +178,9 @@ $LANG = array(
         <b>Dziennikarze:</b> informowanie o Pepper&amp;Carrot w tradycyjnych mediach (gazety, telewizja itd.).<br />
         <b>Drukarze:</b> drukowanie plakatów i innych materiałów z Pepper&amp;Carrot.<br />
     </p>
+',
 
+'CONTRIBUTE_IRC'	    => '
     <h2>Kanał IRC:</h2>
 
     <p>Rozmawiaj o Pepper&amp;Carrot. Jestem dostępny w godzinach dziennych (czasu europejskiego) (nick: deevad)<br/>

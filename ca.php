@@ -145,22 +145,30 @@ $LANG = array(
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Fan-art</h2>
+    
     <p> Els fan-arts són benviguts a Pepper&amp;Carrot: Dibuixos, escenes, esculptures, figures 3D, fan-ficitions... Envieu-me\'ls (<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a> , o doneu-me un toc a les xarxes socials) i apareixereu a la galeria de fan-art:</p>
 ',
 'CONTRIBUTE_DERIVATIONS' => '
     <h2> Derivations:</h2>
+    
     <p>Pepper&amp;Carrot pot ser adapatat a molts projectes, per què no comences el teu propi projecte o t\'uneixes a un ja existent?</p>
 ',
 
-'CONTRIBUTE_BOTTOM'	    => '
+'CONTRIBUTE_TRANSLATION'	    => '
     <h2>Translations and corrections:</h2>
     
     <p> La plana web de Pepper&amp;Carrot està dissenyada per tal de ser multilíngüe i accepta qualsevol llengua (incloent-hi les extingides i les inventades!). Les fonts són a la teva disposició per tal que les puguis traduir. Mira la <a href="index.php?fr/article267/translation-tutorial">reference tutorial</a> per tal de trobar més informació sobre com afegir una traducció.</p>
-            
-    <h2>Press, Social networks</h2> 
+',
+
+'CONTRIBUTE_SOCIAL'	    => 'Xarxa social:',
+ 
+'CONTRIBUTE_PRESS'	    => '            
+    <h2>Premsa:</h2> 
     
     <p>Publica sobre Pepper&amp;Carrot! Escriu articles, crea posts a planes web, comparteix i crea una comunitat a les teves xarxes socials preferides. Pots descarregar el <a href="?static6/sources" title="Sources page">kit de premsa</a> a l\'apartat "fonts".</p>  
-    
+',
+
+'CONTRIBUTE_OTHER'	    => '    
     <h2> Other contributions ideas&nbsp;.&nbsp;.&nbsp;.&nbsp;</h2>
     
     <p> Tothom pot contribuir de diferents maneres: <br/>
@@ -170,7 +178,9 @@ $LANG = array(
         <b>Periodistes: </b> Informa al món sobre Pepper&amp;Carrot (premsa escrita, tv, podcast, etc.)<br />
         <b>Impressions:</b> Imprimeix pòsters i tota classe de coses amb la imatge de Pepper&amp;Carrot.<br />
     </p> 
-            
+',
+
+'CONTRIBUTE_IRC'	    => '            
     <h2> Canal IRC:</h2>
     
     <p> Xateja i parla sobre Pepper&amp;Carrot. Hi seré durant l\'horari europeu (nick:deevad) <br/> 

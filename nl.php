@@ -147,22 +147,30 @@ $LANG = array(
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Fanart</h2>
+    
     <p>Pepper&amp;Carrot staat open voor fanart: tekeningen, scenario\'s, beelden, 3D-modellen, fanfictions. Als je ze naar mij opstuurt, dan (<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a>, of via de sociale netwerken) zet ik ze in de fanart-galerij:</p>
 ',
 'CONTRIBUTE_DERIVATIONS' => '
     <h2>Afgeleide werken:</h2>
+    
     <p>Pepper&amp;Carrot kan worden gebruikt bij vele projecten or producten, waarom gebruik je het niet bij je eigen project, of doe je mee met een bestaand project?</p>
 ',
 
-'CONTRIBUTE_BOTTOM'	    => '
+'CONTRIBUTE_TRANSLATION'	    => '
     <h2>Vertalingen en correcties:</h2>
     
     <p>De Pepper&amp;Carrot-website is meertalig en accepteert iedere taal (ook dode talen, of fictieve). De broncode van deze pagina zijn beschikbaar zodat je ze kunt vertalen. Bekijk de <a href="index.php?fr/article267/translation-tutorial">tutorial</a> voor meer informatie over het toevoegen van een vertaling.</p>
-            
-    <h2>Pers, sociale media</h2> 
+',
+
+'CONTRIBUTE_SOCIAL'	    => 'Sociale media:',
+ 
+'CONTRIBUTE_PRESS'	    => '
+    <h2>Pers:</h2> 
     
     <p>Word de uitgever van Pepper&amp;Carrot! Schrijf artikelen, zet een post op je website, deel het op je favoriete sociale medium. Je kunt de <a href="?static6/sources" title="Bronnen-pagina">pers-kit</a> downloaden op de bronnen-pagina.</p>
-    
+',
+
+'CONTRIBUTE_OTHER'	    => '    
     <h2>Andere ideeën...</h2>
     
     <p>Iedereen kan bijdragen op verschillende manieren:<br/>
@@ -172,7 +180,9 @@ $LANG = array(
         <b>Journalisten:</b> Bericht over Pepper&amp;Carrot in traditionele media (de pers, televisie, enzovoorts)<br />
         <b>Drukkerijen:</b> Druk posters of andere dingen met Pepper&amp;Carrot erop.<br />
     </p> 
-            
+',
+
+'CONTRIBUTE_IRC'	    => '            
     <h2>IRC-kanaal:</h2>
     
     <p>Chat hier om over Pepper&amp;Carrot te discussiëren. Ik ben overdag (Europese tijd) online (met schermnaam deevad).<br/>

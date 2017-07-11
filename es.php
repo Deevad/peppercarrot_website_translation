@@ -145,22 +145,30 @@ $LANG = array(
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Fan-art</h2>
+    
     <p> Pepper&amp;Carrot esta abierto a los fan-arts: Dibujos, escenarios, esculturas, modelos 3D, fan-fiction. Envíamelas (<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a> , ó búsquenme en las redes sociales) para aparecer en la galería de fan-art:</p>
 ',
 'CONTRIBUTE_DERIVATIONS' => '
     <h2> Derivaciones:</h2>
+    
     <p>Pepper&amp;Carrot puede ser adaptado a muchos proyectos o productos, ¿por qué no hacer uno por tu cuenta o unirte a uno existente?</p>
 ',
 
-'CONTRIBUTE_BOTTOM'	    => '
+'CONTRIBUTE_TRANSLATION'	    => '
     <h2>Traducciones y correcciones:</h2>
     
     <p> El sitio web de Pepper&amp;Carrot está diseñado para ser multilingüe y aceptar cualquier idioma (incluyendo los extintos o los ficticios). Las fuentes de esta página están a su disposición para traducirlas. Revise el <a href="index.php?fr/article267/translation-tutorial">tutorial de referencia</a> para más información acerca de cómo agregar su traducción.</p>
-            
-    <h2>Prensa, Redes sociales</h2> 
+',
+
+'CONTRIBUTE_SOCIAL'	    => 'Redes sociales:',
+ 
+'CONTRIBUTE_PRESS'	    => '            
+    <h2>Prensa:</h2> 
     
     <p>¡Sé el editor de Pepper&amp;Carrot! escribe artículos, crea mensajes en el sitio web, comparte y construye una comunidad en tus redes sociales favoritas. Puedes descargar el <a href="?static6/sources" title="Sources page">kit de prensa</a> en la pagina "Fuentes".</p>  
-    
+',
+
+'CONTRIBUTE_OTHER'	    => '    
     <h2> Otras ideas de contribución.&nbsp;.&nbsp;.&nbsp;.&nbsp;</h2>
     
     <p> Todo el mundo puede contribuir de diferentes maneras: <br/>
@@ -170,7 +178,9 @@ $LANG = array(
         <b>Periodistas: </b> informar acerca de Pepper&amp;Carrot en los medios tradicionales (prensa escrita, tv, etc.)<br />
         <b>Impresores:</b> Hacer afiches o imprimir carteles con Pepper&amp;Carrot en ellos.<br />
     </p> 
-            
+',
+
+'CONTRIBUTE_IRC'	    => '            
     <h2> Canal IRC:</h2>
     
     <p> Chatear y discutir acerca de Pepper&amp;Carrot. Voy a estar en torno a la hora del día europeo (nickname:deevad) <br/> 

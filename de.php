@@ -147,22 +147,30 @@ $LANG = array(
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Fan-Art</h2>
+    
     <p> Pepper&amp;Carrot ist offen f&uuml;r Fan-Art: Zeichnungen, Szenarien, Skulpturen, 3D Modelle, Fan-Fiction. Schickt sie mir: (<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a> , oder sprecht mich in sozialen Netzwerken an), um in der Fan-Art-Gallerie ausgestellt zu werden:</p>
 ',
 'CONTRIBUTE_DERIVATIONS' => '
     <h2> Abgeleitete Werke:</h2>
+    
     <p>Pepper&amp;Carrot kann f&uuml;r viele verschiedene Projekte adaptiert werden. Warum fangt ihr nicht euer eigenes an, oder macht bei einem existierenden mit?</p>
 ',
 
-'CONTRIBUTE_BOTTOM'	    => '
+'CONTRIBUTE_TRANSLATION'	    => '
     <h2>&Uuml;bersetzungen und Korrekturen:</h2>
     
     <p>Die Pepper&amp;Carrot-Website ist f&uuml;r Vielsprachigkeit entworfen, und erlaubt alle Sprachen (ausgestorbene und fiktive inbegriffen). Die Quellen dieser Seite stehen euch zum &Uuml;bersetzen zur Verf&uuml;gung. Schaut euch die <a href="index.php?fr/article267/translation-tutorial">&Uuml;bersetzungsanleitung</a> an, um herauszufinden, wie ihr eure &Uuml;bersetzung hinzuf&uuml;gen k&ouml;nnt.</p>
-            
-    <h2>Presse, Social-Networks</h2> 
+',
+
+'CONTRIBUTE_SOCIAL'	    => 'Social-Networks:',
+ 
+'CONTRIBUTE_PRESS'	    => '            
+    <h2>Presse:</h2> 
     
     <p>Seid Herausgeber von Pepper&amp;Carrot! Schreibt Artikel, postet auf Webseiten, teilt sie auf euren bevorzugten sozialen Netzwerken. Ihr k&oumlnnt das <a href="?static6/sources" title="Quellen Seite">Presse Set</a> auf der "Quellen" Seite herunterladen.</p>
-    
+',
+
+'CONTRIBUTE_OTHER'	    => '    
     <h2>Andere Ideen zum Mitmachen ...</h2>
     
     <p>Alle können auf eine Vielzahl von Arten etwas beitragen:<br/>
@@ -172,7 +180,9 @@ $LANG = array(
         <b>Journalisten:</b> Informiert &uuml;ber Pepper&amp;Carrot in traditionellen Medien (gedruckte Presse, Fernsehen, etc...)<br />
         <b>Drucker:</b> Druckt Poster oder Goodies mit Pepper&amp;Carrot Motiven.<br />
     </p> 
-            
+',
+
+'CONTRIBUTE_IRC'	    => '            
     <h2>IRC channel:</h2>
     
     <p>Redet und diskutiert &uuml;ber Pepper&amp;Carrot. Ich werde tags&uuml;ber (nach Europ&auml;ischer Zeit) da sein (mein Benutzername: deevad) <br/> 

@@ -136,7 +136,7 @@ $LANG = array(
     creative commons licencnek</a> köszönhetően Te is közreműködhetsz a Paprika&amp;Sárgarépában, számos módon:</p>
 ',
 'CONTRIBUTE_DONATION'		=> '
-    <h2>Pártfogás, adomány</h2> 
+    <h2>Pártfogás, adomány:</h2> 
     
     <p>A <a href="?static2/philosophy">Filozófia oldalon</a> részletesebben is leírtam majdnem mindent, amit a finanszírozásról tudni érdemes.<br/>
     Könnyű a Paprika&amp;Sárgarépa pártfogójává válni a <a href="https://www.patreon.com/davidrevoy">Patreon-on</a>, mindössze $1-ért epizódonként.<br/>
@@ -145,22 +145,30 @@ $LANG = array(
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Rajongói művek</h2>
+    
     <p>A Paprika&amp;Sárgarépa nyitott a rajongói művekre: rajzokra, forgatókönyvekre, szobrokra, 3D modellekre, fanfiction-re. Küldd el nekem (<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a>, vagy írj facebook-on, twitteren stb.), hogy megjelenhessen a rajongói galériában:</p>
 ',
 'CONTRIBUTE_DERIVATIONS' => '
-    <h2>Származtatott művek</h2>
+    <h2>Származtatott művek:</h2>
+    
     <p>A Paprika&amp;Sárgarépát számos projekthez és termékhez át lehet szabni. Készíts egyet, vagy csatlakozz egy meglévőhöz:</p>
 ',
 
-'CONTRIBUTE_BOTTOM'	    => '
-    <h2>Fordítások, javítások</h2>
+'CONTRIBUTE_TRANSLATION'	    => '
+    <h2>Fordítások, javítások:</h2>
     
     <p>A Paprika&amp;Sárgarépa weboldala készítése közben figyeltem, hogy könnyű legyen lefordítani, és bármely nyelvet elfogad (beleértve kihalt és kitalált nyelveket is). Az oldal forrása a rendelkezésedre áll, az ezzel kapcsolatos információért nézd meg a <a href="index.php?fr/article267/translation-tutorial">fordítói tutorial-t</a>.</p>
-    
-    <h2>Sajtó, Közösségi oldalak</h2> 
+',
+
+'CONTRIBUTE_SOCIAL'	    => 'Közösségi oldalak:',
+ 
+'CONTRIBUTE_PRESS'	    => '    
+    <h2>Sajtó:</h2> 
     
     <p>Legyél a Paprika&amp;Sárgarépa kiadója! Írj cikkeket, blogbejegyzéseket, oszd meg és építs közösséget a kedvenc közösségi oldaladon. A sajtóanyagot letöltheted a <a href="?static6/sources">forráskód</a> oldalról.</p>
-    
+',
+
+'CONTRIBUTE_OTHER'	    => '    
     <h2>Egyéb közreműködési ötletek...</h2>
     
     <p>Bárki közreműködhet, a teljesség igénye nélkül:<br/>
@@ -170,7 +178,9 @@ $LANG = array(
         <b>Újságíró: </b>  Írj a Paprika&amp;Sárgarépáról hagyományos médiában (nyomtatott sajtó, TV stb.)<br />
         <b>Nyomdász:</b>  Készíts posztereket, apróságokat Paprika&amp;Sárgarépával.<br />
     </p> 
-            
+',
+
+'CONTRIBUTE_IRC'	    => '            
     <h2>IRC csatorna</h2>
     
     <p>Chatelj és beszélgess a Paprika&amp;Sárgarépáról. Európai idő szerint napközben vagyok fenn (nick: deevad).<br/> 

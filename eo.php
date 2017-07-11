@@ -146,22 +146,30 @@ $LANG = array(
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Fanatikul-artaĵo</h2>
+    
     <p>Pipro kaj Karoĉjo estas malferma al fanatikul-artaĵo: desegnaĵoj, scenaroj, skulptaĵoj, 3-dimensiaj modeloj, rakontaĵoj. Bonvolu sendi ilin al mi (<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a>, aŭ sciigu min per interkonaj retejoj) por ke ili aperu en la galerio de fanatikul-artaĵo:</p>
 ',
 'CONTRIBUTE_DERIVATIONS' => '
     <h2>Idoj:</h2>
+    
     <p>Pipro kaj Karoĉjo povas esti adaptita al multe da projektoj kaj produktoj, kial ne fari vian propran aŭ aliĝi al ekzista?</p>
 ',
 
-'CONTRIBUTE_BOTTOM'	    => '
+'CONTRIBUTE_TRANSLATION'	    => '
     <h2>Tradukoj kaj korektoj</h2>
 
     <p>Retejo de Pipro kaj Karoĉjo estas projektita por esti plurlingva kaj akceptas iun ajn lingvon (eĉ mortintajn aŭ fikciajn). Fontoj de tiu ĉi retejo estas disponeblaj al vi por ilin traduki. Vidu la <a href="index.php?fr/article267/translation-tutorial">gvidilon</a> por pli da informoj pri kiel aldoni vian tradukon.</p>
+',
 
-    <h2>Gazetaro kaj interkonaj retejoj</h2>
+'CONTRIBUTE_SOCIAL'	    => 'Interkonaj retejoj:',
+ 
+'CONTRIBUTE_PRESS'	    => '
+    <h2>Gazetaro:</h2>
 
     <p>Estu eldoniston de Pipro kaj Karoĉjo! Skribu artikolojn, afiŝu en retejoj, kunhavigu kaj kreu la komunumon per viaj ŝatataj interkonaj retejoj. Vi povas elŝuti la <a href="?static6/sources" title="retpaĝo de fontoj">gazetaraĵon</a> sur retpaĝo de fontoj.</p>
+',
 
+'CONTRIBUTE_OTHER'	    => '
     <h2>Aliaj ideoj por kontribui&nbsp;.&nbsp;.&nbsp;.&nbsp;</h2>
 
     <p>Ĉiu povas kontribui en diversaj manieroj:<br/>
@@ -171,7 +179,9 @@ $LANG = array(
         <b>Ĵurnalistoj:</b> skribu pri Pipro kaj Karoĉjo per tradiciaj komunikiloj (presita gazetaro, televido, ktp.)<br/>
         <b>Presistoj:</b> presu fotoafiŝojn pri Pipro kaj Karoĉjo.<br/>
     </p>
+',
 
+'CONTRIBUTE_IRC'	    => '
     <h2>IRC kanalo:</h2>
 
     <p>Babilu kaj diskutu pri Pipro kaj Karoĉjo. Mi ĉeestos ĉirkaŭ tagaj horoj de eŭropa tempo (kaŝnomo:deevad).<br/>

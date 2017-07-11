@@ -153,15 +153,21 @@ $LANG = array(
     <p>Pepper&amp;Carrot může být přepracován do spousty dalších projektů a produktů, tak proč se k nějakému nepřipojit nebo dokonce nezačít vlastní?</p>
 ',
 
-'CONTRIBUTE_BOTTOM'	    => '
+'CONTRIBUTE_TRANSLATION'	    => '
     <h2>Překlady a korekce</h2>
 
     <p>Pepper&amp;Carrot je multijazyčný web, schopný přijmout jakýkoliv jazyk (včetně těch vymřelých nebo fiktivních). Zdroje potřebné k překladu jsou volně k dostání tady na stránkách. Pro víc informací si přečtěte <a href="index.php?fr/article267/translation-tutorial">návod pro překladatele</a>.</p>
+',
 
-    <h2>Tisk, sociální sítě</h2>
+'CONTRIBUTE_SOCIAL'	    => 'Sociální sítě:',
+ 
+'CONTRIBUTE_PRESS'	    => '
+    <h2>Tisk:</h2>
 
     <p>Staňte se vydavatelem Pepper&amp;Carrot! Pište články do novin nebo na weby, sdílejte a pomáhejte vytvořit komunitu na Vašich oblíbených sociálních sítích. <a href="?static6/sources" title="Sources page">Materiály pro tisk</a> si můžete stáhnout na stránce Zdrojů.</p>
+',
 
+'CONTRIBUTE_OTHER'	    => '
     <h2>Další možnosti, jak se podílet&nbsp;.&nbsp;.&nbsp;.&nbsp;</h2>
 
     <p>Každý se může zapojit jinak:<br/>
@@ -171,7 +177,9 @@ $LANG = array(
         <b>Novináři:</b> Napsat o Pepper&amp;Carrot v tradičních médiích (tištěné noviny, TV, atd.)<br/>
         <b>Tiskárny:</b> Vytisknout plakáty a další s motivem Pepper&amp;Carrot.<br/>
     </p>
+',
 
+'CONTRIBUTE_IRC'	    => '
     <h2>IRC kanál:</h2>
 
     <p>Chatujte a diskutujte o Pepper&amp;Carrot. Mě tam můžete zastihnout během dne v evropském času (přezdívka:deevad)<br/>

@@ -145,22 +145,30 @@ $LANG = array(
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Fan-art</h2>
+    
     <p> Hạt Tiêu&amp;Cà Rốt đã mở cho fan-arts: Vẽ, viết kịch bản, làm tượng, các mẫu 3D, fan-fiction. Hãy gửi cho tôi qua (<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a>) , hay liên lạc với tôi qua mạng xã hội) để có thể ở trong fan-art gallery:</p>
 ',
 'CONTRIBUTE_DERIVATIONS' => '
-    <h2> Các chỉnh sửa, sáng tạo:</h2>
+    <h2>Các chỉnh sửa, sáng tạo:</h2>
+    
     <p>Hạt Tiêu&amp;Cà Rốt sẽ chấp nhận những dự án hay sản phẩm, Tại sao bạn không thử làm hay tham gia một dự án nhỉ?</p>
 ',
 
-'CONTRIBUTE_BOTTOM'	    => '
+'CONTRIBUTE_TRANSLATION'	    => '
     <h2>Dịch và chỉnh sửa:</h2>
     
     <p> trang web Hạt Tiêu&amp;Cà Rốt được thiết kể với nhiều ngôn ngữ và chấp nhận mọi ngôn ngữ (kể cả những ngôn ngữ đã biến mất hay tưởng tượng ra). Nguồn của trang này được dịch tùy ý bạn. Xem <a href="index.php?fr/article267/translation-tutorial"> Hướng dẫn</a> để biết thêm thông tin cho việc dịch ngôn ngữ.</p>
-            
-    <h2>Báo chí, mạng xã hội</h2> 
+',
+
+'CONTRIBUTE_SOCIAL'	    => 'Mạng xã hội:',
+ 
+'CONTRIBUTE_PRESS'	    => '            
+    <h2>Báo chí:</h2> 
     
     <p>Hãy trở thành nhà xuất bản cho Hạt Tiêu&amp;Cà Rốt! Viết các bài viết, đăng lên website, chia sẻ và xây dựng cộng đồng trên các mạng xã hội ưa thích của bạn. bạn có thể tải về <a href="?static6/sources" title="Sources page">press kit</a> trên trang "Nguồn".</p>  
-    
+',
+
+'CONTRIBUTE_OTHER'	    => '    
     <h2> các ý tưởng đóng góp khác&nbsp;.&nbsp;.&nbsp;.&nbsp;</h2>
     
     <p> Mỗi người có cách đóng góp khác nhau: <br/>
@@ -170,7 +178,9 @@ $LANG = array(
         <b>Nhà báo: </b> Nói về Hạt Tiêu&amp;Cà Rốt trên các phương tiện truyện thông (báo mạng, tv, etc.)<br />
         <b>Thợ in:</b> in áp phíc hay bản vẽ về Hạt Tiêu&amp;Cà Rốt.<br />
     </p> 
-            
+',
+
+'CONTRIBUTE_IRC'	    => '            
     <h2> Kênh IRC:</h2>
     
     <p> Hãy cùng bàn luận về Hạt Tiêu&amp;Cà Rốt. Tôi sẽ có mặt vào ban ngày vói múi giờ châu âu (nickname:deevad) <br/> 

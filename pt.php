@@ -144,21 +144,30 @@ $LANG = array(
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Fan-art</h2>
+    
     <p> Pepper&amp;Carrot está disponível para fan-arts: Desenhos, cenarios, esculturas, modelos 3D, histórias (fan-fiction). Envie para mim (<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a>, ou me cutuque nas redes sociais) para aparecer na galeria de fan-art:</p>
 ',
 'CONTRIBUTE_DERIVATIONS' => '
+    <h2>Adaptação</h2>
+    
     <p>Pepper&amp;Carrot pode ser adaptado para muitos projetos ou produtos, e por que não criar o seu próprio projeto ou se juntar a algum outro ?</p>
 ',
 
-'CONTRIBUTE_BOTTOM'	    => '
+'CONTRIBUTE_TRANSLATION'	    => '
     <h2>Traduções e correções:</h2>
     
     <p> O site Pepper&amp;Carrot foi projetado para funcionar com vários idiomas e aceitar qualquer língua (incluindo línguas extintas ou fictícias). O arquivo fonte dessa página está a sua disposição para ser traduzido. De uma olhada no <a href="index.php?fr/article267/translation-tutorial">tutorial de referência</a> para mais informações sobre como acrescentar sua tradução.</p>
-            
-    <h2>Imprensa, redes sociais</h2> 
+',
+
+'CONTRIBUTE_SOCIAL'	    => 'Redes sociais:',
+ 
+'CONTRIBUTE_PRESS'	    => '                 
+    <h2>Imprensa:</h2> 
     
     <p>Publique Pepper&amp;Carrot! Escreva artigos, crie posts em websites, compartilhe e crie uma comunidade em sua rede social favorita. Você pode baixar o <a href="?static6/sources" title="Sources page">kit de imprensa</a> na página "Source".</p>  
-    
+',
+
+'CONTRIBUTE_OTHER'	    => '    
     <h2> Outras ideias para contribuições ...</h2>
     
     <p> Cada um pode contribuir de uma maneira diferente: <br/>
@@ -168,7 +177,9 @@ $LANG = array(
         <b>Jornalista: </b> Noticiar sobre Pepper&amp;Carrot na mídia tradicional (jornal, TV, etc...)<br />
         <b>Gráfica:</b> Imprimir posters ou outras coisas com Pepper&amp;Carrot neles.<br />
     </p> 
-            
+',
+
+'CONTRIBUTE_IRC'	    => '            
     <h2> Canal do IRC:</h2>
     
     <p>Converse sobre Pepper&amp;Carrot. Eu estarei por ai durante o dia no fuso europeu (apelido:deevad) <br/> 

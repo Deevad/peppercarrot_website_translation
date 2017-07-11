@@ -144,22 +144,30 @@ $LANG = array(
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>Fan-art</h2>
+    
     <p> Digor eo Pepper&amp;Carrot d\'ar fan-art : tresadenno&ugrave;, istorio&ugrave;, kizellerezh, patromo&ugrave; 3D, fan-faltazi. Kasit anezho din  (<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a> , pe kasit din ur gerig war ar rouedado&ugrave; kevredadel) din da ziskouez ho labour er skeudennaoueg fan-art.
 ',
 'CONTRIBUTE_DERIVATIONS' => '
     <h2> Deverado&ugrave; :</h2>
+    
     <p>Gallout a ra Pepper&amp;Carrot beza&ntilde; azasaet er raktreso&ugrave; pe produio&ugrave;, tu zo deoc\'h kroui&ntilde; ho hini pe mont gant unan a zo anezha&ntilde; dija ?</p>
 ',
 
-'CONTRIBUTE_BOTTOM'	    => '
+'CONTRIBUTE_TRANSLATION'	    => '
     <h2>Troidigezhio&ugrave; ha reizhadenno&ugrave; :</h2>
 
     <p> Savet eo lec\'hienn Pepper&amp;Carrot evit beza&ntilde; liesyezhek hag aotren forzh peseurt yezh (reo&ugrave; varv ha reo&ugrave; faltaziek en o zouez). Mammenno&ugrave; ar bajenn a zo roet deoc\'h evit ma c\'hallfec\'h trei&ntilde; anezhi. Lennit ar <a href="index.php?fr/article267/translation-tutorial">c\'helennskrid dave</a> evit kaout muioc\'h a ditouro&ugrave; diwar-benn an doare da ouzhpenna&ntilde; ho troidigezh.</p>
+',
 
-    <h2>Kazetenno&ugrave;, rouedado&ugrave; kevredadel</h2>
+'CONTRIBUTE_SOCIAL'	    => 'Rouedado&ugrave; kevredadel;',
+ 
+'CONTRIBUTE_PRESS'	    => '
+    <h2>Kazetenno&ugrave;</h2>
 
     <p>Embannit Pepper&amp;Carrot ! Skrivit pennado&ugrave;, krouit posto&ugrave; war lec\'hienno&ugrave;, rannit, savit ur gumuniezh war ho rouedado&ugrave; kevredadel kareta&ntilde;. Gallout a rit pellgarga&ntilde; ar <a href="?static6/sources" title="pajenn mammenno&ugrave;">c\'h/kit kazetenn</a> war ar bajenn "mammenno&ugrave;".</p>
+',
 
+'CONTRIBUTE_OTHER'	    => '
     <h2>Mennozhio&ugrave; all evit kemer perzh&nbsp;.&nbsp;.&nbsp;.&nbsp;</h2>
 
     <p> An holl a c\'hall kemer perzh e doareo&ugrave; dishe&ntilde;vel :<br/>
@@ -169,7 +177,9 @@ $LANG = array(
         <b>Kazetennerien : </b> Titourit diwar-benn Pepper&amp;Carrot er media boutin (kazetenno&ugrave; paper, skinwel, h.a.)<br />
         <b>Moullerien :</b> Moullit skritello&ugrave; ha dafar a bep seurt gant Pepper&amp;Carrot warne.<br />
     </p>
+',
 
+'CONTRIBUTE_IRC'	    => '
     <h2> Sanell IRC:</h2>
 
     <p> Kaozeit ha divizit diwar-benn Pepper&amp;Carrot. Tremen a rin d\'an eurio&ugrave; European (lesanv : deevad) <br/>

@@ -147,24 +147,32 @@ $LANG = array(
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>粉丝作品</h2>
+    
     <p>小辣椒与萝卜头接受各种形式的粉丝作品：绘画，脚本，雕塑，3D，文学作品等等……您都可以发给我，我超级喜欢：
     <br/>（<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a>，或者在社交网络上提及我）。</p>
 ',
 'CONTRIBUTE_DERIVATIONS' => '
     <h2>周边产品</h2>
+    
     <p>小辣椒与萝卜头可以被用来创作各种周边产品或项目（甚至是商业项目），为什么您不也来试试呢？<br/>
     看看这里展示的有关漫画的周边产品的成品吧。</p>
 ',
 
-'CONTRIBUTE_BOTTOM'	    => '
+'CONTRIBUTE_TRANSLATION'	    => '
     <h2>翻译与校对</h2>
     
     <p>小辣椒与萝卜头网站为多语言设计（甚至是虚拟语言或者绝迹的语言）。网页的源文件为任何翻译者或校对者开放。在<a href="index.php?fr/article267/translation-tutorial">教程</a>页面里可以找到如何添加新语言以及如何优化已有翻译文本等详细信息。</p>
-            
-    <h2>社交网络及出版物</h2> 
+',
+
+'CONTRIBUTE_SOCIAL'	    => '社交网',
+ 
+'CONTRIBUTE_PRESS'	    => '            
+    <h2>出版物：</h2> 
     
     <p>成为小辣椒与萝卜头的出版商，发表有关的商业文章，分享网页，建立您本人的社区团体。您可以在“源文件”页面内找到zip压缩格式的文档，包括高分辨率的logo和绘图文件。文件归类整理在<a href="?static6/sources" title="Sources page">出版工具</a>下。</p>  
-    
+',
+
+'CONTRIBUTE_OTHER'	    => '    
     <h2>其它参与方式</h2>
     
     <p>众人拾柴火焰高：<br/>
@@ -174,7 +182,9 @@ $LANG = array(
         <b>记者：</b>在传统发行物（报刊，电视等）上报道小辣椒与萝卜头的相关信息。<br />
         <b>印刷商：</b>印制小辣椒与萝卜头主题海报或周边。<br />
     </p> 
-            
+',
+
+'CONTRIBUTE_IRC'	    => '            
     <h2>交流频道</h2>
     
     <p>Freenode服务器中有一个英语环境的IRC（*Internet Chat Relay）交流频道，叫#pepper&carrot。这个频道是专门供您用以讨论和小辣椒与萝卜头有关的内容的。我（昵称：deevad）经常去关注频道里的讨论话题。以下链接可以直接在您的浏览器里打开，而不需要安装任何插件。<br/> 

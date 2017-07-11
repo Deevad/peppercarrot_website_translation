@@ -152,15 +152,21 @@ $LANG = array(
     <p>Pepper&amp;Carrot dapat diadaptasikan untuk banyak proyek maupun produk, apakah Anda tertarik untuk membuatnya?</p>
 ',
 
-'CONTRIBUTE_BOTTOM'	    => '
+'CONTRIBUTE_TRANSLATION'	    => '
     <h2>Penerjemahan dan koreksi:</h2>
     
     <p>Situs Pepper&amp;Carrot dibuat untuk mendukung semua bahasa (termasuk bahasa yang sudah langka, atau fiktif). Kunjungi <a href="index.php?fr/article267/translation-tutorial">halaman tutorial</a> untuk informasi lengkap mengenai bagaimana cara menambahkan terjemahan maupun melakukan koreksi.</p>
-            
-    <h2>Pers, media sosial</h2> 
+',
+
+'CONTRIBUTE_SOCIAL'	    => 'Media sosial:',
+ 
+'CONTRIBUTE_PRESS'	    => '            
+    <h2>Pers:</h2> 
     
     <p>Jadilah orang yang membantu Pepper&amp;Carrot! Menulis artikel, membuat situs, bangun sebuah komunitas di media sosial. Anda dapat mengunduh <a href="?static6/sources" title="halaman Sumber">peralatan pers</a> di halaman "sumber".</p>  
-    
+',
+
+'CONTRIBUTE_OTHER'	    => '    
     <h2> Ide lain&nbsp;.&nbsp;.&nbsp;.&nbsp;</h2>
     
     <p> Semua orang dapat berkontribusi dengan cara lain: <br/>
@@ -170,7 +176,9 @@ $LANG = array(
         <b>Wartawan: </b> memberitakan Pepper&amp;Carrot di media (cetak, televisi, internet, dsb.)<br />
         <b>Cetak:</b> cetak poster atau cendera mata Pepper&amp;Carrot.<br />
     </p> 
-            
+',
+
+'CONTRIBUTE_IRC'	    => '            
     <h2> IRC:</h2>
     
     <p> Diskusikan tentang Pepper&amp;Carrot. Saya akan ada di sana saat hari kerja waktu Eropa (nama pengguna: deevad) <br/> 

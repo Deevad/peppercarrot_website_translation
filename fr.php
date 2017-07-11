@@ -156,15 +156,21 @@ $LANG = array(
     </p>
 ',
 
-'CONTRIBUTE_BOTTOM'	    => '
+'CONTRIBUTE_TRANSLATION'	    => '
     <h2>Traductions et corrections</h2>
     
     <p>Le site internet de Pepper&amp;Carrot est conçu pour accepter toutes les langues (même fictives et éteintes). Les sources de cette page sont à votre disposition pour la correction et la traduction. Visitez le <a href="index.php?fr/article267/translation-tutorial">tutoriel</a> pour plus d\'informations sur l\'ajout d\'une nouvelle traduction ou la proposition d\'une amélioration.</p>
-            
-    <h2>Réseaux sociaux et presse</h2> 
+',
+
+'CONTRIBUTE_SOCIAL'	    => 'Réseaux sociaux:',
+ 
+'CONTRIBUTE_PRESS'	    => '            
+    <h2>Presse:</h2> 
     
     <p>Devenez l\'éditeur de Pepper&amp;Carrot, écrivez des articles, partagez les pages, et construisez votre propre communauté. Des fichiers archives au format zip sont à votre disposition dans les Sources avec logos et dessins en haute-définition. Ils sont classés sous la catégorie <a href="?static6/sources" title="Sources page">Press Kit</a>.</p>  
-    
+',
+
+'CONTRIBUTE_OTHER'	    => '    
     <h2>Autres idées de participations</h2>
     
     <p>Tout le monde peut apporter sa pierre à l\'édifice : <br/>
@@ -174,7 +180,9 @@ $LANG = array(
         <b>Journalistes: </b> Informations à propos du projet Pepper&amp;Carrot dans les médias traditionnels (presse écrite, télévision, etc.)<br />
         <b>Imprimeurs :</b> Impression de posters ou de petits objets sur le thème de Pepper&amp;Carrot.<br />
     </p> 
-            
+',
+
+'CONTRIBUTE_IRC'	    => '            
     <h2>Canal de discussion</h2>
     
     <p>Un canal de discussion IRC (* Internet Chat Relay) existe en anglais sur le serveur Freenode, nommé #pepper&carrot. Ce canal est à votre disposition pour discuter au sujet de Pepper&amp;Carrot. J\'y suis connecté fréquement (pseudo: deevad). Le lien ci-dessous fonctionnera dans votre navigateur internet sans besoin d\'installer quoi que ce soit.<br/> 

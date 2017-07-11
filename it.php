@@ -135,17 +135,24 @@ $LANG = array(
 ',
 'CONTRIBUTE_DERIVATIONS' => '
     <h2> Adattamenti:</h2>
+    
     <p>Il progetto Pepper&amp;Carrot si presta ad essere adattato in molti modi. Perch&#233; non provate a crearne un vostro adattamento oppure ad unirvi ad uno gi&#224; esistente?</p>
 ',
-'CONTRIBUTE_BOTTOM'	    => '
+'CONTRIBUTE_TRANSLATION'	    => '
     <h2>Traduzioni e correzioni:</h2>
     
     <p> Il sito web di Pepper&amp;Carrot &#232; progettato per essere multilingua ed accetta qualsiasi lingua (incluse quelle estinte oppure inventate). Il sorgente di questa pagina &#232; a vostra disposizione per la traduzione. Controllate il <a href="index.php?fr/article267/translation-tutorial">tutorial di riferimento</a> per aver maggiori informazioni su come aggiungere la vostra traduzione.</p>
-            
-    <h2>Stampa e Social networks</h2> 
+',
+
+'CONTRIBUTE_SOCIAL'	    => 'Social networks:',
+ 
+'CONTRIBUTE_PRESS'	    => '            
+    <h2>Stampa:</h2> 
     
     <p>Diventate l&#39;editore di Pepper&amp;Carrot! Scivete articoli, create dei posts su siti web, condividete e costruite una community sul vosto social network preferito. Potrete scaricare il <a href="?static6/sources" title="pagina dei sorgenti">press kit</a> dalla pagina "Sorgenti".</p>  
-    
+',
+
+'CONTRIBUTE_OTHER'	    => '    
     <h2> Altri contributi&nbsp;.&nbsp;.&nbsp;.&nbsp;</h2>
     
     <p> Chiunque pu&#242; contribuire in diversi modi: <br/>
@@ -155,7 +162,9 @@ $LANG = array(
         <b>Giornalisti: </b> far conoscere Pepper&amp;Carrot tramite i mezzi di comunicazione tradizionali (stampa, TV, etc.)<br />
         <b>Tipografi:</b> stampa di poster oppure di gadgets sul tema Pepper&amp;Carrot.<br />
     </p> 
-            
+',
+
+'CONTRIBUTE_IRC'	    => '            
     <h2> Canale IRC:</h2>
     
     <p> &#200; disponibile un canale di discussione in lingua inglese su IRC (* Internet Chat Relay) sul server Freenode, chiamato #pepper&carrot. &#200; a vostra disposizione per poter discuttere su Pepper&Carrot. Mi collego frequentemente (pseudonimo: deevad). Il collegamento presente sotto vi permetter&#224; di entrare tramite il vostro browser internet senza la necessit&#224; di installare alcun altro programma.<br/> 
