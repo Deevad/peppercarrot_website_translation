@@ -21,6 +21,8 @@ $LANG = array(
 'BLOG'          =>  'Blog',
 'PHILOSOPHY'    =>  'Preder',
 'CONTRIBUTE'    =>  'Kemer perzh',
+'COMMUNITY'     =>  'Gumuniezh',
+'WIKI'          =>  'Wiki',
 'SOURCES'       =>  'Mammenno&ugrave;',
 'AUTHOR'        =>  'Oberour',
 'FOLLOW'        =>  'Heulia&ntilde; Pepper&amp;Carrot war :',
@@ -222,10 +224,6 @@ $LANG = array(
 
 'AUTHOR_CARREER_TITLE'				 => 'Va red-micher e 7 klogorenn :',
 'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS' => '<p></p>',
-
-################################################################################
-# Page: Wiki
-'WIKI'		=> 'Wiki',
 
 ################################################################################
 # Website General: Footer

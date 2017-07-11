@@ -18,9 +18,11 @@ $LANG = array(
 # Top menu website:
 'HOMEPAGE'      =>  '主页面',
 'WEBCOMICS'     =>  '网络漫画',
-'BLOG'          =>  'Blog',
+'BLOG'          =>  '網誌',
 'PHILOSOPHY'    =>  '理念',
 'CONTRIBUTE'    =>  '贡献者',
+'COMMUNITY'     =>  '群体',
+'WIKI'          =>  'Wiki',
 'SOURCES'       =>  '源文件',
 'AUTHOR'        =>  '作者',
 'FOLLOW'        =>  '小辣椒与萝卜头的社交足迹：',
@@ -51,7 +53,7 @@ $LANG = array(
 ################################################################################
 # Page : Webcomics
 'WEBCOMIC_EPISODE'		    =>  '漫画集',
-'WEBCOMIC_MAKINGOF'		    =>  '制作过程Making-of',
+'WEBCOMIC_MAKINGOF'		    =>  '制作过程',
 'WEBCOMIC_MAKINGOF_DESCRIPTION' =>  '
     <p>制作过程和<a href="http://www.davidrevoy.com/categorie5/tutorials">美工教程</a>的项目基金是由赞助者额外给予的。具体请参见<a href="https://www.patreon.com/davidrevoy">Patreons网站</a></p>
 ',
@@ -226,10 +228,6 @@ $LANG = array(
 
 'AUTHOR_CARREER_TITLE'				    => '7个泡泡讲述我的经历：',
 'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS'    => '<p>(图片内容为英语，无翻译)</p>',
-
-################################################################################
-# Page: Wiki
-'WIKI'		=> '维基',
 
 ################################################################################
 # Website General : Footer

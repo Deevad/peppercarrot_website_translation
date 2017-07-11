@@ -21,6 +21,8 @@ $LANG = array(
 'BLOG'          =>  'Taglibro',
 'PHILOSOPHY'    =>  'Filozofio',
 'CONTRIBUTE'    =>  'Kontribui',
+'COMMUNITY'     =>  'Komunumo',
+'WIKI'          =>  'Wikio',
 'SOURCES'       =>  'Fontoj',
 'AUTHOR'        =>  'Aŭtoro',
 'FOLLOW'        =>  'Sekvi Pipron kaj Karoĉjon je:',
@@ -224,10 +226,6 @@ $LANG = array(
 
 'AUTHOR_CARREER_TITLE'				 => 'Mia kariero en 7 vezikoj:',
 'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS' => '<p></p>',
-
-################################################################################
-# Page: Wiki
-'WIKI'		=> 'Vikio',
 
 ################################################################################
 # Website General: Footer

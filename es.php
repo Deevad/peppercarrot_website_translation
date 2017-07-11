@@ -21,6 +21,8 @@ $LANG = array(
 'BLOG'          =>  'Blog',
 'PHILOSOPHY'    =>  'Filosofía',
 'CONTRIBUTE'    =>  'Contribuir',
+'COMMUNITY'     =>  'Comunidad',
+'WIKI'          =>  'Wiki',
 'SOURCES'       =>  'Fuentes',
 'AUTHOR'        =>  'Autor',
 'FOLLOW'        =>  'Sigue a Pepper&amp;Carrot en:',
@@ -223,10 +225,6 @@ $LANG = array(
 
 'AUTHOR_CARREER_TITLE'				 => 'mi carrera en 7 burbujas:',
 'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS' => '<p></p>',
-
-################################################################################
-# Page: Wiki
-'WIKI'		=> 'Wiki',
 
 ################################################################################
 # Website General: Footer

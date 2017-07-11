@@ -21,6 +21,8 @@ $LANG = array(
 'BLOG'          =>  'Blog',
 'PHILOSOPHY'    =>  'Filosofie',
 'CONTRIBUTE'    =>  'Bijdragen',
+'COMMUNITY'     =>  'Samenleving',
+'WIKI'          =>  'Wiki',
 'SOURCES'       =>  'Bronnen',
 'AUTHOR'        =>  'Auteur',
 'FOLLOW'        =>  'Volg Pepper&amp;Carrot op:',
@@ -225,10 +227,6 @@ $LANG = array(
 
 'AUTHOR_CARREER_TITLE'				 => 'mijn carrière in 7 bubbels:',
 'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS' => '<p></p>',
-
-################################################################################
-# Page: Wiki
-'WIKI'		=> 'Wiki',
 
 ################################################################################
 # Website General : Footer

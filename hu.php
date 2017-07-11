@@ -21,6 +21,8 @@ $LANG = array(
 'BLOG'          =>  'Blog',
 'PHILOSOPHY'    =>  'Filozófia',
 'CONTRIBUTE'    =>  'Közreműködés',
+'COMMUNITY'     =>  'Közösség',
+'WIKI'          =>  'Wiki',
 'SOURCES'       =>  'Forráskód',
 'AUTHOR'        =>  'Szerző',
 'FOLLOW'        =>  'Kövesd a Paprika&amp;Sárgarépát (angolul) az alábbi csatornákon:',
@@ -243,10 +245,6 @@ $LANG = array(
     
     <p>"Alice in Wonderland" (Alice csodaországban): első 2D CG díjam, 100%-ig nyílt forráskődú szoftverrel</p>
 ',
-
-################################################################################
-# Page: Wiki
-'WIKI'		=> 'Wiki',
 
 ################################################################################
 # Website General: Footer

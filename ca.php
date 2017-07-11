@@ -21,6 +21,8 @@ $LANG = array(
 'BLOG'          =>  'Bloc',
 'PHILOSOPHY'    =>  'Filosofia',
 'CONTRIBUTE'    =>  'Contribueix-hi',
+'COMMUNITY'     =>  'Comunitat',
+'WIKI'          =>  'Wiki',
 'SOURCES'       =>  'Fonts',
 'AUTHOR'        =>  'Autor',
 'FOLLOW'        =>  'Segueix Pepper&amp;Carrot a:',
@@ -223,10 +225,6 @@ $LANG = array(
 
 'AUTHOR_CARREER_TITLE'				 => 'la meva carrera en 7 bombolles:',
 'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS' => '<p></p>',
-
-################################################################################
-# Page: Wiki
-'WIKI'		=> 'Wiki',
 
 ################################################################################
 # Website General: Footer

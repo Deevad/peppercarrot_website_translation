@@ -21,6 +21,8 @@ $LANG = array(
 'BLOG'          =>  'Blog',
 'PHILOSOPHY'    =>  'Perihal',
 'CONTRIBUTE'    =>  'Berkontribusi',
+'COMMUNITY'     =>  'Komunitas',
+'WIKI'          =>  'Wiki',
 'SOURCES'       =>  'Sumber',
 'AUTHOR'        =>  'Pengarang',
 'FOLLOW'        =>  'Ikuti Pepper&amp;Carrot di:',
@@ -223,10 +225,6 @@ $LANG = array(
 
 'AUTHOR_CARREER_TITLE'				 => 'yang saya kerjakan:',
 'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS' => '<p></p>',
-
-################################################################################
-# Page: Wiki
-'WIKI'		=> 'Wiki',
 
 ################################################################################
 # Website General: Footer

@@ -21,6 +21,8 @@ $LANG = array(
 'BLOG'          =>  'Блог',
 'PHILOSOPHY'    =>  'Философия',
 'CONTRIBUTE'    =>  'Принять участие',
+'COMMUNITY'     =>  'Сообщество',
+'WIKI'          =>  'Вики',
 'SOURCES'       =>  'Исходники',
 'AUTHOR'        =>  'Об авторе',
 'FOLLOW'        =>  'Pepper&amp;Carrot в Сети:',
@@ -223,11 +225,6 @@ $LANG = array(
 
 'AUTHOR_CARREER_TITLE'				 => 'описание моей карьеры в семи кругах:',
 'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS' => '<p></p>',
-
-
-################################################################################
-# Page: Wiki
-'WIKI'		=> 'Wiki',
 
 ################################################################################
 # Website General: Footer

@@ -21,6 +21,8 @@ $LANG = array(
 'BLOG'          =>  'Blog',
 'PHILOSOPHY'    =>  'Philosophy',
 'CONTRIBUTE'    =>  'Mở rộng',
+'COMMUNITY'     =>  'Cộng đồng',
+'WIKI'          =>  'Wiki',
 'SOURCES'       =>  'Nguồn',
 'AUTHOR'        =>  'Tác Giả',
 'FOLLOW'        =>  'Follow Pepper&amp;Carrot on:',
@@ -223,11 +225,6 @@ $LANG = array(
 
 'AUTHOR_CARREER_TITLE'				 => 'Sự nghiệp của tôi gói gọn trong 7 bước:',
 'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS' => '<p></p>',
-
-
-################################################################################
-# Page: Wiki
-'WIKI'		=> 'Wiki',
 
 ################################################################################
 # Website General: Footer

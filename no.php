@@ -21,6 +21,8 @@ $LANG = array(
 'BLOG'          =>  'Blogg',
 'PHILOSOPHY'    =>  'Filosofi',
 'CONTRIBUTE'    =>  'Bidra',
+'COMMUNITY'     =>  'Gemeinschaft',
+'WIKI'          =>  'Wiki',
 'SOURCES'       =>  'Kildefiler',
 'AUTHOR'        =>  'Forfatter',
 'FOLLOW'        =>  'F&oslash;lg Pepper&amp;Gulrot p&aring;:',
@@ -235,10 +237,6 @@ $LANG = array(
 
 'AUTHOR_CARREER_TITLE'				 => 'min karriere i 7 tegneseriebobler:',
 'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS' => '<p></p>',
-
-################################################################################
-# Page: Wiki
-'WIKI'		=> 'Wiki',
 
 ################################################################################
 # Website General: Footer

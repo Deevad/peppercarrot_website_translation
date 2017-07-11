@@ -21,6 +21,8 @@ $LANG = array(
 'BLOG'          =>  'Blog',
 'PHILOSOPHY'    =>  'Philosophie',
 'CONTRIBUTE'    =>  'Mitmachen',
+'COMMUNITY'     =>  'Gemeinschaft',
+'WIKI'          =>  'Wiki',
 'SOURCES'       =>  'Quellen',
 'AUTHOR'        =>  'Autor',
 'FOLLOW'        =>  'Folge Pepper&amp;Carrot auf:',
@@ -225,10 +227,6 @@ $LANG = array(
 
 'AUTHOR_CARREER_TITLE'				 => 'Meine Karriere in 7 Sprechblasen:',
 'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS' => '<p></p>',
-
-################################################################################
-# Page: Wiki
-'WIKI'		=> 'Wiki',
 
 ################################################################################
 # Website General : Footer
