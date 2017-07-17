@@ -76,8 +76,7 @@ $LANG = array(
     
 ',    
 'PHILOSOPHY_BOTTOM'    =>  '
-            <img alt="Illustration représentant le mécénat moderne" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
-        </a>
+    <img alt="illustration representing patronage" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
 
     <h2>100% 무료, 영원히, 과금장벽 없음</h2>
     
@@ -90,10 +89,9 @@ $LANG = array(
     <h2>오픈소스와 허용범위</h2>
     
     <p>저는 모든 사람들에게 제 작품을 공유하고, 사용하고, 만들고 심지어 돈을 벌 수 있는 권리를 주고 싶습니다.<br/>
-    모든 페이지, 삽화 및 내용은 Gnu/Linux 의 무료 오픈소스 소프트웨어로 제작되었고, 모든 소스는 이 웹사이트의 '소스'탭에 있습니다.<br/>
+    모든 페이지, 삽화 및 내용은 Gnu/Linux 의 무료 오픈소스 소프트웨어로 제작되었고, 모든 소스는 이 웹사이트의 &#39;소스&#39;탭에 있습니다.<br/>
     상업적 사용, 번역, 팬아트, 인쇄, 영화, 비디오게임, 공유 그리고 재게시를 권장합니다.<br/>
-    당신은 단지 저작자(아티스트, 교정가, 번역가, 당신이 사용하려는 아트워크의 번역자)에게 적절한 크레딧을 주고 라이선스에 대한<br/>
-    링크를 제공하고 변경사항여부만 나타내면 됩니다. 당신은 합리적으로 예의를 갖춰 그렇게 해도 되지만, 다만 그것이 저작가들이 당신이 어떻게 사용하던지 지지한다는 것을 의미하지는 않습니다.</p>
+    당신은 단지 저작자(아티스트, 교정가, 번역가, 당신이 사용하려는 아트워크의 번역자)에게 적절한 크레딧을 주고 라이선스에 대한 링크를 제공하고 변경사항여부만 나타내면 됩니다. 당신은 합리적으로 예의를 갖춰 그렇게 해도 되지만, 다만 그것이 저작자들이 당신이 어떻게 사용하던지 지지한다는 것을 의미하지는 않습니다.</p>
     
     <div class="philobutton">
         <a href="https://creativecommons.org/licenses/by/4.0/deed.zh" title="자세한 정보를 원하시면, Creative Commons Attribution 4.0 을 읽어주세요">
@@ -107,8 +105,7 @@ $LANG = array(
     
     <p>후추&amp;당근은 전 연령층을 위한 코미디/유머 웹툰입니다.<br/>
     성인용 컨텐츠는 없으며, 폭력 또한 없습니다. 자유로운 오픈소스인 후추&amp;당근은 오픈소스문화가 얼마나 멋진지를 잘 보여주는 사례중 하나 입니다.<br/>
-    무료 및 오픈소스가 아마추어나 썩 좋지 못하다는 것을 의미하지는 않기 때문에 저는 품질에 초점을 맞추고 있습니다.<br/>
-    전혀 다른것이죠!</p>
+    무료 및 오픈소스가 아마추어나 썩 좋지 못하다는 것을 의미하지는 않기 때문에 저는 품질에 초점을 맞추고 있습니다. 전혀 다른것이죠!</p>
 
         <img alt="Illustration pour tous" src="data/images/static/2015-02-09_philosophy_05-everyone.jpg">
 
@@ -118,8 +115,14 @@ $LANG = array(
     발행인/배급사/마케팅/상점은 저에게 후추&amp;당근을 그들이 시장을 바라보는 시선으로 바꿀 수 없습니다.<br/>
     어째서 하나의 성공이 전체산업을 위협하는 신호가 될 수 없을까요? 우리 한번 해봅시다!</p>
     
-    
+
         <img alt="Illustration: comic book industry VS patreon support" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
+   
+    <div class="philobutton">
+        <a class="h4" href="https://www.patreon.com/davidrevoy" title="회차당 단돈 $1로, 후추&amp;당근의 새 후원자가 되어주세요">
+            help me boost Pepper&amp;Carrot production today.
+        </a>
+    </div>
 
     <p>읽어주셔서 감사합니다!<br/>
     David Revoy</p>
@@ -136,32 +139,39 @@ $LANG = array(
 'CONTRIBUTE_DONATION'		=> '           
     <h2>후원 및 기부</h2> 
     
-    <p>저는 <a href="?static2/philosophy" title="Philosophie">철학</a>페이지에서 후원과 관련된 모든것을 설명하고 있습니다.<br/>
-    후추&amp;당근을 매 회차당 단돈 1$로 후원하는 방법은 매우 쉽습니다. <a href="https://www.patreon.com/davidrevoy">Patreon페이지</a><br/>
+    <p>저는 <a href="?static2/philosophy" title="Philosophie">철학</a>페이지에서 후원과 관련된 거의 모든것을 설명하고 있습니다.<br/>
+    <a href="https://www.patreon.com/davidrevoy">Patreon</a>에서 후추&amp;당근을 매 회차당 단돈 1$로 쉽게 후원하실 수 있습니다.<br/>
     Patreon에서는 전 세계의 신용카드를 모두 사용할 수 있으며 Paypal계정으로도 결제할 수 있습니다.<br/>
     </p>
 ',
 'CONTRIBUTE_FANART'	    => '
     <h2>팬아트</h2>
-    <p>후추&amp;당근은 팬아트에게 열려있습니다：이모티콘, 대본，팬픽, 3D모델링 등...저에게 보내주세요：
-    <br/>（<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a>，혹은 제 SNS를 통해 말해주세요), 그러면 팬아트갤러리에 게시해 드릴 수 있습니다.:</p>
+
+    <p>후추&amp;당근은 팬아트에게 열려있습니다：이모티콘, 대본，팬픽, 3D모델링 등...저에게 보내주세요 : (<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a>，혹은 제 SNS를 통해 말해주세요), 그러면 팬아트갤러리에 게시해 드릴 수 있습니다:</p>
 ',
 'CONTRIBUTE_DERIVATIONS' => '
     <h2>2차 창작물</h2>
+
     <p>후추&amp;당근은 많은 부가상품을 만들어 내는것을 허락합니다. 왜 이런 재밌는 일에 참여하지 않는거죠?</p>
 ',
+
 'CONTRIBUTE_TRANSLATION'	    => '
     <h2>번역 및 수정</h2>
+
     <p>후추&amp;당근 웹사이트는 다국어로 되어 있으며, 모든언어(사멸어 혹은 가상어, 인공어포함)를 허용합니다. 이 페이지의 출처는 번역할 수 있습니다. 번역 추가 방법에 대한 자세한 내용은<a href="index.php?fr/article267/translation-tutorial">참조 안내서</a>를 확인하세요.</p>
 ',
+
 'CONTRIBUTE_SOCIAL'	    => '소셜네트워크:',
  
 'CONTRIBUTE_PRESS'	    => '
     <h2>출판:</h2>
+
     <p>후추&당근의 발행인이 되어주세요! 기사를 작성하고, 웹사이트에 게시물을 올리고, 당신이 좋아하는 SNS에서 커뮤니티를 구축하고 내용을 공유하세요. <a href="?static6/sources" title="Sources page">보도자료</a>들은 "소스파일" 탭에서 받으실 수 있습니다..</p>
 ',
+
 'CONTRIBUTE_OTHER'	    => '
     <h2>기타 다른 후원방법들&nbsp;.&nbsp;.&nbsp;.&nbsp;</h2>
+
     <p>이 외에 여러 방법으로 후원하실 수 있습니다:<br/>
         <b>개발자:</b> 후추&amp;당근을 휴대기기에서 읽을 수 있는 어플리케이션을 만듭니다.<br/>
         <b>음악가:</b> 후추&amp;당근을 위한 음악테마를 만듭니다.<br/>
@@ -170,11 +180,12 @@ $LANG = array(
         <b>인쇄업:</b> 후추&amp;당근의 포스터나 굿즈를 인쇄하세요.<br/>
     </p>
 ',
+
 'CONTRIBUTE_IRC'	    => '
     <h2>IRC 채널:</h2>
+
     <p>후추&amp;당근에 대해 이야기하고, 토론하세요. 저는 유럽 낮시간대에 종종 참여할 것입니다.(닉네임:deevad)<br/>
 ',
-
 
 ################################################################################
 # Page : Sources
@@ -185,7 +196,8 @@ $LANG = array(
     모든 디지털 그림파일은 최신버전의 <a href="https://krita.org/">Krita</a>와 호환됩니다.</p>
 ',
 'SOURCES_BOTTOM'	=> '
-    <p>이 파일들을 다운로드하고 사용함으로써 당신은<a href="http://creativecommons.org/licenses/by/4.0/deed.zh">Commons Attribution</a>을 동의하고 준수해야 합니다.<br/>
+    <p>이 파일들을 다운로드하고 사용함으로써 당신은<br/>
+    <a href="http://creativecommons.org/licenses/by/4.0/deed.zh">크리에이티브 커먼즈 라이선스</a>를 동의하고 준수해야 합니다.<br/>
     각 프로젝트의 README파일에 자세한 내용이 있습니다.<br/></p>
   
     <p><b>번역, 스크립트, 웹 사이트, 그래픽 등을 위한 코드저장소：</b><br/></p>
@@ -222,7 +234,7 @@ $LANG = array(
     </p>
 ',
 
-'AUTHOR_CARREER_TITLE'				    => '7개의 내 경력구슬：',
+'AUTHOR_CARREER_TITLE'				    => '내 7개의 경력구슬：',
 'AUTHOR_CARREER_BUBBLE_DESCRIPTIONS'    => '<p>(그림내용 번역)</p>',
 
 ################################################################################
@@ -243,10 +255,10 @@ $LANG = array(
 'UTIL_NEXT_EPISODE'     =>  '다음 화',
 'UTIL_PREVIOUS_EPISODE' =>  '이전 화',
 'UTIL_EPISODE'   =>  '에피소드',
-'UTIL_BACK_TO_GALLERY'      =>  '갤러리로',
+'UTIL_BACK_TO_GALLERY'      =>  '목록으로',
 'UTIL_MORE'      =>  '더 보기',
 'UTIL_PAGE'      =>  '페이지',
-'UTIL_BY'        =>  '로',
+'UTIL_BY'        =>  '의',
 'UTIL_LICENSE'   =>  '저작권',
 'FIRST'        =>  '첫 화',
 'LAST'   =>  '최근 화',
