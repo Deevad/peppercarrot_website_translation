@@ -3,7 +3,7 @@
 $LANG = array(
 
 # Global
-'TRANSLATED_BY' 		=> '번역자: Remerer Jang',
+'TRANSLATED_BY' 		    => '번역자: Remerer Jang',
 'LANGUAGE_NAME' 			=> '한국어',
 'LANGUAGE_ISO_CODE_2_LETTER'=> 'ko',
 # http://www.w3schools.com/tags/ref_language_codes.asp --> full list
@@ -24,7 +24,7 @@ $LANG = array(
 'COMMUNITY'     =>  '커뮤니티',
 'WIKI'          =>  '위키',
 'SOURCES'       =>  '소스파일',
-'AUTHOR'        =>  '저자',
+'AUTHOR'        =>  '작가',
 'FOLLOW'        =>  '후추&amp;당근을 팔로우：',
 
 ################################################################################
@@ -37,18 +37,18 @@ $LANG = array(
 'HOMEPAGE_BIG_TEXT'		    =>  '
     무료 그리고 오픈소스인 이 웹툰은<br/>
     만화책 시장을 바꾸기위해서<br/>
-    후원사가 직접 후원합니다!<br/>
+    이곳에서 직접 후원할 수 있습니다!<br/>
 ',
-'HOMEPAGE_PATREON_INFO'     =>  '회차당 단돈 1달러면, Patreon으로 오늘 후원하실수 있습니다.',
+'HOMEPAGE_PATREON_INFO'     =>  '회차당 단돈 1달러면, Patreon에서 오늘 후원이이 되어보세요.',
 'HOMEPAGE_MOREINFO_BUTTON'  =>  '더 많은 내용',
 'HOMEPAGE_PATREON_BUTTON'   =>  '후추&amp;당근을 Patreon에서 후원하실 수 있습니다',
-'HOMEPAGE_PATREON_BOX'      =>  '후추&amp;당근을 이 곳에서 후원합니다:',
+'HOMEPAGE_PATREON_BOX'      =>  '후추&amp;당근을 이 곳에서 후원할 수 있습니다:',
 'HOMEPAGE_LAST_EPISODE'     =>  '최근 화：',
 'HOMEPAGE_NEWS_UPDATE'      =>  '뉴스와 업데이트：',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  '더 많은 게시물',
 'HOMEPAGE_MAINSERVICE_LINK' =>  'https://www.patreon.com/davidrevoy',
 'HOMEPAGE_SUPPORTED_BY'     =>  '후원자들.',
-'HOMEPAGE_ALTERNATIVES'     =>  '대안방안:',
+'HOMEPAGE_ALTERNATIVES'     =>  '또 다른 방법:',
 
 ################################################################################
 # Page : Webcomics
@@ -63,7 +63,7 @@ $LANG = array(
 ################################################################################
 # Page : Blog
 # An empty one in English (no need to warn user the content is english only here) :
-'LIMITATIONS' 	=> '이 페이지는 영문에서만 사용할 수 있습니다',
+# 'LIMITATIONS' 	=> '이 페이지는 영문에서만 사용할 수 있습니다',
 
 ################################################################################
 # Page: Philosophy
@@ -71,15 +71,10 @@ $LANG = array(
  <h2>후원자로부터의 지원</h2>
     
     <p>후추&amp;당근 프로젝트는 전 세계의 후원자들에게만 지원받고 있습니다.<br/>
-    각 후원자는 새로운 회차가 게시 될 때마다 약간의 돈을 보내고, 새 회차가 끝날 때 크레딧을 받습니다.<br/>
+    각 후원자는 새 에피소드가 게시 될 때마다 약간의 돈을 보내고, 새 에피소드의 마지막에 크레딧을 받습니다.<br/>
     이 시스템 덕분에 후추&amp;당근은 스스로 자립할 수 있고, 광고나 마케팅에 의해 더럽혀지지 않아도 됩니다.</p>
     
-    <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="새 회차당 단돈 1$，후추&amp;당근 Patreon(후원인)이 되어주세요">
-		후추&amp;당근을 오늘 만들 수 있게 도와주세요.
-	</a>.
-    </div>
-    
+',    
 'PHILOSOPHY_BOTTOM'    =>  '
             <img alt="Illustration représentant le mécénat moderne" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
         </a>
@@ -123,8 +118,9 @@ $LANG = array(
     발행인/배급사/마케팅/상점은 저에게 후추&amp;당근을 그들이 시장을 바라보는 시선으로 바꿀 수 없습니다.<br/>
     어째서 하나의 성공이 전체산업을 위협하는 신호가 될 수 없을까요? 우리 한번 해봅시다!</p>
     
-        <img alt="Illustration: l\'industrie de la BD VS financement par mécénat" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
     
+        <img alt="Illustration: comic book industry VS patreon support" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
+
     <p>읽어주셔서 감사합니다!<br/>
     David Revoy</p>
  
