@@ -3,7 +3,7 @@
 $LANG = array(
 
 # Global
-'TRANSLATED_BY' 		    => '번역자: Remerer Jang',
+'TRANSLATED_BY' 		    => '번역자: <a href="https://www.facebook.com/hongpyo.jang">Remerer Jang</a>',
 'LANGUAGE_NAME' 			=> '한국어',
 'LANGUAGE_ISO_CODE_2_LETTER'=> 'ko',
 # http://www.w3schools.com/tags/ref_language_codes.asp --> full list
@@ -25,7 +25,7 @@ $LANG = array(
 'WIKI'          =>  '위키',
 'SOURCES'       =>  '소스파일',
 'AUTHOR'        =>  '작가',
-'FOLLOW'        =>  '후추&amp;당근을 팔로우：',
+'FOLLOW'        =>  '후추&amp;당근을 팔로우하기：',
 
 ################################################################################
 # Top and bottom translation panel
@@ -36,7 +36,7 @@ $LANG = array(
 # Page : Homepage
 'HOMEPAGE_BIG_TEXT'		    =>  '
     무료 그리고 오픈소스인 이 웹툰은<br/>
-    만화책 시장을 바꾸기위해서<br/>
+    만화책 시장을 바꾸기 위해<br/>
     이곳에서 직접 후원할 수 있습니다!<br/>
 ',
 'HOMEPAGE_PATREON_INFO'     =>  '회차당 단돈 1달러면, Patreon에서 오늘 후원이이 되어보세요.',
@@ -55,7 +55,7 @@ $LANG = array(
 'WEBCOMIC_EPISODE'		    =>  '웹툰목록',
 'WEBCOMIC_MAKINGOF'		    =>  '제작후기',
 'WEBCOMIC_MAKINGOF_DESCRIPTION' =>  '
-    <p>제작후기와<a href="http://www.davidrevoy.com/categorie5/tutorials">습작들</a>은 특별히 제<a +href="https://www.patreon.com/davidrevoy">Patreons 으로 지원됩니다. &#39;heroes&#39;</a></p>
+    <p>제작후기와<a href="http://www.davidrevoy.com/categorie5/tutorials">습작들</a>은 특별히 제<a +href="https://www.patreon.com/davidrevoy">Patreons 으로 후원됩니다. &#39;heroes&#39;</a></p>
 ',
 'WEBCOMIC_ARTWORK'		    =>  '아트워크',
 'WEBCOMIC_SKETCHES'		    =>  '스케치',
@@ -80,8 +80,8 @@ $LANG = array(
 
     <h2>100% 무료, 영원히, 과금장벽 없음</h2>
     
-    <p>이 홈페이지의 제가 만든 후추&amp;당근의 모든 내용들은 자유롭게 사용 가능합니다<br/>
-    저는 당신들을 똑같이 존중합니다：후원을 하거나, 안하거나요. 모든 후원자들을 위한 특별한 보너스(자료)들은 이곳에도 게시됩니다. <br/>
+    <p>이 홈페이지의 제가 만든 후추&amp;당근의 모든 내용들은 자유롭게 사용 가능합니다.<br/>
+    저는 당신들을 똑같이 존중합니다：후원을 하거나, 안하거나요. <br/>모든 후원자들을 위한 특별한 보너스(자료)들은 이곳에도 게시됩니다. <br/>
     후추&amp;당근은 새로운 컨텐츠에 접근하거나 구독할때, 절대 지불을 요구하지 않습니다.</p>
     
         <img alt="Illustration représentant les péages du net" src="data/images/static/2015-02-09_philosophy_03-paywall.jpg">
@@ -91,7 +91,7 @@ $LANG = array(
     <p>저는 모든 사람들에게 제 작품을 공유하고, 사용하고, 만들고 심지어 돈을 벌 수 있는 권리를 주고 싶습니다.<br/>
     모든 페이지, 삽화 및 내용은 Gnu/Linux 의 무료 오픈소스 소프트웨어로 제작되었고, 모든 소스는 이 웹사이트의 &#39;소스&#39;탭에 있습니다.<br/>
     상업적 사용, 번역, 팬아트, 인쇄, 영화, 비디오게임, 공유 그리고 재게시를 권장합니다.<br/>
-    당신은 단지 저작자(아티스트, 교정가, 번역가, 당신이 사용하려는 아트워크의 번역자)에게 적절한 크레딧을 주고 라이선스에 대한 링크를 제공하고 변경사항여부만 나타내면 됩니다. 당신은 합리적으로 예의를 갖춰 그렇게 해도 되지만, 다만 그것이 저작자들이 당신이 어떻게 사용하던지 지지한다는 것을 의미하지는 않습니다.</p>
+    당신은 단지 저작자(아티스트, 교정가, 번역가, 당신이 사용하려는 아트워크의 번역자)에게 적절한 크레딧을 주고 라이선스에 대한 링크를 제공하고 변경사항여부만 나타내면 됩니다. 당신은 합리적으로 예의를 갖춰 그렇게 해도 되지만, 다만 그것이 저작자들이 당신이 저작물을 어떻게 사용하든지 지지한다는 것을 의미하지는 않습니다.</p>
     
     <div class="philobutton">
         <a href="https://creativecommons.org/licenses/by/4.0/deed.zh" title="자세한 정보를 원하시면, Creative Commons Attribution 4.0 을 읽어주세요">
@@ -104,8 +104,8 @@ $LANG = array(
     <h2>누구에게나, 어디서나 고품질의 엔터테인먼트 제공</h2>
     
     <p>후추&amp;당근은 전 연령층을 위한 코미디/유머 웹툰입니다.<br/>
-    성인용 컨텐츠는 없으며, 폭력 또한 없습니다. 자유로운 오픈소스인 후추&amp;당근은 오픈소스문화가 얼마나 멋진지를 잘 보여주는 사례중 하나 입니다.<br/>
-    무료 및 오픈소스가 아마추어나 썩 좋지 못하다는 것을 의미하지는 않기 때문에 저는 품질에 초점을 맞추고 있습니다. 전혀 다른것이죠!</p>
+    성인용 컨텐츠는 없으며, 폭력 또한 없습니다. <br/>오픈소스인 후추&amp;당근은 오픈소스문화가 얼마나 멋진지를 잘 보여주는 사례중 하나 입니다.<br/>
+    무료 및 오픈소스가 아마추어나 썩 좋지 못하다는 것을 의미하지는 않기 때문에 저는 품질에 초점을 맞추고 있습니다. <br/>전혀 다른것이죠!</p>
 
         <img alt="Illustration pour tous" src="data/images/static/2015-02-09_philosophy_05-everyone.jpg">
 
@@ -134,7 +134,7 @@ $LANG = array(
 'CONTRIBUTE_TITLE'		=> '기부',
 'CONTRIBUTE_TOP'		=> '
     <p><a href="?static6/sources" title="Sources page">오픈소스</a> 와 <a href="http://creativecommons.org/licenses/by/4.0/">
-    크리에이티브 커먼즈 라이선스</a> 덕분에 당신은 후추&amp;당근을 많은 방법으로 후원할 수 있습니다.:</p>
+    크리에이티브 커먼즈 라이선스</a> 덕분에 후추&amp;당근을 많은 방법으로 후원할 수 있습니다:</p>
 ',
 'CONTRIBUTE_DONATION'		=> '           
     <h2>후원 및 기부</h2> 
@@ -147,7 +147,7 @@ $LANG = array(
 'CONTRIBUTE_FANART'	    => '
     <h2>팬아트</h2>
 
-    <p>후추&amp;당근은 팬아트에게 열려있습니다：이모티콘, 대본，팬픽, 3D모델링 등...저에게 보내주세요 : (<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a>，혹은 제 SNS를 통해 말해주세요), 그러면 팬아트갤러리에 게시해 드릴 수 있습니다:</p>
+    <p>후추&amp;당근은 팬아트에게 열려있습니다：이모티콘, 대본，팬픽, 3D모델링 등...저에게 보내주세요 (<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a>，혹은 제 SNS를 통해 말해주세요) 그러면 팬아트갤러리에 게시해 드릴 수 있습니다 :</p>
 ',
 'CONTRIBUTE_DERIVATIONS' => '
     <h2>2차 창작물</h2>
@@ -158,7 +158,7 @@ $LANG = array(
 'CONTRIBUTE_TRANSLATION'	    => '
     <h2>번역 및 수정</h2>
 
-    <p>후추&amp;당근 웹사이트는 다국어로 되어 있으며, 모든언어(사멸어 혹은 가상어, 인공어포함)를 허용합니다. 이 페이지의 출처는 번역할 수 있습니다. 번역 추가 방법에 대한 자세한 내용은<a href="index.php?fr/article267/translation-tutorial">참조 안내서</a>를 확인하세요.</p>
+    <p>후추&amp;당근 웹사이트는 다국어로 되어 있으며, 모든언어 (사멸어 혹은 가상어, 인공어포함)를 허용합니다. 이 페이지의 출처는 번역할 수 있습니다. 번역 추가 방법에 대한 자세한 내용은<a href="index.php?fr/article267/translation-tutorial">참조 안내서</a>를 확인하세요.</p>
 ',
 
 'CONTRIBUTE_SOCIAL'	    => '소셜네트워크:',
@@ -166,7 +166,7 @@ $LANG = array(
 'CONTRIBUTE_PRESS'	    => '
     <h2>출판:</h2>
 
-    <p>후추&당근의 발행인이 되어주세요! 기사를 작성하고, 웹사이트에 게시물을 올리고, 당신이 좋아하는 SNS에서 커뮤니티를 구축하고 내용을 공유하세요. <a href="?static6/sources" title="Sources page">보도자료</a>들은 "소스파일" 탭에서 받으실 수 있습니다..</p>
+    <p>후추&당근의 발행인이 되어주세요! 기사를 작성하고, 웹사이트에 게시물을 올리고, 당신이 좋아하는 SNS에서 커뮤니티를 구축하고 내용을 공유하세요. <a href="?static6/sources" title="Sources page">프레스 킷</a>은 "소스파일" 탭에서 받으실 수 있습니다..</p>
 ',
 
 'CONTRIBUTE_OTHER'	    => '
@@ -213,11 +213,11 @@ $LANG = array(
 # Page : Author
 'AUTHOR_TITLE'		    => '작가 David Revoy',
 'AUTHOR_BIO'	        => '
-    <p>안녕하세요，제 이름은 David Revoy 이고 1981년생인 프랑스 예술가입니다. 저는 드로잉, 페인팅, 고양이, 컴퓨터, Gnu/Linux 오픈소스문화, 인터넷, 고전학교 RPG 비디오게임, 고전 만화와 애니메이션, 전통예술, 일본문화, 판타지를 좋아하고 배우고 있습니다.<br />
+    <p>안녕하세요，제 이름은 David Revoy 이고 1981년생인 프랑스 예술가입니다. 저는 드로잉, 페인팅, 고양이, 컴퓨터, Gnu/Linux 오픈소스문화, 인터넷, 고전학교 RPG 비디오게임, 고전 만화와 애니메이션, 전통예술, 일본문화, 판타지를 좋아해서 독학하고 있습니다.<br />
     <br />
-    프리랜서로 디지털페인팅, 강의, 컨셉아트, 일러스트레이션, 아트디렉션분야에서 10년 이상 경력을 쌓은 후, 저는 제 프로젝트를 시작하기로 결정했습니다. 그리고 마침내 저는 모든열정을 하나로 모을 수 있는 방법을 찾앚고 그 결과가 후추&amp;당근 입니다.</p>
+    프리랜서로 디지털페인팅, 강의, 컨셉아트, 일러스트레이션, 아트디렉션분야에서 10년 이상 경력을 쌓은 후, 저는 제 프로젝트를 시작하기로 결정했습니다. 그리고 마침내 저는 모든열정을 하나로 모을 수 있는 방법을 찾앚고, 그 결과가 후추&amp;당근 입니다.</p>
     
-    <p>포트폴리오：</p>
+    <p>나의 포트폴리오：</p>
 ',
 'AUTHOR_TODO_DREAM'	    => '
     <h3>꿈 실천목록：</h3>
@@ -247,7 +247,7 @@ $LANG = array(
     <p>웹툰과 작품 그리고 모든 글은 <a href="https://creativecommons.org/licenses/by/4.0/deed.zh" title="자세한 내용을 원하신다면, Creative Commons Attribution 4.0 을 참조하십시오">Creative Commons Attribution 4.0</a>라이선스를 따르며, 이 외의 경우에는 홈페이지에 별도로 표기됩니다.<br/>
     작가：David Revoy，www.davidrevoy.com 더 많은 정보를 원하신다면，<a href="mailto:info@davidrevoy.com">info@davidrevoy.com</a>로 연락주세요.</p>
     
-    <p>이 웹사이트는<a href="http://www.pluxml.org" title="PlXml">PluXml</a>에서 제공합니다</p> 
+    <p>이 웹사이트는 <a href="http://www.pluxml.org" title="PlXml">PluXml</a>에서 제공합니다</p> 
 ',
 
 ################################################################################
@@ -258,10 +258,11 @@ $LANG = array(
 'UTIL_BACK_TO_GALLERY'      =>  '목록으로',
 'UTIL_MORE'      =>  '더 보기',
 'UTIL_PAGE'      =>  '페이지',
+'UTIL_DOT'		 =>  '.',
 'UTIL_BY'        =>  '의',
 'UTIL_LICENSE'   =>  '저작권',
 'FIRST'        =>  '첫 화',
 'LAST'   =>  '최근 화',
 
 );
-?> 
+?>
